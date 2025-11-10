@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\CS-Basics\For - cicle\01.From number 1-100\bin\Debug\net5.0\01.From number 1-100.exe
+C:\Users\why19\Desktop\CS-Basics\For - cicle\01.From number 1-100\bin\Debug\net5.0\01.From number 1-100.deps.json
+C:\Users\why19\Desktop\CS-Basics\For - cicle\01.From number 1-100\bin\Debug\net5.0\01.From number 1-100.runtimeconfig.json
+C:\Users\why19\Desktop\CS-Basics\For - cicle\01.From number 1-100\bin\Debug\net5.0\01.From number 1-100.runtimeconfig.dev.json
+C:\Users\why19\Desktop\CS-Basics\For - cicle\01.From number 1-100\bin\Debug\net5.0\01.From number 1-100.dll
+C:\Users\why19\Desktop\CS-Basics\For - cicle\01.From number 1-100\bin\Debug\net5.0\01.From number 1-100.pdb
+C:\Users\why19\Desktop\CS-Basics\For - cicle\01.From number 1-100\obj\Debug\net5.0\01.From number 1-100.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\CS-Basics\For - cicle\01.From number 1-100\obj\Debug\net5.0\01.From number 1-100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\CS-Basics\For - cicle\01.From number 1-100\obj\Debug\net5.0\01.From number 1-100.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\CS-Basics\For - cicle\01.From number 1-100\obj\Debug\net5.0\01.From number 1-100.AssemblyInfo.cs
+C:\Users\why19\Desktop\CS-Basics\For - cicle\01.From number 1-100\obj\Debug\net5.0\01.From number 1-100.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\CS-Basics\For - cicle\01.From number 1-100\obj\Debug\net5.0\01.From number 1-100.dll
+C:\Users\why19\Desktop\CS-Basics\For - cicle\01.From number 1-100\obj\Debug\net5.0\refint\01.From number 1-100.dll
+C:\Users\why19\Desktop\CS-Basics\For - cicle\01.From number 1-100\obj\Debug\net5.0\01.From number 1-100.pdb
+C:\Users\why19\Desktop\CS-Basics\For - cicle\01.From number 1-100\obj\Debug\net5.0\01.From number 1-100.genruntimeconfig.cache
+C:\Users\why19\Desktop\CS-Basics\For - cicle\01.From number 1-100\obj\Debug\net5.0\ref\01.From number 1-100.dll

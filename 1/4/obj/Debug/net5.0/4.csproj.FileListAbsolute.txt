@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\CS-Basics\1\4\bin\Debug\net5.0\4.exe
+C:\Users\why19\Desktop\CS-Basics\1\4\bin\Debug\net5.0\4.deps.json
+C:\Users\why19\Desktop\CS-Basics\1\4\bin\Debug\net5.0\4.runtimeconfig.json
+C:\Users\why19\Desktop\CS-Basics\1\4\bin\Debug\net5.0\4.runtimeconfig.dev.json
+C:\Users\why19\Desktop\CS-Basics\1\4\bin\Debug\net5.0\4.dll
+C:\Users\why19\Desktop\CS-Basics\1\4\bin\Debug\net5.0\4.pdb
+C:\Users\why19\Desktop\CS-Basics\1\4\obj\Debug\net5.0\4.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\CS-Basics\1\4\obj\Debug\net5.0\4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\CS-Basics\1\4\obj\Debug\net5.0\4.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\CS-Basics\1\4\obj\Debug\net5.0\4.AssemblyInfo.cs
+C:\Users\why19\Desktop\CS-Basics\1\4\obj\Debug\net5.0\4.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\CS-Basics\1\4\obj\Debug\net5.0\4.dll
+C:\Users\why19\Desktop\CS-Basics\1\4\obj\Debug\net5.0\refint\4.dll
+C:\Users\why19\Desktop\CS-Basics\1\4\obj\Debug\net5.0\4.pdb
+C:\Users\why19\Desktop\CS-Basics\1\4\obj\Debug\net5.0\4.genruntimeconfig.cache
+C:\Users\why19\Desktop\CS-Basics\1\4\obj\Debug\net5.0\ref\4.dll

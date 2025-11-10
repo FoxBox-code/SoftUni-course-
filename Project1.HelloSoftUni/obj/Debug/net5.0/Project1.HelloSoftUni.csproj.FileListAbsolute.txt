@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\CS-Basics\Project1.HelloSoftUni\bin\Debug\net5.0\Project1.HelloSoftUni.exe
+C:\Users\why19\Desktop\CS-Basics\Project1.HelloSoftUni\bin\Debug\net5.0\Project1.HelloSoftUni.deps.json
+C:\Users\why19\Desktop\CS-Basics\Project1.HelloSoftUni\bin\Debug\net5.0\Project1.HelloSoftUni.runtimeconfig.json
+C:\Users\why19\Desktop\CS-Basics\Project1.HelloSoftUni\bin\Debug\net5.0\Project1.HelloSoftUni.runtimeconfig.dev.json
+C:\Users\why19\Desktop\CS-Basics\Project1.HelloSoftUni\bin\Debug\net5.0\Project1.HelloSoftUni.dll
+C:\Users\why19\Desktop\CS-Basics\Project1.HelloSoftUni\bin\Debug\net5.0\Project1.HelloSoftUni.pdb
+C:\Users\why19\Desktop\CS-Basics\Project1.HelloSoftUni\obj\Debug\net5.0\Project1.HelloSoftUni.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\CS-Basics\Project1.HelloSoftUni\obj\Debug\net5.0\Project1.HelloSoftUni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\CS-Basics\Project1.HelloSoftUni\obj\Debug\net5.0\Project1.HelloSoftUni.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\CS-Basics\Project1.HelloSoftUni\obj\Debug\net5.0\Project1.HelloSoftUni.AssemblyInfo.cs
+C:\Users\why19\Desktop\CS-Basics\Project1.HelloSoftUni\obj\Debug\net5.0\Project1.HelloSoftUni.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\CS-Basics\Project1.HelloSoftUni\obj\Debug\net5.0\Project1.HelloSoftUni.dll
+C:\Users\why19\Desktop\CS-Basics\Project1.HelloSoftUni\obj\Debug\net5.0\refint\Project1.HelloSoftUni.dll
+C:\Users\why19\Desktop\CS-Basics\Project1.HelloSoftUni\obj\Debug\net5.0\Project1.HelloSoftUni.pdb
+C:\Users\why19\Desktop\CS-Basics\Project1.HelloSoftUni\obj\Debug\net5.0\Project1.HelloSoftUni.genruntimeconfig.cache
+C:\Users\why19\Desktop\CS-Basics\Project1.HelloSoftUni\obj\Debug\net5.0\ref\Project1.HelloSoftUni.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Bigger nubmer 1.02/1.0.0": {
+        "runtime": {
+          "Bigger nubmer 1.02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bigger nubmer 1.02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

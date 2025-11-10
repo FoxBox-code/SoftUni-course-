@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\06\bin\Debug\net5.0\06.exe
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\06\bin\Debug\net5.0\06.deps.json
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\06\bin\Debug\net5.0\06.runtimeconfig.json
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\06\bin\Debug\net5.0\06.runtimeconfig.dev.json
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\06\bin\Debug\net5.0\06.dll
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\06\bin\Debug\net5.0\06.pdb
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\06\obj\Debug\net5.0\06.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\06\obj\Debug\net5.0\06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\06\obj\Debug\net5.0\06.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\06\obj\Debug\net5.0\06.AssemblyInfo.cs
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\06\obj\Debug\net5.0\06.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\06\obj\Debug\net5.0\06.dll
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\06\obj\Debug\net5.0\refint\06.dll
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\06\obj\Debug\net5.0\06.pdb
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\06\obj\Debug\net5.0\06.genruntimeconfig.cache
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\06\obj\Debug\net5.0\ref\06.dll

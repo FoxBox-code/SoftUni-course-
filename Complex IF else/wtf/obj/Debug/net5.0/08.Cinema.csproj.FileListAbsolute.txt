@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\wtf\bin\Debug\net5.0\08.Cinema.exe
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\wtf\bin\Debug\net5.0\08.Cinema.deps.json
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\wtf\bin\Debug\net5.0\08.Cinema.runtimeconfig.json
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\wtf\bin\Debug\net5.0\08.Cinema.runtimeconfig.dev.json
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\wtf\bin\Debug\net5.0\08.Cinema.dll
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\wtf\bin\Debug\net5.0\08.Cinema.pdb
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\wtf\obj\Debug\net5.0\08.Cinema.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\wtf\obj\Debug\net5.0\08.Cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\wtf\obj\Debug\net5.0\08.Cinema.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\wtf\obj\Debug\net5.0\08.Cinema.AssemblyInfo.cs
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\wtf\obj\Debug\net5.0\08.Cinema.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\wtf\obj\Debug\net5.0\08.Cinema.dll
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\wtf\obj\Debug\net5.0\refint\08.Cinema.dll
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\wtf\obj\Debug\net5.0\08.Cinema.pdb
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\wtf\obj\Debug\net5.0\08.Cinema.genruntimeconfig.cache
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\wtf\obj\Debug\net5.0\ref\08.Cinema.dll

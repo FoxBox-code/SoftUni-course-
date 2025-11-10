@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\CS-Basics\ForWhileCycle\Sum\bin\Debug\net5.0\Sum.exe
+C:\Users\why19\Desktop\CS-Basics\ForWhileCycle\Sum\bin\Debug\net5.0\Sum.deps.json
+C:\Users\why19\Desktop\CS-Basics\ForWhileCycle\Sum\bin\Debug\net5.0\Sum.runtimeconfig.json
+C:\Users\why19\Desktop\CS-Basics\ForWhileCycle\Sum\bin\Debug\net5.0\Sum.runtimeconfig.dev.json
+C:\Users\why19\Desktop\CS-Basics\ForWhileCycle\Sum\bin\Debug\net5.0\Sum.dll
+C:\Users\why19\Desktop\CS-Basics\ForWhileCycle\Sum\bin\Debug\net5.0\Sum.pdb
+C:\Users\why19\Desktop\CS-Basics\ForWhileCycle\Sum\obj\Debug\net5.0\Sum.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\CS-Basics\ForWhileCycle\Sum\obj\Debug\net5.0\Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\CS-Basics\ForWhileCycle\Sum\obj\Debug\net5.0\Sum.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\CS-Basics\ForWhileCycle\Sum\obj\Debug\net5.0\Sum.AssemblyInfo.cs
+C:\Users\why19\Desktop\CS-Basics\ForWhileCycle\Sum\obj\Debug\net5.0\Sum.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\CS-Basics\ForWhileCycle\Sum\obj\Debug\net5.0\Sum.dll
+C:\Users\why19\Desktop\CS-Basics\ForWhileCycle\Sum\obj\Debug\net5.0\refint\Sum.dll
+C:\Users\why19\Desktop\CS-Basics\ForWhileCycle\Sum\obj\Debug\net5.0\Sum.pdb
+C:\Users\why19\Desktop\CS-Basics\ForWhileCycle\Sum\obj\Debug\net5.0\Sum.genruntimeconfig.cache
+C:\Users\why19\Desktop\CS-Basics\ForWhileCycle\Sum\obj\Debug\net5.0\ref\Sum.dll

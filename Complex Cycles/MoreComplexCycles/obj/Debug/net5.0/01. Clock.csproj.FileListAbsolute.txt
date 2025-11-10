@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\CS-Basics\Clock\MoreComplexCycles\bin\Debug\net5.0\01. Clock.exe
+C:\Users\why19\Desktop\CS-Basics\Clock\MoreComplexCycles\bin\Debug\net5.0\01. Clock.deps.json
+C:\Users\why19\Desktop\CS-Basics\Clock\MoreComplexCycles\bin\Debug\net5.0\01. Clock.runtimeconfig.json
+C:\Users\why19\Desktop\CS-Basics\Clock\MoreComplexCycles\bin\Debug\net5.0\01. Clock.runtimeconfig.dev.json
+C:\Users\why19\Desktop\CS-Basics\Clock\MoreComplexCycles\bin\Debug\net5.0\01. Clock.dll
+C:\Users\why19\Desktop\CS-Basics\Clock\MoreComplexCycles\bin\Debug\net5.0\01. Clock.pdb
+C:\Users\why19\Desktop\CS-Basics\Clock\MoreComplexCycles\obj\Debug\net5.0\01. Clock.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\CS-Basics\Clock\MoreComplexCycles\obj\Debug\net5.0\01. Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\CS-Basics\Clock\MoreComplexCycles\obj\Debug\net5.0\01. Clock.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\CS-Basics\Clock\MoreComplexCycles\obj\Debug\net5.0\01. Clock.AssemblyInfo.cs
+C:\Users\why19\Desktop\CS-Basics\Clock\MoreComplexCycles\obj\Debug\net5.0\01. Clock.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\CS-Basics\Clock\MoreComplexCycles\obj\Debug\net5.0\01. Clock.dll
+C:\Users\why19\Desktop\CS-Basics\Clock\MoreComplexCycles\obj\Debug\net5.0\refint\01. Clock.dll
+C:\Users\why19\Desktop\CS-Basics\Clock\MoreComplexCycles\obj\Debug\net5.0\01. Clock.pdb
+C:\Users\why19\Desktop\CS-Basics\Clock\MoreComplexCycles\obj\Debug\net5.0\01. Clock.genruntimeconfig.cache
+C:\Users\why19\Desktop\CS-Basics\Clock\MoreComplexCycles\obj\Debug\net5.0\ref\01. Clock.dll

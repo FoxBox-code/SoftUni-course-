@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\02. Football Results\bin\Debug\net5.0\02. Football Results.exe
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\02. Football Results\bin\Debug\net5.0\02. Football Results.deps.json
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\02. Football Results\bin\Debug\net5.0\02. Football Results.runtimeconfig.json
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\02. Football Results\bin\Debug\net5.0\02. Football Results.runtimeconfig.dev.json
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\02. Football Results\bin\Debug\net5.0\02. Football Results.dll
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\02. Football Results\bin\Debug\net5.0\02. Football Results.pdb
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\02. Football Results\obj\Debug\net5.0\02. Football Results.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\02. Football Results\obj\Debug\net5.0\02. Football Results.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\02. Football Results\obj\Debug\net5.0\02. Football Results.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\02. Football Results\obj\Debug\net5.0\02. Football Results.AssemblyInfo.cs
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\02. Football Results\obj\Debug\net5.0\02. Football Results.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\02. Football Results\obj\Debug\net5.0\02. Football Results.dll
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\02. Football Results\obj\Debug\net5.0\refint\02. Football Results.dll
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\02. Football Results\obj\Debug\net5.0\02. Football Results.pdb
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\02. Football Results\obj\Debug\net5.0\02. Football Results.genruntimeconfig.cache
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\02. Football Results\obj\Debug\net5.0\ref\02. Football Results.dll

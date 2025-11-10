@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\CS-Basics\ForWhileCycle\ForWhileCycle\bin\Debug\net5.0\01. Read Text.exe
+C:\Users\why19\Desktop\CS-Basics\ForWhileCycle\ForWhileCycle\bin\Debug\net5.0\01. Read Text.deps.json
+C:\Users\why19\Desktop\CS-Basics\ForWhileCycle\ForWhileCycle\bin\Debug\net5.0\01. Read Text.runtimeconfig.json
+C:\Users\why19\Desktop\CS-Basics\ForWhileCycle\ForWhileCycle\bin\Debug\net5.0\01. Read Text.runtimeconfig.dev.json
+C:\Users\why19\Desktop\CS-Basics\ForWhileCycle\ForWhileCycle\bin\Debug\net5.0\01. Read Text.dll
+C:\Users\why19\Desktop\CS-Basics\ForWhileCycle\ForWhileCycle\bin\Debug\net5.0\01. Read Text.pdb
+C:\Users\why19\Desktop\CS-Basics\ForWhileCycle\ForWhileCycle\obj\Debug\net5.0\01. Read Text.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\CS-Basics\ForWhileCycle\ForWhileCycle\obj\Debug\net5.0\01. Read Text.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\CS-Basics\ForWhileCycle\ForWhileCycle\obj\Debug\net5.0\01. Read Text.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\CS-Basics\ForWhileCycle\ForWhileCycle\obj\Debug\net5.0\01. Read Text.AssemblyInfo.cs
+C:\Users\why19\Desktop\CS-Basics\ForWhileCycle\ForWhileCycle\obj\Debug\net5.0\01. Read Text.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\CS-Basics\ForWhileCycle\ForWhileCycle\obj\Debug\net5.0\01. Read Text.dll
+C:\Users\why19\Desktop\CS-Basics\ForWhileCycle\ForWhileCycle\obj\Debug\net5.0\refint\01. Read Text.dll
+C:\Users\why19\Desktop\CS-Basics\ForWhileCycle\ForWhileCycle\obj\Debug\net5.0\01. Read Text.pdb
+C:\Users\why19\Desktop\CS-Basics\ForWhileCycle\ForWhileCycle\obj\Debug\net5.0\01. Read Text.genruntimeconfig.cache
+C:\Users\why19\Desktop\CS-Basics\ForWhileCycle\ForWhileCycle\obj\Debug\net5.0\ref\01. Read Text.dll

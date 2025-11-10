@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\05. Tennis Ranklist\bin\Debug\net5.0\05. Tennis Ranklist.exe
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\05. Tennis Ranklist\bin\Debug\net5.0\05. Tennis Ranklist.deps.json
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\05. Tennis Ranklist\bin\Debug\net5.0\05. Tennis Ranklist.runtimeconfig.json
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\05. Tennis Ranklist\bin\Debug\net5.0\05. Tennis Ranklist.runtimeconfig.dev.json
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\05. Tennis Ranklist\bin\Debug\net5.0\05. Tennis Ranklist.dll
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\05. Tennis Ranklist\bin\Debug\net5.0\05. Tennis Ranklist.pdb
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\05. Tennis Ranklist\obj\Debug\net5.0\05. Tennis Ranklist.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\05. Tennis Ranklist\obj\Debug\net5.0\05. Tennis Ranklist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\05. Tennis Ranklist\obj\Debug\net5.0\05. Tennis Ranklist.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\05. Tennis Ranklist\obj\Debug\net5.0\05. Tennis Ranklist.AssemblyInfo.cs
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\05. Tennis Ranklist\obj\Debug\net5.0\05. Tennis Ranklist.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\05. Tennis Ranklist\obj\Debug\net5.0\05. Tennis Ranklist.dll
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\05. Tennis Ranklist\obj\Debug\net5.0\refint\05. Tennis Ranklist.dll
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\05. Tennis Ranklist\obj\Debug\net5.0\05. Tennis Ranklist.pdb
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\05. Tennis Ranklist\obj\Debug\net5.0\05. Tennis Ranklist.genruntimeconfig.cache
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\05. Tennis Ranklist\obj\Debug\net5.0\ref\05. Tennis Ranklist.dll

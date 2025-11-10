@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\CS-Basics\Exam test\05. Care of Puppy\bin\Debug\net5.0\05. Care of Puppy.exe
+C:\Users\why19\Desktop\CS-Basics\Exam test\05. Care of Puppy\bin\Debug\net5.0\05. Care of Puppy.deps.json
+C:\Users\why19\Desktop\CS-Basics\Exam test\05. Care of Puppy\bin\Debug\net5.0\05. Care of Puppy.runtimeconfig.json
+C:\Users\why19\Desktop\CS-Basics\Exam test\05. Care of Puppy\bin\Debug\net5.0\05. Care of Puppy.runtimeconfig.dev.json
+C:\Users\why19\Desktop\CS-Basics\Exam test\05. Care of Puppy\bin\Debug\net5.0\05. Care of Puppy.dll
+C:\Users\why19\Desktop\CS-Basics\Exam test\05. Care of Puppy\bin\Debug\net5.0\05. Care of Puppy.pdb
+C:\Users\why19\Desktop\CS-Basics\Exam test\05. Care of Puppy\obj\Debug\net5.0\05. Care of Puppy.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\CS-Basics\Exam test\05. Care of Puppy\obj\Debug\net5.0\05. Care of Puppy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\CS-Basics\Exam test\05. Care of Puppy\obj\Debug\net5.0\05. Care of Puppy.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\CS-Basics\Exam test\05. Care of Puppy\obj\Debug\net5.0\05. Care of Puppy.AssemblyInfo.cs
+C:\Users\why19\Desktop\CS-Basics\Exam test\05. Care of Puppy\obj\Debug\net5.0\05. Care of Puppy.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\CS-Basics\Exam test\05. Care of Puppy\obj\Debug\net5.0\05. Care of Puppy.dll
+C:\Users\why19\Desktop\CS-Basics\Exam test\05. Care of Puppy\obj\Debug\net5.0\refint\05. Care of Puppy.dll
+C:\Users\why19\Desktop\CS-Basics\Exam test\05. Care of Puppy\obj\Debug\net5.0\05. Care of Puppy.pdb
+C:\Users\why19\Desktop\CS-Basics\Exam test\05. Care of Puppy\obj\Debug\net5.0\05. Care of Puppy.genruntimeconfig.cache
+C:\Users\why19\Desktop\CS-Basics\Exam test\05. Care of Puppy\obj\Debug\net5.0\ref\05. Care of Puppy.dll

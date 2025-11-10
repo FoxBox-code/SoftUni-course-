@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\CS-Basics\For - cicle\05. Character Sequence\bin\Debug\net5.0\05. Character Sequence.exe
+C:\Users\why19\Desktop\CS-Basics\For - cicle\05. Character Sequence\bin\Debug\net5.0\05. Character Sequence.deps.json
+C:\Users\why19\Desktop\CS-Basics\For - cicle\05. Character Sequence\bin\Debug\net5.0\05. Character Sequence.runtimeconfig.json
+C:\Users\why19\Desktop\CS-Basics\For - cicle\05. Character Sequence\bin\Debug\net5.0\05. Character Sequence.runtimeconfig.dev.json
+C:\Users\why19\Desktop\CS-Basics\For - cicle\05. Character Sequence\bin\Debug\net5.0\05. Character Sequence.dll
+C:\Users\why19\Desktop\CS-Basics\For - cicle\05. Character Sequence\bin\Debug\net5.0\05. Character Sequence.pdb
+C:\Users\why19\Desktop\CS-Basics\For - cicle\05. Character Sequence\obj\Debug\net5.0\05. Character Sequence.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\CS-Basics\For - cicle\05. Character Sequence\obj\Debug\net5.0\05. Character Sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\CS-Basics\For - cicle\05. Character Sequence\obj\Debug\net5.0\05. Character Sequence.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\CS-Basics\For - cicle\05. Character Sequence\obj\Debug\net5.0\05. Character Sequence.AssemblyInfo.cs
+C:\Users\why19\Desktop\CS-Basics\For - cicle\05. Character Sequence\obj\Debug\net5.0\05. Character Sequence.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\CS-Basics\For - cicle\05. Character Sequence\obj\Debug\net5.0\05. Character Sequence.dll
+C:\Users\why19\Desktop\CS-Basics\For - cicle\05. Character Sequence\obj\Debug\net5.0\refint\05. Character Sequence.dll
+C:\Users\why19\Desktop\CS-Basics\For - cicle\05. Character Sequence\obj\Debug\net5.0\05. Character Sequence.pdb
+C:\Users\why19\Desktop\CS-Basics\For - cicle\05. Character Sequence\obj\Debug\net5.0\05. Character Sequence.genruntimeconfig.cache
+C:\Users\why19\Desktop\CS-Basics\For - cicle\05. Character Sequence\obj\Debug\net5.0\ref\05. Character Sequence.dll

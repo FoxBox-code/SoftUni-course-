@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\CS-Basics\Exam test\03. Film Premiere\bin\Debug\net5.0\03. Film Premiere.exe
+C:\Users\why19\Desktop\CS-Basics\Exam test\03. Film Premiere\bin\Debug\net5.0\03. Film Premiere.deps.json
+C:\Users\why19\Desktop\CS-Basics\Exam test\03. Film Premiere\bin\Debug\net5.0\03. Film Premiere.runtimeconfig.json
+C:\Users\why19\Desktop\CS-Basics\Exam test\03. Film Premiere\bin\Debug\net5.0\03. Film Premiere.runtimeconfig.dev.json
+C:\Users\why19\Desktop\CS-Basics\Exam test\03. Film Premiere\bin\Debug\net5.0\03. Film Premiere.dll
+C:\Users\why19\Desktop\CS-Basics\Exam test\03. Film Premiere\bin\Debug\net5.0\03. Film Premiere.pdb
+C:\Users\why19\Desktop\CS-Basics\Exam test\03. Film Premiere\obj\Debug\net5.0\03. Film Premiere.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\CS-Basics\Exam test\03. Film Premiere\obj\Debug\net5.0\03. Film Premiere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\CS-Basics\Exam test\03. Film Premiere\obj\Debug\net5.0\03. Film Premiere.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\CS-Basics\Exam test\03. Film Premiere\obj\Debug\net5.0\03. Film Premiere.AssemblyInfo.cs
+C:\Users\why19\Desktop\CS-Basics\Exam test\03. Film Premiere\obj\Debug\net5.0\03. Film Premiere.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\CS-Basics\Exam test\03. Film Premiere\obj\Debug\net5.0\03. Film Premiere.dll
+C:\Users\why19\Desktop\CS-Basics\Exam test\03. Film Premiere\obj\Debug\net5.0\refint\03. Film Premiere.dll
+C:\Users\why19\Desktop\CS-Basics\Exam test\03. Film Premiere\obj\Debug\net5.0\03. Film Premiere.pdb
+C:\Users\why19\Desktop\CS-Basics\Exam test\03. Film Premiere\obj\Debug\net5.0\03. Film Premiere.genruntimeconfig.cache
+C:\Users\why19\Desktop\CS-Basics\Exam test\03. Film Premiere\obj\Debug\net5.0\ref\03. Film Premiere.dll

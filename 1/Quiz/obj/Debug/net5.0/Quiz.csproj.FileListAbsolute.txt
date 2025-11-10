@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\CS-Basics\1\Quiz\bin\Debug\net5.0\Quiz.exe
+C:\Users\why19\Desktop\CS-Basics\1\Quiz\bin\Debug\net5.0\Quiz.deps.json
+C:\Users\why19\Desktop\CS-Basics\1\Quiz\bin\Debug\net5.0\Quiz.runtimeconfig.json
+C:\Users\why19\Desktop\CS-Basics\1\Quiz\bin\Debug\net5.0\Quiz.runtimeconfig.dev.json
+C:\Users\why19\Desktop\CS-Basics\1\Quiz\bin\Debug\net5.0\Quiz.dll
+C:\Users\why19\Desktop\CS-Basics\1\Quiz\bin\Debug\net5.0\Quiz.pdb
+C:\Users\why19\Desktop\CS-Basics\1\Quiz\obj\Debug\net5.0\Quiz.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\CS-Basics\1\Quiz\obj\Debug\net5.0\Quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\CS-Basics\1\Quiz\obj\Debug\net5.0\Quiz.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\CS-Basics\1\Quiz\obj\Debug\net5.0\Quiz.AssemblyInfo.cs
+C:\Users\why19\Desktop\CS-Basics\1\Quiz\obj\Debug\net5.0\Quiz.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\CS-Basics\1\Quiz\obj\Debug\net5.0\Quiz.dll
+C:\Users\why19\Desktop\CS-Basics\1\Quiz\obj\Debug\net5.0\refint\Quiz.dll
+C:\Users\why19\Desktop\CS-Basics\1\Quiz\obj\Debug\net5.0\Quiz.pdb
+C:\Users\why19\Desktop\CS-Basics\1\Quiz\obj\Debug\net5.0\Quiz.genruntimeconfig.cache
+C:\Users\why19\Desktop\CS-Basics\1\Quiz\obj\Debug\net5.0\ref\Quiz.dll

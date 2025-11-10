@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\01. Basketball Equipment\bin\Debug\net5.0\01. Basketball Equipment.exe
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\01. Basketball Equipment\bin\Debug\net5.0\01. Basketball Equipment.deps.json
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\01. Basketball Equipment\bin\Debug\net5.0\01. Basketball Equipment.runtimeconfig.json
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\01. Basketball Equipment\bin\Debug\net5.0\01. Basketball Equipment.runtimeconfig.dev.json
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\01. Basketball Equipment\bin\Debug\net5.0\01. Basketball Equipment.dll
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\01. Basketball Equipment\bin\Debug\net5.0\01. Basketball Equipment.pdb
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\01. Basketball Equipment\obj\Debug\net5.0\01. Basketball Equipment.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\01. Basketball Equipment\obj\Debug\net5.0\01. Basketball Equipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\01. Basketball Equipment\obj\Debug\net5.0\01. Basketball Equipment.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\01. Basketball Equipment\obj\Debug\net5.0\01. Basketball Equipment.AssemblyInfo.cs
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\01. Basketball Equipment\obj\Debug\net5.0\01. Basketball Equipment.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\01. Basketball Equipment\obj\Debug\net5.0\01. Basketball Equipment.dll
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\01. Basketball Equipment\obj\Debug\net5.0\refint\01. Basketball Equipment.dll
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\01. Basketball Equipment\obj\Debug\net5.0\01. Basketball Equipment.pdb
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\01. Basketball Equipment\obj\Debug\net5.0\01. Basketball Equipment.genruntimeconfig.cache
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\01. Basketball Equipment\obj\Debug\net5.0\ref\01. Basketball Equipment.dll

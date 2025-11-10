@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\wtf\bin\Debug\net5.0\wtf.exe
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\wtf\bin\Debug\net5.0\wtf.deps.json
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\wtf\bin\Debug\net5.0\wtf.runtimeconfig.json
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\wtf\bin\Debug\net5.0\wtf.runtimeconfig.dev.json
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\wtf\bin\Debug\net5.0\wtf.dll
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\wtf\bin\Debug\net5.0\wtf.pdb
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\wtf\obj\Debug\net5.0\wtf.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\wtf\obj\Debug\net5.0\wtf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\wtf\obj\Debug\net5.0\wtf.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\wtf\obj\Debug\net5.0\wtf.AssemblyInfo.cs
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\wtf\obj\Debug\net5.0\wtf.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\wtf\obj\Debug\net5.0\wtf.dll
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\wtf\obj\Debug\net5.0\refint\wtf.dll
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\wtf\obj\Debug\net5.0\wtf.pdb
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\wtf\obj\Debug\net5.0\wtf.genruntimeconfig.cache
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\wtf\obj\Debug\net5.0\ref\wtf.dll

@@ -1,0 +1,16 @@
+﻿using System;
+
+namespace Sum
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            double num;
+           num= 5 + 5.5 + 6 + 5.43 + 5.5 + 6 + 5.55 + 5 + 6 + 6 + 5.43 + 5;
+            
+            Console.WriteLine(num);
+
+        }
+    }
+}

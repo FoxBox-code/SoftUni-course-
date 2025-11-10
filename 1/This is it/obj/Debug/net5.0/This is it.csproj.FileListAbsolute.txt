@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\CS-Basics\1\This is it\bin\Debug\net5.0\This is it.exe
+C:\Users\why19\Desktop\CS-Basics\1\This is it\bin\Debug\net5.0\This is it.deps.json
+C:\Users\why19\Desktop\CS-Basics\1\This is it\bin\Debug\net5.0\This is it.runtimeconfig.json
+C:\Users\why19\Desktop\CS-Basics\1\This is it\bin\Debug\net5.0\This is it.runtimeconfig.dev.json
+C:\Users\why19\Desktop\CS-Basics\1\This is it\bin\Debug\net5.0\This is it.dll
+C:\Users\why19\Desktop\CS-Basics\1\This is it\bin\Debug\net5.0\This is it.pdb
+C:\Users\why19\Desktop\CS-Basics\1\This is it\obj\Debug\net5.0\This is it.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\CS-Basics\1\This is it\obj\Debug\net5.0\This is it.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\CS-Basics\1\This is it\obj\Debug\net5.0\This is it.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\CS-Basics\1\This is it\obj\Debug\net5.0\This is it.AssemblyInfo.cs
+C:\Users\why19\Desktop\CS-Basics\1\This is it\obj\Debug\net5.0\This is it.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\CS-Basics\1\This is it\obj\Debug\net5.0\This is it.dll
+C:\Users\why19\Desktop\CS-Basics\1\This is it\obj\Debug\net5.0\refint\This is it.dll
+C:\Users\why19\Desktop\CS-Basics\1\This is it\obj\Debug\net5.0\This is it.pdb
+C:\Users\why19\Desktop\CS-Basics\1\This is it\obj\Debug\net5.0\This is it.genruntimeconfig.cache
+C:\Users\why19\Desktop\CS-Basics\1\This is it\obj\Debug\net5.0\ref\This is it.dll

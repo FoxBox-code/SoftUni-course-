@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\05. Fitness Center\bin\Debug\net5.0\05. Fitness Center.exe
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\05. Fitness Center\bin\Debug\net5.0\05. Fitness Center.deps.json
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\05. Fitness Center\bin\Debug\net5.0\05. Fitness Center.runtimeconfig.json
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\05. Fitness Center\bin\Debug\net5.0\05. Fitness Center.runtimeconfig.dev.json
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\05. Fitness Center\bin\Debug\net5.0\05. Fitness Center.dll
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\05. Fitness Center\bin\Debug\net5.0\05. Fitness Center.pdb
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\05. Fitness Center\obj\Debug\net5.0\05. Fitness Center.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\05. Fitness Center\obj\Debug\net5.0\05. Fitness Center.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\05. Fitness Center\obj\Debug\net5.0\05. Fitness Center.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\05. Fitness Center\obj\Debug\net5.0\05. Fitness Center.AssemblyInfo.cs
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\05. Fitness Center\obj\Debug\net5.0\05. Fitness Center.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\05. Fitness Center\obj\Debug\net5.0\05. Fitness Center.dll
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\05. Fitness Center\obj\Debug\net5.0\refint\05. Fitness Center.dll
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\05. Fitness Center\obj\Debug\net5.0\05. Fitness Center.pdb
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\05. Fitness Center\obj\Debug\net5.0\05. Fitness Center.genruntimeconfig.cache
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\05. Fitness Center\obj\Debug\net5.0\ref\05. Fitness Center.dll

@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\CS-Basics\For - cicle\09. Left and Right Sum\bin\Debug\net5.0\09. Left and Right Sum.exe
+C:\Users\why19\Desktop\CS-Basics\For - cicle\09. Left and Right Sum\bin\Debug\net5.0\09. Left and Right Sum.deps.json
+C:\Users\why19\Desktop\CS-Basics\For - cicle\09. Left and Right Sum\bin\Debug\net5.0\09. Left and Right Sum.runtimeconfig.json
+C:\Users\why19\Desktop\CS-Basics\For - cicle\09. Left and Right Sum\bin\Debug\net5.0\09. Left and Right Sum.runtimeconfig.dev.json
+C:\Users\why19\Desktop\CS-Basics\For - cicle\09. Left and Right Sum\bin\Debug\net5.0\09. Left and Right Sum.dll
+C:\Users\why19\Desktop\CS-Basics\For - cicle\09. Left and Right Sum\bin\Debug\net5.0\09. Left and Right Sum.pdb
+C:\Users\why19\Desktop\CS-Basics\For - cicle\09. Left and Right Sum\obj\Debug\net5.0\09. Left and Right Sum.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\CS-Basics\For - cicle\09. Left and Right Sum\obj\Debug\net5.0\09. Left and Right Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\CS-Basics\For - cicle\09. Left and Right Sum\obj\Debug\net5.0\09. Left and Right Sum.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\CS-Basics\For - cicle\09. Left and Right Sum\obj\Debug\net5.0\09. Left and Right Sum.AssemblyInfo.cs
+C:\Users\why19\Desktop\CS-Basics\For - cicle\09. Left and Right Sum\obj\Debug\net5.0\09. Left and Right Sum.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\CS-Basics\For - cicle\09. Left and Right Sum\obj\Debug\net5.0\09. Left and Right Sum.dll
+C:\Users\why19\Desktop\CS-Basics\For - cicle\09. Left and Right Sum\obj\Debug\net5.0\refint\09. Left and Right Sum.dll
+C:\Users\why19\Desktop\CS-Basics\For - cicle\09. Left and Right Sum\obj\Debug\net5.0\09. Left and Right Sum.pdb
+C:\Users\why19\Desktop\CS-Basics\For - cicle\09. Left and Right Sum\obj\Debug\net5.0\09. Left and Right Sum.genruntimeconfig.cache
+C:\Users\why19\Desktop\CS-Basics\For - cicle\09. Left and Right Sum\obj\Debug\net5.0\ref\09. Left and Right Sum.dll

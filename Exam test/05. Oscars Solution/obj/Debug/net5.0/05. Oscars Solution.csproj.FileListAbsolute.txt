@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\CS-Basics\Exam test\05. Oscars Solution\bin\Debug\net5.0\05. Oscars Solution.exe
+C:\Users\why19\Desktop\CS-Basics\Exam test\05. Oscars Solution\bin\Debug\net5.0\05. Oscars Solution.deps.json
+C:\Users\why19\Desktop\CS-Basics\Exam test\05. Oscars Solution\bin\Debug\net5.0\05. Oscars Solution.runtimeconfig.json
+C:\Users\why19\Desktop\CS-Basics\Exam test\05. Oscars Solution\bin\Debug\net5.0\05. Oscars Solution.runtimeconfig.dev.json
+C:\Users\why19\Desktop\CS-Basics\Exam test\05. Oscars Solution\bin\Debug\net5.0\05. Oscars Solution.dll
+C:\Users\why19\Desktop\CS-Basics\Exam test\05. Oscars Solution\bin\Debug\net5.0\05. Oscars Solution.pdb
+C:\Users\why19\Desktop\CS-Basics\Exam test\05. Oscars Solution\obj\Debug\net5.0\05. Oscars Solution.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\CS-Basics\Exam test\05. Oscars Solution\obj\Debug\net5.0\05. Oscars Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\CS-Basics\Exam test\05. Oscars Solution\obj\Debug\net5.0\05. Oscars Solution.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\CS-Basics\Exam test\05. Oscars Solution\obj\Debug\net5.0\05. Oscars Solution.AssemblyInfo.cs
+C:\Users\why19\Desktop\CS-Basics\Exam test\05. Oscars Solution\obj\Debug\net5.0\05. Oscars Solution.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\CS-Basics\Exam test\05. Oscars Solution\obj\Debug\net5.0\05. Oscars Solution.dll
+C:\Users\why19\Desktop\CS-Basics\Exam test\05. Oscars Solution\obj\Debug\net5.0\refint\05. Oscars Solution.dll
+C:\Users\why19\Desktop\CS-Basics\Exam test\05. Oscars Solution\obj\Debug\net5.0\05. Oscars Solution.pdb
+C:\Users\why19\Desktop\CS-Basics\Exam test\05. Oscars Solution\obj\Debug\net5.0\05. Oscars Solution.genruntimeconfig.cache
+C:\Users\why19\Desktop\CS-Basics\Exam test\05. Oscars Solution\obj\Debug\net5.0\ref\05. Oscars Solution.dll

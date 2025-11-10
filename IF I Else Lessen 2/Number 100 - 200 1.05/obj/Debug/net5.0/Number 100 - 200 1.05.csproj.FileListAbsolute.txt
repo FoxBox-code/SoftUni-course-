@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\IF I Else Lessen 2\Number 100 - 200 1.05\bin\Debug\net5.0\Number 100 - 200 1.05.exe
+C:\Users\why19\Desktop\IF I Else Lessen 2\Number 100 - 200 1.05\bin\Debug\net5.0\Number 100 - 200 1.05.deps.json
+C:\Users\why19\Desktop\IF I Else Lessen 2\Number 100 - 200 1.05\bin\Debug\net5.0\Number 100 - 200 1.05.runtimeconfig.json
+C:\Users\why19\Desktop\IF I Else Lessen 2\Number 100 - 200 1.05\bin\Debug\net5.0\Number 100 - 200 1.05.runtimeconfig.dev.json
+C:\Users\why19\Desktop\IF I Else Lessen 2\Number 100 - 200 1.05\bin\Debug\net5.0\Number 100 - 200 1.05.dll
+C:\Users\why19\Desktop\IF I Else Lessen 2\Number 100 - 200 1.05\bin\Debug\net5.0\Number 100 - 200 1.05.pdb
+C:\Users\why19\Desktop\IF I Else Lessen 2\Number 100 - 200 1.05\obj\Debug\net5.0\Number 100 - 200 1.05.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\IF I Else Lessen 2\Number 100 - 200 1.05\obj\Debug\net5.0\Number 100 - 200 1.05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\IF I Else Lessen 2\Number 100 - 200 1.05\obj\Debug\net5.0\Number 100 - 200 1.05.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\IF I Else Lessen 2\Number 100 - 200 1.05\obj\Debug\net5.0\Number 100 - 200 1.05.AssemblyInfo.cs
+C:\Users\why19\Desktop\IF I Else Lessen 2\Number 100 - 200 1.05\obj\Debug\net5.0\Number 100 - 200 1.05.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\IF I Else Lessen 2\Number 100 - 200 1.05\obj\Debug\net5.0\Number 100 - 200 1.05.dll
+C:\Users\why19\Desktop\IF I Else Lessen 2\Number 100 - 200 1.05\obj\Debug\net5.0\refint\Number 100 - 200 1.05.dll
+C:\Users\why19\Desktop\IF I Else Lessen 2\Number 100 - 200 1.05\obj\Debug\net5.0\Number 100 - 200 1.05.pdb
+C:\Users\why19\Desktop\IF I Else Lessen 2\Number 100 - 200 1.05\obj\Debug\net5.0\Number 100 - 200 1.05.genruntimeconfig.cache
+C:\Users\why19\Desktop\IF I Else Lessen 2\Number 100 - 200 1.05\obj\Debug\net5.0\ref\Number 100 - 200 1.05.dll

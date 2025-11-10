@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\IF I Else Lessen 2\Bigger nubmer 1.02\bin\Debug\net5.0\Bigger nubmer 1.02.exe
+C:\Users\why19\Desktop\IF I Else Lessen 2\Bigger nubmer 1.02\bin\Debug\net5.0\Bigger nubmer 1.02.deps.json
+C:\Users\why19\Desktop\IF I Else Lessen 2\Bigger nubmer 1.02\bin\Debug\net5.0\Bigger nubmer 1.02.runtimeconfig.json
+C:\Users\why19\Desktop\IF I Else Lessen 2\Bigger nubmer 1.02\bin\Debug\net5.0\Bigger nubmer 1.02.runtimeconfig.dev.json
+C:\Users\why19\Desktop\IF I Else Lessen 2\Bigger nubmer 1.02\bin\Debug\net5.0\Bigger nubmer 1.02.dll
+C:\Users\why19\Desktop\IF I Else Lessen 2\Bigger nubmer 1.02\bin\Debug\net5.0\Bigger nubmer 1.02.pdb
+C:\Users\why19\Desktop\IF I Else Lessen 2\Bigger nubmer 1.02\obj\Debug\net5.0\Bigger nubmer 1.02.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\IF I Else Lessen 2\Bigger nubmer 1.02\obj\Debug\net5.0\Bigger nubmer 1.02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\IF I Else Lessen 2\Bigger nubmer 1.02\obj\Debug\net5.0\Bigger nubmer 1.02.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\IF I Else Lessen 2\Bigger nubmer 1.02\obj\Debug\net5.0\Bigger nubmer 1.02.AssemblyInfo.cs
+C:\Users\why19\Desktop\IF I Else Lessen 2\Bigger nubmer 1.02\obj\Debug\net5.0\Bigger nubmer 1.02.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\IF I Else Lessen 2\Bigger nubmer 1.02\obj\Debug\net5.0\Bigger nubmer 1.02.dll
+C:\Users\why19\Desktop\IF I Else Lessen 2\Bigger nubmer 1.02\obj\Debug\net5.0\refint\Bigger nubmer 1.02.dll
+C:\Users\why19\Desktop\IF I Else Lessen 2\Bigger nubmer 1.02\obj\Debug\net5.0\Bigger nubmer 1.02.pdb
+C:\Users\why19\Desktop\IF I Else Lessen 2\Bigger nubmer 1.02\obj\Debug\net5.0\Bigger nubmer 1.02.genruntimeconfig.cache
+C:\Users\why19\Desktop\IF I Else Lessen 2\Bigger nubmer 1.02\obj\Debug\net5.0\ref\Bigger nubmer 1.02.dll

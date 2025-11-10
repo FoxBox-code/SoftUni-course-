@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\04.Gender Identity\bin\Debug\net5.0\04.Gender Identity.exe
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\04.Gender Identity\bin\Debug\net5.0\04.Gender Identity.deps.json
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\04.Gender Identity\bin\Debug\net5.0\04.Gender Identity.runtimeconfig.json
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\04.Gender Identity\bin\Debug\net5.0\04.Gender Identity.runtimeconfig.dev.json
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\04.Gender Identity\bin\Debug\net5.0\04.Gender Identity.dll
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\04.Gender Identity\bin\Debug\net5.0\04.Gender Identity.pdb
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\04.Gender Identity\obj\Debug\net5.0\04.Gender Identity.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\04.Gender Identity\obj\Debug\net5.0\04.Gender Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\04.Gender Identity\obj\Debug\net5.0\04.Gender Identity.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\04.Gender Identity\obj\Debug\net5.0\04.Gender Identity.AssemblyInfo.cs
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\04.Gender Identity\obj\Debug\net5.0\04.Gender Identity.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\04.Gender Identity\obj\Debug\net5.0\04.Gender Identity.dll
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\04.Gender Identity\obj\Debug\net5.0\refint\04.Gender Identity.dll
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\04.Gender Identity\obj\Debug\net5.0\04.Gender Identity.pdb
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\04.Gender Identity\obj\Debug\net5.0\04.Gender Identity.genruntimeconfig.cache
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\04.Gender Identity\obj\Debug\net5.0\ref\04.Gender Identity.dll

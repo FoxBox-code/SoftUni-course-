@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\CS-Basics\Exam test\Skeleton\bin\Debug\net5.0\Skeleton.exe
+C:\Users\why19\Desktop\CS-Basics\Exam test\Skeleton\bin\Debug\net5.0\Skeleton.deps.json
+C:\Users\why19\Desktop\CS-Basics\Exam test\Skeleton\bin\Debug\net5.0\Skeleton.runtimeconfig.json
+C:\Users\why19\Desktop\CS-Basics\Exam test\Skeleton\bin\Debug\net5.0\Skeleton.runtimeconfig.dev.json
+C:\Users\why19\Desktop\CS-Basics\Exam test\Skeleton\bin\Debug\net5.0\Skeleton.dll
+C:\Users\why19\Desktop\CS-Basics\Exam test\Skeleton\bin\Debug\net5.0\Skeleton.pdb
+C:\Users\why19\Desktop\CS-Basics\Exam test\Skeleton\obj\Debug\net5.0\Skeleton.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\CS-Basics\Exam test\Skeleton\obj\Debug\net5.0\Skeleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\CS-Basics\Exam test\Skeleton\obj\Debug\net5.0\Skeleton.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\CS-Basics\Exam test\Skeleton\obj\Debug\net5.0\Skeleton.AssemblyInfo.cs
+C:\Users\why19\Desktop\CS-Basics\Exam test\Skeleton\obj\Debug\net5.0\Skeleton.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\CS-Basics\Exam test\Skeleton\obj\Debug\net5.0\Skeleton.dll
+C:\Users\why19\Desktop\CS-Basics\Exam test\Skeleton\obj\Debug\net5.0\refint\Skeleton.dll
+C:\Users\why19\Desktop\CS-Basics\Exam test\Skeleton\obj\Debug\net5.0\Skeleton.pdb
+C:\Users\why19\Desktop\CS-Basics\Exam test\Skeleton\obj\Debug\net5.0\Skeleton.genruntimeconfig.cache
+C:\Users\why19\Desktop\CS-Basics\Exam test\Skeleton\obj\Debug\net5.0\ref\Skeleton.dll

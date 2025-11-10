@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\IF I Else Lessen 2\Speed 1.06\obj\Debug\net5.0\Speed 1.06.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\IF I Else Lessen 2\Speed 1.06\obj\Debug\net5.0\Speed 1.06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\IF I Else Lessen 2\Speed 1.06\obj\Debug\net5.0\Speed 1.06.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\IF I Else Lessen 2\Speed 1.06\obj\Debug\net5.0\Speed 1.06.AssemblyInfo.cs
+C:\Users\why19\Desktop\IF I Else Lessen 2\Speed 1.06\obj\Debug\net5.0\Speed 1.06.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\IF I Else Lessen 2\Speed 1.06\bin\Debug\net5.0\Speed 1.06.exe
+C:\Users\why19\Desktop\IF I Else Lessen 2\Speed 1.06\bin\Debug\net5.0\Speed 1.06.deps.json
+C:\Users\why19\Desktop\IF I Else Lessen 2\Speed 1.06\bin\Debug\net5.0\Speed 1.06.runtimeconfig.json
+C:\Users\why19\Desktop\IF I Else Lessen 2\Speed 1.06\bin\Debug\net5.0\Speed 1.06.runtimeconfig.dev.json
+C:\Users\why19\Desktop\IF I Else Lessen 2\Speed 1.06\bin\Debug\net5.0\Speed 1.06.dll
+C:\Users\why19\Desktop\IF I Else Lessen 2\Speed 1.06\bin\Debug\net5.0\Speed 1.06.pdb
+C:\Users\why19\Desktop\IF I Else Lessen 2\Speed 1.06\obj\Debug\net5.0\Speed 1.06.dll
+C:\Users\why19\Desktop\IF I Else Lessen 2\Speed 1.06\obj\Debug\net5.0\refint\Speed 1.06.dll
+C:\Users\why19\Desktop\IF I Else Lessen 2\Speed 1.06\obj\Debug\net5.0\Speed 1.06.pdb
+C:\Users\why19\Desktop\IF I Else Lessen 2\Speed 1.06\obj\Debug\net5.0\Speed 1.06.genruntimeconfig.cache
+C:\Users\why19\Desktop\IF I Else Lessen 2\Speed 1.06\obj\Debug\net5.0\ref\Speed 1.06.dll

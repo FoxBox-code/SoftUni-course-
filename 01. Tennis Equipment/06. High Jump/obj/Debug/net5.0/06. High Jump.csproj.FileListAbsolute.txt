@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\06. High Jump\bin\Debug\net5.0\06. High Jump.exe
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\06. High Jump\bin\Debug\net5.0\06. High Jump.deps.json
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\06. High Jump\bin\Debug\net5.0\06. High Jump.runtimeconfig.json
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\06. High Jump\bin\Debug\net5.0\06. High Jump.runtimeconfig.dev.json
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\06. High Jump\bin\Debug\net5.0\06. High Jump.dll
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\06. High Jump\bin\Debug\net5.0\06. High Jump.pdb
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\06. High Jump\obj\Debug\net5.0\06. High Jump.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\06. High Jump\obj\Debug\net5.0\06. High Jump.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\06. High Jump\obj\Debug\net5.0\06. High Jump.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\06. High Jump\obj\Debug\net5.0\06. High Jump.AssemblyInfo.cs
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\06. High Jump\obj\Debug\net5.0\06. High Jump.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\06. High Jump\obj\Debug\net5.0\06. High Jump.dll
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\06. High Jump\obj\Debug\net5.0\refint\06. High Jump.dll
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\06. High Jump\obj\Debug\net5.0\06. High Jump.pdb
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\06. High Jump\obj\Debug\net5.0\06. High Jump.genruntimeconfig.cache
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\06. High Jump\obj\Debug\net5.0\ref\06. High Jump.dll

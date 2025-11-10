@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\task 9\bin\Debug\net5.0\task 9.exe
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\task 9\bin\Debug\net5.0\task 9.deps.json
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\task 9\bin\Debug\net5.0\task 9.runtimeconfig.json
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\task 9\bin\Debug\net5.0\task 9.runtimeconfig.dev.json
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\task 9\bin\Debug\net5.0\task 9.dll
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\task 9\bin\Debug\net5.0\task 9.pdb
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\task 9\obj\Debug\net5.0\task 9.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\task 9\obj\Debug\net5.0\task 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\task 9\obj\Debug\net5.0\task 9.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\task 9\obj\Debug\net5.0\task 9.AssemblyInfo.cs
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\task 9\obj\Debug\net5.0\task 9.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\task 9\obj\Debug\net5.0\task 9.dll
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\task 9\obj\Debug\net5.0\refint\task 9.dll
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\task 9\obj\Debug\net5.0\task 9.pdb
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\task 9\obj\Debug\net5.0\task 9.genruntimeconfig.cache
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\task 9\obj\Debug\net5.0\ref\task 9.dll

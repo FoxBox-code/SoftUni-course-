@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\03. World Snooker Championship\bin\Debug\net5.0\03. World Snooker Championship.exe
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\03. World Snooker Championship\bin\Debug\net5.0\03. World Snooker Championship.deps.json
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\03. World Snooker Championship\bin\Debug\net5.0\03. World Snooker Championship.runtimeconfig.json
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\03. World Snooker Championship\bin\Debug\net5.0\03. World Snooker Championship.runtimeconfig.dev.json
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\03. World Snooker Championship\bin\Debug\net5.0\03. World Snooker Championship.dll
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\03. World Snooker Championship\bin\Debug\net5.0\03. World Snooker Championship.pdb
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\03. World Snooker Championship\obj\Debug\net5.0\03. World Snooker Championship.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\03. World Snooker Championship\obj\Debug\net5.0\03. World Snooker Championship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\03. World Snooker Championship\obj\Debug\net5.0\03. World Snooker Championship.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\03. World Snooker Championship\obj\Debug\net5.0\03. World Snooker Championship.AssemblyInfo.cs
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\03. World Snooker Championship\obj\Debug\net5.0\03. World Snooker Championship.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\03. World Snooker Championship\obj\Debug\net5.0\03. World Snooker Championship.dll
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\03. World Snooker Championship\obj\Debug\net5.0\refint\03. World Snooker Championship.dll
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\03. World Snooker Championship\obj\Debug\net5.0\03. World Snooker Championship.pdb
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\03. World Snooker Championship\obj\Debug\net5.0\03. World Snooker Championship.genruntimeconfig.cache
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\03. World Snooker Championship\obj\Debug\net5.0\ref\03. World Snooker Championship.dll

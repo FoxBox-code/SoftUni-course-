@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\CS-Basics\Exam test\04. Movie Stars\bin\Debug\net5.0\04. Movie Stars.exe
+C:\Users\why19\Desktop\CS-Basics\Exam test\04. Movie Stars\bin\Debug\net5.0\04. Movie Stars.deps.json
+C:\Users\why19\Desktop\CS-Basics\Exam test\04. Movie Stars\bin\Debug\net5.0\04. Movie Stars.runtimeconfig.json
+C:\Users\why19\Desktop\CS-Basics\Exam test\04. Movie Stars\bin\Debug\net5.0\04. Movie Stars.runtimeconfig.dev.json
+C:\Users\why19\Desktop\CS-Basics\Exam test\04. Movie Stars\bin\Debug\net5.0\04. Movie Stars.dll
+C:\Users\why19\Desktop\CS-Basics\Exam test\04. Movie Stars\bin\Debug\net5.0\04. Movie Stars.pdb
+C:\Users\why19\Desktop\CS-Basics\Exam test\04. Movie Stars\obj\Debug\net5.0\04. Movie Stars.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\CS-Basics\Exam test\04. Movie Stars\obj\Debug\net5.0\04. Movie Stars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\CS-Basics\Exam test\04. Movie Stars\obj\Debug\net5.0\04. Movie Stars.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\CS-Basics\Exam test\04. Movie Stars\obj\Debug\net5.0\04. Movie Stars.AssemblyInfo.cs
+C:\Users\why19\Desktop\CS-Basics\Exam test\04. Movie Stars\obj\Debug\net5.0\04. Movie Stars.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\CS-Basics\Exam test\04. Movie Stars\obj\Debug\net5.0\04. Movie Stars.dll
+C:\Users\why19\Desktop\CS-Basics\Exam test\04. Movie Stars\obj\Debug\net5.0\refint\04. Movie Stars.dll
+C:\Users\why19\Desktop\CS-Basics\Exam test\04. Movie Stars\obj\Debug\net5.0\04. Movie Stars.pdb
+C:\Users\why19\Desktop\CS-Basics\Exam test\04. Movie Stars\obj\Debug\net5.0\04. Movie Stars.genruntimeconfig.cache
+C:\Users\why19\Desktop\CS-Basics\Exam test\04. Movie Stars\obj\Debug\net5.0\ref\04. Movie Stars.dll

@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\04. Darts\bin\Debug\net5.0\04. Darts.exe
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\04. Darts\bin\Debug\net5.0\04. Darts.deps.json
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\04. Darts\bin\Debug\net5.0\04. Darts.runtimeconfig.json
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\04. Darts\bin\Debug\net5.0\04. Darts.runtimeconfig.dev.json
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\04. Darts\bin\Debug\net5.0\04. Darts.dll
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\04. Darts\bin\Debug\net5.0\04. Darts.pdb
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\04. Darts\obj\Debug\net5.0\04. Darts.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\04. Darts\obj\Debug\net5.0\04. Darts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\04. Darts\obj\Debug\net5.0\04. Darts.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\04. Darts\obj\Debug\net5.0\04. Darts.AssemblyInfo.cs
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\04. Darts\obj\Debug\net5.0\04. Darts.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\04. Darts\obj\Debug\net5.0\04. Darts.dll
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\04. Darts\obj\Debug\net5.0\refint\04. Darts.dll
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\04. Darts\obj\Debug\net5.0\04. Darts.pdb
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\04. Darts\obj\Debug\net5.0\04. Darts.genruntimeconfig.cache
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\04. Darts\obj\Debug\net5.0\ref\04. Darts.dll

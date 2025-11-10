@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\03.Animal type\obj\Debug\net5.0\03.Animal type.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\03.Animal type\obj\Debug\net5.0\03.Animal type.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\03.Animal type\obj\Debug\net5.0\03.Animal type.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\03.Animal type\obj\Debug\net5.0\03.Animal type.AssemblyInfo.cs
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\03.Animal type\obj\Debug\net5.0\03.Animal type.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\03.Animal type\bin\Debug\net5.0\03.Animal type.exe
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\03.Animal type\bin\Debug\net5.0\03.Animal type.deps.json
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\03.Animal type\bin\Debug\net5.0\03.Animal type.runtimeconfig.json
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\03.Animal type\bin\Debug\net5.0\03.Animal type.runtimeconfig.dev.json
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\03.Animal type\bin\Debug\net5.0\03.Animal type.dll
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\03.Animal type\bin\Debug\net5.0\03.Animal type.pdb
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\03.Animal type\obj\Debug\net5.0\03.Animal type.dll
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\03.Animal type\obj\Debug\net5.0\refint\03.Animal type.dll
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\03.Animal type\obj\Debug\net5.0\03.Animal type.pdb
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\03.Animal type\obj\Debug\net5.0\03.Animal type.genruntimeconfig.cache
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\03.Animal type\obj\Debug\net5.0\ref\03.Animal type.dll

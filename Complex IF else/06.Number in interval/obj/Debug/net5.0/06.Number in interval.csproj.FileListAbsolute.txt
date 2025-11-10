@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\06.Number in interval\bin\Debug\net5.0\06.Number in interval.exe
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\06.Number in interval\bin\Debug\net5.0\06.Number in interval.deps.json
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\06.Number in interval\bin\Debug\net5.0\06.Number in interval.runtimeconfig.json
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\06.Number in interval\bin\Debug\net5.0\06.Number in interval.runtimeconfig.dev.json
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\06.Number in interval\bin\Debug\net5.0\06.Number in interval.dll
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\06.Number in interval\bin\Debug\net5.0\06.Number in interval.pdb
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\06.Number in interval\obj\Debug\net5.0\06.Number in interval.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\06.Number in interval\obj\Debug\net5.0\06.Number in interval.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\06.Number in interval\obj\Debug\net5.0\06.Number in interval.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\06.Number in interval\obj\Debug\net5.0\06.Number in interval.AssemblyInfo.cs
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\06.Number in interval\obj\Debug\net5.0\06.Number in interval.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\06.Number in interval\obj\Debug\net5.0\06.Number in interval.dll
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\06.Number in interval\obj\Debug\net5.0\refint\06.Number in interval.dll
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\06.Number in interval\obj\Debug\net5.0\06.Number in interval.pdb
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\06.Number in interval\obj\Debug\net5.0\06.Number in interval.genruntimeconfig.cache
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\06.Number in interval\obj\Debug\net5.0\ref\06.Number in interval.dll

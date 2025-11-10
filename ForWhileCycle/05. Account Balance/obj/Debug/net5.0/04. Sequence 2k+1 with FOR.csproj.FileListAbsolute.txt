@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\CS-Basics\ForWhileCycle\05. Account Balance\bin\Debug\net5.0\04. Sequence 2k+1 with FOR.exe
+C:\Users\why19\Desktop\CS-Basics\ForWhileCycle\05. Account Balance\bin\Debug\net5.0\04. Sequence 2k+1 with FOR.deps.json
+C:\Users\why19\Desktop\CS-Basics\ForWhileCycle\05. Account Balance\bin\Debug\net5.0\04. Sequence 2k+1 with FOR.runtimeconfig.json
+C:\Users\why19\Desktop\CS-Basics\ForWhileCycle\05. Account Balance\bin\Debug\net5.0\04. Sequence 2k+1 with FOR.runtimeconfig.dev.json
+C:\Users\why19\Desktop\CS-Basics\ForWhileCycle\05. Account Balance\bin\Debug\net5.0\04. Sequence 2k+1 with FOR.dll
+C:\Users\why19\Desktop\CS-Basics\ForWhileCycle\05. Account Balance\bin\Debug\net5.0\04. Sequence 2k+1 with FOR.pdb
+C:\Users\why19\Desktop\CS-Basics\ForWhileCycle\05. Account Balance\obj\Debug\net5.0\04. Sequence 2k+1 with FOR.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\CS-Basics\ForWhileCycle\05. Account Balance\obj\Debug\net5.0\04. Sequence 2k+1 with FOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\CS-Basics\ForWhileCycle\05. Account Balance\obj\Debug\net5.0\04. Sequence 2k+1 with FOR.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\CS-Basics\ForWhileCycle\05. Account Balance\obj\Debug\net5.0\04. Sequence 2k+1 with FOR.AssemblyInfo.cs
+C:\Users\why19\Desktop\CS-Basics\ForWhileCycle\05. Account Balance\obj\Debug\net5.0\04. Sequence 2k+1 with FOR.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\CS-Basics\ForWhileCycle\05. Account Balance\obj\Debug\net5.0\04. Sequence 2k+1 with FOR.dll
+C:\Users\why19\Desktop\CS-Basics\ForWhileCycle\05. Account Balance\obj\Debug\net5.0\refint\04. Sequence 2k+1 with FOR.dll
+C:\Users\why19\Desktop\CS-Basics\ForWhileCycle\05. Account Balance\obj\Debug\net5.0\04. Sequence 2k+1 with FOR.pdb
+C:\Users\why19\Desktop\CS-Basics\ForWhileCycle\05. Account Balance\obj\Debug\net5.0\04. Sequence 2k+1 with FOR.genruntimeconfig.cache
+C:\Users\why19\Desktop\CS-Basics\ForWhileCycle\05. Account Balance\obj\Debug\net5.0\ref\04. Sequence 2k+1 with FOR.dll

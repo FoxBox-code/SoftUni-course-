@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\CS-Basics\For - cicle\08. Number sequence\bin\Debug\net5.0\08. Number sequence.exe
+C:\Users\why19\Desktop\CS-Basics\For - cicle\08. Number sequence\bin\Debug\net5.0\08. Number sequence.deps.json
+C:\Users\why19\Desktop\CS-Basics\For - cicle\08. Number sequence\bin\Debug\net5.0\08. Number sequence.runtimeconfig.json
+C:\Users\why19\Desktop\CS-Basics\For - cicle\08. Number sequence\bin\Debug\net5.0\08. Number sequence.runtimeconfig.dev.json
+C:\Users\why19\Desktop\CS-Basics\For - cicle\08. Number sequence\bin\Debug\net5.0\08. Number sequence.dll
+C:\Users\why19\Desktop\CS-Basics\For - cicle\08. Number sequence\bin\Debug\net5.0\08. Number sequence.pdb
+C:\Users\why19\Desktop\CS-Basics\For - cicle\08. Number sequence\obj\Debug\net5.0\08. Number sequence.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\CS-Basics\For - cicle\08. Number sequence\obj\Debug\net5.0\08. Number sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\CS-Basics\For - cicle\08. Number sequence\obj\Debug\net5.0\08. Number sequence.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\CS-Basics\For - cicle\08. Number sequence\obj\Debug\net5.0\08. Number sequence.AssemblyInfo.cs
+C:\Users\why19\Desktop\CS-Basics\For - cicle\08. Number sequence\obj\Debug\net5.0\08. Number sequence.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\CS-Basics\For - cicle\08. Number sequence\obj\Debug\net5.0\08. Number sequence.dll
+C:\Users\why19\Desktop\CS-Basics\For - cicle\08. Number sequence\obj\Debug\net5.0\refint\08. Number sequence.dll
+C:\Users\why19\Desktop\CS-Basics\For - cicle\08. Number sequence\obj\Debug\net5.0\08. Number sequence.pdb
+C:\Users\why19\Desktop\CS-Basics\For - cicle\08. Number sequence\obj\Debug\net5.0\08. Number sequence.genruntimeconfig.cache
+C:\Users\why19\Desktop\CS-Basics\For - cicle\08. Number sequence\obj\Debug\net5.0\ref\08. Number sequence.dll

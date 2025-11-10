@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\IF I Else Lessen 2\Odd Or Even 1.03\bin\Debug\net5.0\Odd Or Even 1.03.exe
+C:\Users\why19\Desktop\IF I Else Lessen 2\Odd Or Even 1.03\bin\Debug\net5.0\Odd Or Even 1.03.deps.json
+C:\Users\why19\Desktop\IF I Else Lessen 2\Odd Or Even 1.03\bin\Debug\net5.0\Odd Or Even 1.03.runtimeconfig.json
+C:\Users\why19\Desktop\IF I Else Lessen 2\Odd Or Even 1.03\bin\Debug\net5.0\Odd Or Even 1.03.runtimeconfig.dev.json
+C:\Users\why19\Desktop\IF I Else Lessen 2\Odd Or Even 1.03\bin\Debug\net5.0\Odd Or Even 1.03.dll
+C:\Users\why19\Desktop\IF I Else Lessen 2\Odd Or Even 1.03\bin\Debug\net5.0\Odd Or Even 1.03.pdb
+C:\Users\why19\Desktop\IF I Else Lessen 2\Odd Or Even 1.03\obj\Debug\net5.0\Odd Or Even 1.03.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\IF I Else Lessen 2\Odd Or Even 1.03\obj\Debug\net5.0\Odd Or Even 1.03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\IF I Else Lessen 2\Odd Or Even 1.03\obj\Debug\net5.0\Odd Or Even 1.03.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\IF I Else Lessen 2\Odd Or Even 1.03\obj\Debug\net5.0\Odd Or Even 1.03.AssemblyInfo.cs
+C:\Users\why19\Desktop\IF I Else Lessen 2\Odd Or Even 1.03\obj\Debug\net5.0\Odd Or Even 1.03.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\IF I Else Lessen 2\Odd Or Even 1.03\obj\Debug\net5.0\Odd Or Even 1.03.dll
+C:\Users\why19\Desktop\IF I Else Lessen 2\Odd Or Even 1.03\obj\Debug\net5.0\refint\Odd Or Even 1.03.dll
+C:\Users\why19\Desktop\IF I Else Lessen 2\Odd Or Even 1.03\obj\Debug\net5.0\Odd Or Even 1.03.pdb
+C:\Users\why19\Desktop\IF I Else Lessen 2\Odd Or Even 1.03\obj\Debug\net5.0\Odd Or Even 1.03.genruntimeconfig.cache
+C:\Users\why19\Desktop\IF I Else Lessen 2\Odd Or Even 1.03\obj\Debug\net5.0\ref\Odd Or Even 1.03.dll

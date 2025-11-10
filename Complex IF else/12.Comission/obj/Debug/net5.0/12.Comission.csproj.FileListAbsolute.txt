@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\12.Comission\bin\Debug\net5.0\12.Comission.exe
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\12.Comission\bin\Debug\net5.0\12.Comission.deps.json
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\12.Comission\bin\Debug\net5.0\12.Comission.runtimeconfig.json
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\12.Comission\bin\Debug\net5.0\12.Comission.runtimeconfig.dev.json
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\12.Comission\bin\Debug\net5.0\12.Comission.dll
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\12.Comission\bin\Debug\net5.0\12.Comission.pdb
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\12.Comission\obj\Debug\net5.0\12.Comission.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\12.Comission\obj\Debug\net5.0\12.Comission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\12.Comission\obj\Debug\net5.0\12.Comission.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\12.Comission\obj\Debug\net5.0\12.Comission.AssemblyInfo.cs
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\12.Comission\obj\Debug\net5.0\12.Comission.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\12.Comission\obj\Debug\net5.0\12.Comission.dll
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\12.Comission\obj\Debug\net5.0\refint\12.Comission.dll
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\12.Comission\obj\Debug\net5.0\12.Comission.pdb
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\12.Comission\obj\Debug\net5.0\12.Comission.genruntimeconfig.cache
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\12.Comission\obj\Debug\net5.0\ref\12.Comission.dll

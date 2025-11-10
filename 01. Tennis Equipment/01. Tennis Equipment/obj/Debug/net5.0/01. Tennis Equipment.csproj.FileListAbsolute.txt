@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\01. Tennis Equipment\bin\Debug\net5.0\01. Tennis Equipment.exe
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\01. Tennis Equipment\bin\Debug\net5.0\01. Tennis Equipment.deps.json
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\01. Tennis Equipment\bin\Debug\net5.0\01. Tennis Equipment.runtimeconfig.json
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\01. Tennis Equipment\bin\Debug\net5.0\01. Tennis Equipment.runtimeconfig.dev.json
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\01. Tennis Equipment\bin\Debug\net5.0\01. Tennis Equipment.dll
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\01. Tennis Equipment\bin\Debug\net5.0\01. Tennis Equipment.pdb
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\01. Tennis Equipment\obj\Debug\net5.0\01. Tennis Equipment.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\01. Tennis Equipment\obj\Debug\net5.0\01. Tennis Equipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\01. Tennis Equipment\obj\Debug\net5.0\01. Tennis Equipment.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\01. Tennis Equipment\obj\Debug\net5.0\01. Tennis Equipment.AssemblyInfo.cs
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\01. Tennis Equipment\obj\Debug\net5.0\01. Tennis Equipment.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\01. Tennis Equipment\obj\Debug\net5.0\01. Tennis Equipment.dll
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\01. Tennis Equipment\obj\Debug\net5.0\refint\01. Tennis Equipment.dll
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\01. Tennis Equipment\obj\Debug\net5.0\01. Tennis Equipment.pdb
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\01. Tennis Equipment\obj\Debug\net5.0\01. Tennis Equipment.genruntimeconfig.cache
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\01. Tennis Equipment\obj\Debug\net5.0\ref\01. Tennis Equipment.dll

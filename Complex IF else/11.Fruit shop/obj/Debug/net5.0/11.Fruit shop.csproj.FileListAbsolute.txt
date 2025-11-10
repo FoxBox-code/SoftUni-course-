@@ -1,0 +1,5 @@
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\11.Fruit shop\obj\Debug\net5.0\11.Fruit shop.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\11.Fruit shop\obj\Debug\net5.0\11.Fruit shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\11.Fruit shop\obj\Debug\net5.0\11.Fruit shop.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\11.Fruit shop\obj\Debug\net5.0\11.Fruit shop.AssemblyInfo.cs
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\11.Fruit shop\obj\Debug\net5.0\11.Fruit shop.csproj.CoreCompileInputs.cache

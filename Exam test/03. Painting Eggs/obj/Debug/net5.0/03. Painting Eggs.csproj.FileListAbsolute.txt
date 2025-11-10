@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\CS-Basics\Exam test\03. Painting Eggs\bin\Debug\net5.0\03. Painting Eggs.exe
+C:\Users\why19\Desktop\CS-Basics\Exam test\03. Painting Eggs\bin\Debug\net5.0\03. Painting Eggs.deps.json
+C:\Users\why19\Desktop\CS-Basics\Exam test\03. Painting Eggs\bin\Debug\net5.0\03. Painting Eggs.runtimeconfig.json
+C:\Users\why19\Desktop\CS-Basics\Exam test\03. Painting Eggs\bin\Debug\net5.0\03. Painting Eggs.runtimeconfig.dev.json
+C:\Users\why19\Desktop\CS-Basics\Exam test\03. Painting Eggs\bin\Debug\net5.0\03. Painting Eggs.dll
+C:\Users\why19\Desktop\CS-Basics\Exam test\03. Painting Eggs\bin\Debug\net5.0\03. Painting Eggs.pdb
+C:\Users\why19\Desktop\CS-Basics\Exam test\03. Painting Eggs\obj\Debug\net5.0\03. Painting Eggs.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\CS-Basics\Exam test\03. Painting Eggs\obj\Debug\net5.0\03. Painting Eggs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\CS-Basics\Exam test\03. Painting Eggs\obj\Debug\net5.0\03. Painting Eggs.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\CS-Basics\Exam test\03. Painting Eggs\obj\Debug\net5.0\03. Painting Eggs.AssemblyInfo.cs
+C:\Users\why19\Desktop\CS-Basics\Exam test\03. Painting Eggs\obj\Debug\net5.0\03. Painting Eggs.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\CS-Basics\Exam test\03. Painting Eggs\obj\Debug\net5.0\03. Painting Eggs.dll
+C:\Users\why19\Desktop\CS-Basics\Exam test\03. Painting Eggs\obj\Debug\net5.0\refint\03. Painting Eggs.dll
+C:\Users\why19\Desktop\CS-Basics\Exam test\03. Painting Eggs\obj\Debug\net5.0\03. Painting Eggs.pdb
+C:\Users\why19\Desktop\CS-Basics\Exam test\03. Painting Eggs\obj\Debug\net5.0\03. Painting Eggs.genruntimeconfig.cache
+C:\Users\why19\Desktop\CS-Basics\Exam test\03. Painting Eggs\obj\Debug\net5.0\ref\03. Painting Eggs.dll

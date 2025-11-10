@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\CS-Basics\Yard Greening 1.09\bin\Debug\net5.0\Yard Greening 1.09.exe
+C:\Users\why19\Desktop\CS-Basics\Yard Greening 1.09\bin\Debug\net5.0\Yard Greening 1.09.deps.json
+C:\Users\why19\Desktop\CS-Basics\Yard Greening 1.09\bin\Debug\net5.0\Yard Greening 1.09.runtimeconfig.json
+C:\Users\why19\Desktop\CS-Basics\Yard Greening 1.09\bin\Debug\net5.0\Yard Greening 1.09.runtimeconfig.dev.json
+C:\Users\why19\Desktop\CS-Basics\Yard Greening 1.09\bin\Debug\net5.0\Yard Greening 1.09.dll
+C:\Users\why19\Desktop\CS-Basics\Yard Greening 1.09\bin\Debug\net5.0\Yard Greening 1.09.pdb
+C:\Users\why19\Desktop\CS-Basics\Yard Greening 1.09\obj\Debug\net5.0\Yard Greening 1.09.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\CS-Basics\Yard Greening 1.09\obj\Debug\net5.0\Yard Greening 1.09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\CS-Basics\Yard Greening 1.09\obj\Debug\net5.0\Yard Greening 1.09.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\CS-Basics\Yard Greening 1.09\obj\Debug\net5.0\Yard Greening 1.09.AssemblyInfo.cs
+C:\Users\why19\Desktop\CS-Basics\Yard Greening 1.09\obj\Debug\net5.0\Yard Greening 1.09.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\CS-Basics\Yard Greening 1.09\obj\Debug\net5.0\Yard Greening 1.09.dll
+C:\Users\why19\Desktop\CS-Basics\Yard Greening 1.09\obj\Debug\net5.0\refint\Yard Greening 1.09.dll
+C:\Users\why19\Desktop\CS-Basics\Yard Greening 1.09\obj\Debug\net5.0\Yard Greening 1.09.pdb
+C:\Users\why19\Desktop\CS-Basics\Yard Greening 1.09\obj\Debug\net5.0\Yard Greening 1.09.genruntimeconfig.cache
+C:\Users\why19\Desktop\CS-Basics\Yard Greening 1.09\obj\Debug\net5.0\ref\Yard Greening 1.09.dll

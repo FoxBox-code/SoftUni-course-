@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\CS-Basics\VacationBooklist 1.4\bin\Debug\net5.0\VacationBooklist 1.4.exe
+C:\Users\why19\Desktop\CS-Basics\VacationBooklist 1.4\bin\Debug\net5.0\VacationBooklist 1.4.deps.json
+C:\Users\why19\Desktop\CS-Basics\VacationBooklist 1.4\bin\Debug\net5.0\VacationBooklist 1.4.runtimeconfig.json
+C:\Users\why19\Desktop\CS-Basics\VacationBooklist 1.4\bin\Debug\net5.0\VacationBooklist 1.4.runtimeconfig.dev.json
+C:\Users\why19\Desktop\CS-Basics\VacationBooklist 1.4\bin\Debug\net5.0\VacationBooklist 1.4.dll
+C:\Users\why19\Desktop\CS-Basics\VacationBooklist 1.4\bin\Debug\net5.0\VacationBooklist 1.4.pdb
+C:\Users\why19\Desktop\CS-Basics\VacationBooklist 1.4\obj\Debug\net5.0\VacationBooklist 1.4.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\CS-Basics\VacationBooklist 1.4\obj\Debug\net5.0\VacationBooklist 1.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\CS-Basics\VacationBooklist 1.4\obj\Debug\net5.0\VacationBooklist 1.4.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\CS-Basics\VacationBooklist 1.4\obj\Debug\net5.0\VacationBooklist 1.4.AssemblyInfo.cs
+C:\Users\why19\Desktop\CS-Basics\VacationBooklist 1.4\obj\Debug\net5.0\VacationBooklist 1.4.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\CS-Basics\VacationBooklist 1.4\obj\Debug\net5.0\VacationBooklist 1.4.dll
+C:\Users\why19\Desktop\CS-Basics\VacationBooklist 1.4\obj\Debug\net5.0\refint\VacationBooklist 1.4.dll
+C:\Users\why19\Desktop\CS-Basics\VacationBooklist 1.4\obj\Debug\net5.0\VacationBooklist 1.4.pdb
+C:\Users\why19\Desktop\CS-Basics\VacationBooklist 1.4\obj\Debug\net5.0\VacationBooklist 1.4.genruntimeconfig.cache
+C:\Users\why19\Desktop\CS-Basics\VacationBooklist 1.4\obj\Debug\net5.0\ref\VacationBooklist 1.4.dll

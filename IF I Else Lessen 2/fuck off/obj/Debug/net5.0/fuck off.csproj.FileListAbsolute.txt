@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\IF I Else Lessen 2\fuck off\bin\Debug\net5.0\fuck off.exe
+C:\Users\why19\Desktop\IF I Else Lessen 2\fuck off\bin\Debug\net5.0\fuck off.deps.json
+C:\Users\why19\Desktop\IF I Else Lessen 2\fuck off\bin\Debug\net5.0\fuck off.runtimeconfig.json
+C:\Users\why19\Desktop\IF I Else Lessen 2\fuck off\bin\Debug\net5.0\fuck off.runtimeconfig.dev.json
+C:\Users\why19\Desktop\IF I Else Lessen 2\fuck off\bin\Debug\net5.0\fuck off.dll
+C:\Users\why19\Desktop\IF I Else Lessen 2\fuck off\bin\Debug\net5.0\fuck off.pdb
+C:\Users\why19\Desktop\IF I Else Lessen 2\fuck off\obj\Debug\net5.0\fuck off.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\IF I Else Lessen 2\fuck off\obj\Debug\net5.0\fuck off.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\IF I Else Lessen 2\fuck off\obj\Debug\net5.0\fuck off.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\IF I Else Lessen 2\fuck off\obj\Debug\net5.0\fuck off.AssemblyInfo.cs
+C:\Users\why19\Desktop\IF I Else Lessen 2\fuck off\obj\Debug\net5.0\fuck off.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\IF I Else Lessen 2\fuck off\obj\Debug\net5.0\fuck off.dll
+C:\Users\why19\Desktop\IF I Else Lessen 2\fuck off\obj\Debug\net5.0\refint\fuck off.dll
+C:\Users\why19\Desktop\IF I Else Lessen 2\fuck off\obj\Debug\net5.0\fuck off.pdb
+C:\Users\why19\Desktop\IF I Else Lessen 2\fuck off\obj\Debug\net5.0\fuck off.genruntimeconfig.cache
+C:\Users\why19\Desktop\IF I Else Lessen 2\fuck off\obj\Debug\net5.0\ref\fuck off.dll

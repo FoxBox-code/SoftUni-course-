@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\CS-Basics\For - cicle\06. Vowels Sum\bin\Debug\net5.0\06. Vowels Sum.exe
+C:\Users\why19\Desktop\CS-Basics\For - cicle\06. Vowels Sum\bin\Debug\net5.0\06. Vowels Sum.deps.json
+C:\Users\why19\Desktop\CS-Basics\For - cicle\06. Vowels Sum\bin\Debug\net5.0\06. Vowels Sum.runtimeconfig.json
+C:\Users\why19\Desktop\CS-Basics\For - cicle\06. Vowels Sum\bin\Debug\net5.0\06. Vowels Sum.runtimeconfig.dev.json
+C:\Users\why19\Desktop\CS-Basics\For - cicle\06. Vowels Sum\bin\Debug\net5.0\06. Vowels Sum.dll
+C:\Users\why19\Desktop\CS-Basics\For - cicle\06. Vowels Sum\bin\Debug\net5.0\06. Vowels Sum.pdb
+C:\Users\why19\Desktop\CS-Basics\For - cicle\06. Vowels Sum\obj\Debug\net5.0\06. Vowels Sum.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\CS-Basics\For - cicle\06. Vowels Sum\obj\Debug\net5.0\06. Vowels Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\CS-Basics\For - cicle\06. Vowels Sum\obj\Debug\net5.0\06. Vowels Sum.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\CS-Basics\For - cicle\06. Vowels Sum\obj\Debug\net5.0\06. Vowels Sum.AssemblyInfo.cs
+C:\Users\why19\Desktop\CS-Basics\For - cicle\06. Vowels Sum\obj\Debug\net5.0\06. Vowels Sum.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\CS-Basics\For - cicle\06. Vowels Sum\obj\Debug\net5.0\06. Vowels Sum.dll
+C:\Users\why19\Desktop\CS-Basics\For - cicle\06. Vowels Sum\obj\Debug\net5.0\refint\06. Vowels Sum.dll
+C:\Users\why19\Desktop\CS-Basics\For - cicle\06. Vowels Sum\obj\Debug\net5.0\06. Vowels Sum.pdb
+C:\Users\why19\Desktop\CS-Basics\For - cicle\06. Vowels Sum\obj\Debug\net5.0\06. Vowels Sum.genruntimeconfig.cache
+C:\Users\why19\Desktop\CS-Basics\For - cicle\06. Vowels Sum\obj\Debug\net5.0\ref\06. Vowels Sum.dll

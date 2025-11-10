@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\CS-Basics\Exam test\06. Easter Competition\bin\Debug\net5.0\06. Easter Competition.exe
+C:\Users\why19\Desktop\CS-Basics\Exam test\06. Easter Competition\bin\Debug\net5.0\06. Easter Competition.deps.json
+C:\Users\why19\Desktop\CS-Basics\Exam test\06. Easter Competition\bin\Debug\net5.0\06. Easter Competition.runtimeconfig.json
+C:\Users\why19\Desktop\CS-Basics\Exam test\06. Easter Competition\bin\Debug\net5.0\06. Easter Competition.runtimeconfig.dev.json
+C:\Users\why19\Desktop\CS-Basics\Exam test\06. Easter Competition\bin\Debug\net5.0\06. Easter Competition.dll
+C:\Users\why19\Desktop\CS-Basics\Exam test\06. Easter Competition\bin\Debug\net5.0\06. Easter Competition.pdb
+C:\Users\why19\Desktop\CS-Basics\Exam test\06. Easter Competition\obj\Debug\net5.0\06. Easter Competition.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\CS-Basics\Exam test\06. Easter Competition\obj\Debug\net5.0\06. Easter Competition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\CS-Basics\Exam test\06. Easter Competition\obj\Debug\net5.0\06. Easter Competition.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\CS-Basics\Exam test\06. Easter Competition\obj\Debug\net5.0\06. Easter Competition.AssemblyInfo.cs
+C:\Users\why19\Desktop\CS-Basics\Exam test\06. Easter Competition\obj\Debug\net5.0\06. Easter Competition.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\CS-Basics\Exam test\06. Easter Competition\obj\Debug\net5.0\06. Easter Competition.dll
+C:\Users\why19\Desktop\CS-Basics\Exam test\06. Easter Competition\obj\Debug\net5.0\refint\06. Easter Competition.dll
+C:\Users\why19\Desktop\CS-Basics\Exam test\06. Easter Competition\obj\Debug\net5.0\06. Easter Competition.pdb
+C:\Users\why19\Desktop\CS-Basics\Exam test\06. Easter Competition\obj\Debug\net5.0\06. Easter Competition.genruntimeconfig.cache
+C:\Users\why19\Desktop\CS-Basics\Exam test\06. Easter Competition\obj\Debug\net5.0\ref\06. Easter Competition.dll

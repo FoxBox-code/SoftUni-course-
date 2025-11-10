@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\04. Game Number Wars\bin\Debug\net5.0\04. Game Number Wars.exe
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\04. Game Number Wars\bin\Debug\net5.0\04. Game Number Wars.deps.json
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\04. Game Number Wars\bin\Debug\net5.0\04. Game Number Wars.runtimeconfig.json
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\04. Game Number Wars\bin\Debug\net5.0\04. Game Number Wars.runtimeconfig.dev.json
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\04. Game Number Wars\bin\Debug\net5.0\04. Game Number Wars.dll
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\04. Game Number Wars\bin\Debug\net5.0\04. Game Number Wars.pdb
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\04. Game Number Wars\obj\Debug\net5.0\04. Game Number Wars.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\04. Game Number Wars\obj\Debug\net5.0\04. Game Number Wars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\04. Game Number Wars\obj\Debug\net5.0\04. Game Number Wars.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\04. Game Number Wars\obj\Debug\net5.0\04. Game Number Wars.AssemblyInfo.cs
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\04. Game Number Wars\obj\Debug\net5.0\04. Game Number Wars.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\04. Game Number Wars\obj\Debug\net5.0\04. Game Number Wars.dll
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\04. Game Number Wars\obj\Debug\net5.0\refint\04. Game Number Wars.dll
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\04. Game Number Wars\obj\Debug\net5.0\04. Game Number Wars.pdb
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\04. Game Number Wars\obj\Debug\net5.0\04. Game Number Wars.genruntimeconfig.cache
+C:\Users\why19\Desktop\CS-Basics\01. Tennis Equipment\04. Game Number Wars\obj\Debug\net5.0\ref\04. Game Number Wars.dll
