@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\010.Invalid Number\bin\Debug\net5.0\010.Invalid Number.exe
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\010.Invalid Number\bin\Debug\net5.0\010.Invalid Number.deps.json
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\010.Invalid Number\bin\Debug\net5.0\010.Invalid Number.runtimeconfig.json
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\010.Invalid Number\bin\Debug\net5.0\010.Invalid Number.runtimeconfig.dev.json
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\010.Invalid Number\bin\Debug\net5.0\010.Invalid Number.dll
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\010.Invalid Number\bin\Debug\net5.0\010.Invalid Number.pdb
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\010.Invalid Number\obj\Debug\net5.0\010.Invalid Number.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\010.Invalid Number\obj\Debug\net5.0\010.Invalid Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\010.Invalid Number\obj\Debug\net5.0\010.Invalid Number.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\010.Invalid Number\obj\Debug\net5.0\010.Invalid Number.AssemblyInfo.cs
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\010.Invalid Number\obj\Debug\net5.0\010.Invalid Number.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\010.Invalid Number\obj\Debug\net5.0\010.Invalid Number.dll
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\010.Invalid Number\obj\Debug\net5.0\refint\010.Invalid Number.dll
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\010.Invalid Number\obj\Debug\net5.0\010.Invalid Number.pdb
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\010.Invalid Number\obj\Debug\net5.0\010.Invalid Number.genruntimeconfig.cache
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\010.Invalid Number\obj\Debug\net5.0\ref\010.Invalid Number.dll
