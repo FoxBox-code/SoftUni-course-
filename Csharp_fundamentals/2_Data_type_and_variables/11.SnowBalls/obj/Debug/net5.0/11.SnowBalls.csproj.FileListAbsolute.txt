@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\11.SnowBalls\bin\Debug\net5.0\11.SnowBalls.exe
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\11.SnowBalls\bin\Debug\net5.0\11.SnowBalls.deps.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\11.SnowBalls\bin\Debug\net5.0\11.SnowBalls.runtimeconfig.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\11.SnowBalls\bin\Debug\net5.0\11.SnowBalls.runtimeconfig.dev.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\11.SnowBalls\bin\Debug\net5.0\11.SnowBalls.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\11.SnowBalls\bin\Debug\net5.0\11.SnowBalls.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\11.SnowBalls\obj\Debug\net5.0\11.SnowBalls.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\11.SnowBalls\obj\Debug\net5.0\11.SnowBalls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\11.SnowBalls\obj\Debug\net5.0\11.SnowBalls.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\11.SnowBalls\obj\Debug\net5.0\11.SnowBalls.AssemblyInfo.cs
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\11.SnowBalls\obj\Debug\net5.0\11.SnowBalls.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\11.SnowBalls\obj\Debug\net5.0\11.SnowBalls.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\11.SnowBalls\obj\Debug\net5.0\refint\11.SnowBalls.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\11.SnowBalls\obj\Debug\net5.0\11.SnowBalls.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\11.SnowBalls\obj\Debug\net5.0\11.SnowBalls.genruntimeconfig.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\11.SnowBalls\obj\Debug\net5.0\ref\11.SnowBalls.dll
