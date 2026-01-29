@@ -1,0 +1,15 @@
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\01. Action Point\bin\Debug\net6.0\01. Action Point.exe
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\01. Action Point\bin\Debug\net6.0\01. Action Point.deps.json
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\01. Action Point\bin\Debug\net6.0\01. Action Point.runtimeconfig.json
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\01. Action Point\bin\Debug\net6.0\01. Action Point.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\01. Action Point\bin\Debug\net6.0\01. Action Point.pdb
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\01. Action Point\obj\Debug\net6.0\01. Action Point.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\01. Action Point\obj\Debug\net6.0\01. Action Point.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\01. Action Point\obj\Debug\net6.0\01. Action Point.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\01. Action Point\obj\Debug\net6.0\01. Action Point.AssemblyInfo.cs
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\01. Action Point\obj\Debug\net6.0\01. Action Point.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\01. Action Point\obj\Debug\net6.0\01. Action Point.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\01. Action Point\obj\Debug\net6.0\refint\01. Action Point.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\01. Action Point\obj\Debug\net6.0\01. Action Point.pdb
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\01. Action Point\obj\Debug\net6.0\01. Action Point.genruntimeconfig.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\01. Action Point\obj\Debug\net6.0\ref\01. Action Point.dll

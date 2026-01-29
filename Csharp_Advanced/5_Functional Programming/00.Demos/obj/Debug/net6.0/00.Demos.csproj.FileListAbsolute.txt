@@ -1,0 +1,15 @@
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\00.Demos\bin\Debug\net6.0\00.Demos.exe
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\00.Demos\bin\Debug\net6.0\00.Demos.deps.json
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\00.Demos\bin\Debug\net6.0\00.Demos.runtimeconfig.json
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\00.Demos\bin\Debug\net6.0\00.Demos.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\00.Demos\bin\Debug\net6.0\00.Demos.pdb
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\00.Demos\obj\Debug\net6.0\00.Demos.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\00.Demos\obj\Debug\net6.0\00.Demos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\00.Demos\obj\Debug\net6.0\00.Demos.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\00.Demos\obj\Debug\net6.0\00.Demos.AssemblyInfo.cs
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\00.Demos\obj\Debug\net6.0\00.Demos.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\00.Demos\obj\Debug\net6.0\00.Demos.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\00.Demos\obj\Debug\net6.0\refint\00.Demos.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\00.Demos\obj\Debug\net6.0\00.Demos.pdb
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\00.Demos\obj\Debug\net6.0\00.Demos.genruntimeconfig.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\00.Demos\obj\Debug\net6.0\ref\00.Demos.dll
