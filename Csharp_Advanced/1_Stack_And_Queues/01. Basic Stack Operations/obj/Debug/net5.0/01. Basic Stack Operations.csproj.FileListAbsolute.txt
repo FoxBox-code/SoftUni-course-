@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\stuff\C# Advanced\Stacks and Queues\Exercise\Stacks and Queues Exercise\01. Basic Stack Operations\bin\Debug\net5.0\01. Basic Stack Operations.exe
+C:\Users\why19\Desktop\stuff\C# Advanced\Stacks and Queues\Exercise\Stacks and Queues Exercise\01. Basic Stack Operations\bin\Debug\net5.0\01. Basic Stack Operations.deps.json
+C:\Users\why19\Desktop\stuff\C# Advanced\Stacks and Queues\Exercise\Stacks and Queues Exercise\01. Basic Stack Operations\bin\Debug\net5.0\01. Basic Stack Operations.runtimeconfig.json
+C:\Users\why19\Desktop\stuff\C# Advanced\Stacks and Queues\Exercise\Stacks and Queues Exercise\01. Basic Stack Operations\bin\Debug\net5.0\01. Basic Stack Operations.runtimeconfig.dev.json
+C:\Users\why19\Desktop\stuff\C# Advanced\Stacks and Queues\Exercise\Stacks and Queues Exercise\01. Basic Stack Operations\bin\Debug\net5.0\01. Basic Stack Operations.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\Stacks and Queues\Exercise\Stacks and Queues Exercise\01. Basic Stack Operations\bin\Debug\net5.0\01. Basic Stack Operations.pdb
+C:\Users\why19\Desktop\stuff\C# Advanced\Stacks and Queues\Exercise\Stacks and Queues Exercise\01. Basic Stack Operations\obj\Debug\net5.0\01. Basic Stack Operations.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\Stacks and Queues\Exercise\Stacks and Queues Exercise\01. Basic Stack Operations\obj\Debug\net5.0\01. Basic Stack Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\stuff\C# Advanced\Stacks and Queues\Exercise\Stacks and Queues Exercise\01. Basic Stack Operations\obj\Debug\net5.0\01. Basic Stack Operations.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\Stacks and Queues\Exercise\Stacks and Queues Exercise\01. Basic Stack Operations\obj\Debug\net5.0\01. Basic Stack Operations.AssemblyInfo.cs
+C:\Users\why19\Desktop\stuff\C# Advanced\Stacks and Queues\Exercise\Stacks and Queues Exercise\01. Basic Stack Operations\obj\Debug\net5.0\01. Basic Stack Operations.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\Stacks and Queues\Exercise\Stacks and Queues Exercise\01. Basic Stack Operations\obj\Debug\net5.0\01. Basic Stack Operations.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\Stacks and Queues\Exercise\Stacks and Queues Exercise\01. Basic Stack Operations\obj\Debug\net5.0\refint\01. Basic Stack Operations.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\Stacks and Queues\Exercise\Stacks and Queues Exercise\01. Basic Stack Operations\obj\Debug\net5.0\01. Basic Stack Operations.pdb
+C:\Users\why19\Desktop\stuff\C# Advanced\Stacks and Queues\Exercise\Stacks and Queues Exercise\01. Basic Stack Operations\obj\Debug\net5.0\01. Basic Stack Operations.genruntimeconfig.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\Stacks and Queues\Exercise\Stacks and Queues Exercise\01. Basic Stack Operations\obj\Debug\net5.0\ref\01. Basic Stack Operations.dll
