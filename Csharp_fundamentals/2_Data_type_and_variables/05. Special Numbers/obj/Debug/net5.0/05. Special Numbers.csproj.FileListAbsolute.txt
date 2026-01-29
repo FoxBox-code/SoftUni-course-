@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\05. Special Numbers\bin\Debug\net5.0\05. Special Numbers.exe
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\05. Special Numbers\bin\Debug\net5.0\05. Special Numbers.deps.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\05. Special Numbers\bin\Debug\net5.0\05. Special Numbers.runtimeconfig.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\05. Special Numbers\bin\Debug\net5.0\05. Special Numbers.runtimeconfig.dev.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\05. Special Numbers\bin\Debug\net5.0\05. Special Numbers.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\05. Special Numbers\bin\Debug\net5.0\05. Special Numbers.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.AssemblyInfo.cs
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\05. Special Numbers\obj\Debug\net5.0\refint\05. Special Numbers.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.genruntimeconfig.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\05. Special Numbers\obj\Debug\net5.0\ref\05. Special Numbers.dll

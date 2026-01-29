@@ -1,0 +1,33 @@
+﻿using System;
+
+namespace _05._Special_Numbers
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int somenumber = int.Parse(Console.ReadLine());
+
+            for (int i = 1; i <= somenumber; i++)
+            {
+                int sum = 0;
+                int currentnumber = i;
+
+                while (currentnumber > 0)
+                {
+                    sum += currentnumber % 10;
+                    currentnumber /= 10;
+                }
+
+                if (sum == 5 || sum == 7 || sum == 11)
+                {
+                    Console.WriteLine($"{i} -> True");
+                }
+                else
+                {
+                    Console.WriteLine($"{i} -> False");
+                }
+            }
+        }
+    }
+}
