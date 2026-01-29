@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\3. Elevator\bin\Debug\net5.0\3. Elevator.exe
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\3. Elevator\bin\Debug\net5.0\3. Elevator.deps.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\3. Elevator\bin\Debug\net5.0\3. Elevator.runtimeconfig.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\3. Elevator\bin\Debug\net5.0\3. Elevator.runtimeconfig.dev.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\3. Elevator\bin\Debug\net5.0\3. Elevator.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\3. Elevator\bin\Debug\net5.0\3. Elevator.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\3. Elevator\obj\Debug\net5.0\3. Elevator.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\3. Elevator\obj\Debug\net5.0\3. Elevator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\3. Elevator\obj\Debug\net5.0\3. Elevator.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\3. Elevator\obj\Debug\net5.0\3. Elevator.AssemblyInfo.cs
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\3. Elevator\obj\Debug\net5.0\3. Elevator.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\3. Elevator\obj\Debug\net5.0\3. Elevator.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\3. Elevator\obj\Debug\net5.0\refint\3. Elevator.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\3. Elevator\obj\Debug\net5.0\3. Elevator.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\3. Elevator\obj\Debug\net5.0\3. Elevator.genruntimeconfig.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\3. Elevator\obj\Debug\net5.0\ref\3. Elevator.dll
