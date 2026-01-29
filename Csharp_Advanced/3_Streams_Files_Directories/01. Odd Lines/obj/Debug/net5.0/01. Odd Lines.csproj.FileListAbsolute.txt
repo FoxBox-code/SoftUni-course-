@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\stuff\C# Advanced\4.Streams, Files and Directories\Streams, Files and Directories\01. Odd Lines\bin\Debug\net5.0\01. Odd Lines.exe
+C:\Users\why19\Desktop\stuff\C# Advanced\4.Streams, Files and Directories\Streams, Files and Directories\01. Odd Lines\bin\Debug\net5.0\01. Odd Lines.deps.json
+C:\Users\why19\Desktop\stuff\C# Advanced\4.Streams, Files and Directories\Streams, Files and Directories\01. Odd Lines\bin\Debug\net5.0\01. Odd Lines.runtimeconfig.json
+C:\Users\why19\Desktop\stuff\C# Advanced\4.Streams, Files and Directories\Streams, Files and Directories\01. Odd Lines\bin\Debug\net5.0\01. Odd Lines.runtimeconfig.dev.json
+C:\Users\why19\Desktop\stuff\C# Advanced\4.Streams, Files and Directories\Streams, Files and Directories\01. Odd Lines\bin\Debug\net5.0\01. Odd Lines.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\4.Streams, Files and Directories\Streams, Files and Directories\01. Odd Lines\bin\Debug\net5.0\01. Odd Lines.pdb
+C:\Users\why19\Desktop\stuff\C# Advanced\4.Streams, Files and Directories\Streams, Files and Directories\01. Odd Lines\obj\Debug\net5.0\01. Odd Lines.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\4.Streams, Files and Directories\Streams, Files and Directories\01. Odd Lines\obj\Debug\net5.0\01. Odd Lines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\stuff\C# Advanced\4.Streams, Files and Directories\Streams, Files and Directories\01. Odd Lines\obj\Debug\net5.0\01. Odd Lines.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\4.Streams, Files and Directories\Streams, Files and Directories\01. Odd Lines\obj\Debug\net5.0\01. Odd Lines.AssemblyInfo.cs
+C:\Users\why19\Desktop\stuff\C# Advanced\4.Streams, Files and Directories\Streams, Files and Directories\01. Odd Lines\obj\Debug\net5.0\01. Odd Lines.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\4.Streams, Files and Directories\Streams, Files and Directories\01. Odd Lines\obj\Debug\net5.0\01. Odd Lines.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\4.Streams, Files and Directories\Streams, Files and Directories\01. Odd Lines\obj\Debug\net5.0\refint\01. Odd Lines.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\4.Streams, Files and Directories\Streams, Files and Directories\01. Odd Lines\obj\Debug\net5.0\01. Odd Lines.pdb
+C:\Users\why19\Desktop\stuff\C# Advanced\4.Streams, Files and Directories\Streams, Files and Directories\01. Odd Lines\obj\Debug\net5.0\01. Odd Lines.genruntimeconfig.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\4.Streams, Files and Directories\Streams, Files and Directories\01. Odd Lines\obj\Debug\net5.0\ref\01. Odd Lines.dll
