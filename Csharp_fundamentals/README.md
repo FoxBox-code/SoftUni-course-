@@ -12,4 +12,4 @@
 - Regular expressions (Regex)
 - Methods(functions)
 - Classes & Objects
-- 
+  
