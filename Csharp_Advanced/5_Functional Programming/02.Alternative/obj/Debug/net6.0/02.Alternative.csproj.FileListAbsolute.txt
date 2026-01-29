@@ -1,0 +1,15 @@
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\02.Alternative\bin\Debug\net6.0\02.Alternative.exe
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\02.Alternative\bin\Debug\net6.0\02.Alternative.deps.json
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\02.Alternative\bin\Debug\net6.0\02.Alternative.runtimeconfig.json
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\02.Alternative\bin\Debug\net6.0\02.Alternative.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\02.Alternative\bin\Debug\net6.0\02.Alternative.pdb
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\02.Alternative\obj\Debug\net6.0\02.Alternative.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\02.Alternative\obj\Debug\net6.0\02.Alternative.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\02.Alternative\obj\Debug\net6.0\02.Alternative.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\02.Alternative\obj\Debug\net6.0\02.Alternative.AssemblyInfo.cs
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\02.Alternative\obj\Debug\net6.0\02.Alternative.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\02.Alternative\obj\Debug\net6.0\02.Alternative.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\02.Alternative\obj\Debug\net6.0\refint\02.Alternative.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\02.Alternative\obj\Debug\net6.0\02.Alternative.pdb
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\02.Alternative\obj\Debug\net6.0\02.Alternative.genruntimeconfig.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\02.Alternative\obj\Debug\net6.0\ref\02.Alternative.dll

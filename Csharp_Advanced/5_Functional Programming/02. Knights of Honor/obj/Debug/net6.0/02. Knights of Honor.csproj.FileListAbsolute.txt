@@ -1,0 +1,15 @@
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\02. Knights of Honor\bin\Debug\net6.0\02. Knights of Honor.exe
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\02. Knights of Honor\bin\Debug\net6.0\02. Knights of Honor.deps.json
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\02. Knights of Honor\bin\Debug\net6.0\02. Knights of Honor.runtimeconfig.json
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\02. Knights of Honor\bin\Debug\net6.0\02. Knights of Honor.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\02. Knights of Honor\bin\Debug\net6.0\02. Knights of Honor.pdb
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\02. Knights of Honor\obj\Debug\net6.0\02. Knights of Honor.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\02. Knights of Honor\obj\Debug\net6.0\02. Knights of Honor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\02. Knights of Honor\obj\Debug\net6.0\02. Knights of Honor.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\02. Knights of Honor\obj\Debug\net6.0\02. Knights of Honor.AssemblyInfo.cs
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\02. Knights of Honor\obj\Debug\net6.0\02. Knights of Honor.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\02. Knights of Honor\obj\Debug\net6.0\02. Knights of Honor.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\02. Knights of Honor\obj\Debug\net6.0\refint\02. Knights of Honor.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\02. Knights of Honor\obj\Debug\net6.0\02. Knights of Honor.pdb
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\02. Knights of Honor\obj\Debug\net6.0\02. Knights of Honor.genruntimeconfig.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\5.Functional Programming\Exercice\Functional Programming exercice\02. Knights of Honor\obj\Debug\net6.0\ref\02. Knights of Honor.dll
