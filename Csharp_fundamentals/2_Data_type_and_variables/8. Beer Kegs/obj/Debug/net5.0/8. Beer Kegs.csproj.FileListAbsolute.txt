@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\8. Beer Kegs\bin\Debug\net5.0\8. Beer Kegs.exe
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\8. Beer Kegs\bin\Debug\net5.0\8. Beer Kegs.deps.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\8. Beer Kegs\bin\Debug\net5.0\8. Beer Kegs.runtimeconfig.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\8. Beer Kegs\bin\Debug\net5.0\8. Beer Kegs.runtimeconfig.dev.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\8. Beer Kegs\bin\Debug\net5.0\8. Beer Kegs.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\8. Beer Kegs\bin\Debug\net5.0\8. Beer Kegs.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\8. Beer Kegs\obj\Debug\net5.0\8. Beer Kegs.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\8. Beer Kegs\obj\Debug\net5.0\8. Beer Kegs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\8. Beer Kegs\obj\Debug\net5.0\8. Beer Kegs.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\8. Beer Kegs\obj\Debug\net5.0\8. Beer Kegs.AssemblyInfo.cs
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\8. Beer Kegs\obj\Debug\net5.0\8. Beer Kegs.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\8. Beer Kegs\obj\Debug\net5.0\8. Beer Kegs.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\8. Beer Kegs\obj\Debug\net5.0\refint\8. Beer Kegs.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\8. Beer Kegs\obj\Debug\net5.0\8. Beer Kegs.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\8. Beer Kegs\obj\Debug\net5.0\8. Beer Kegs.genruntimeconfig.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\8. Beer Kegs\obj\Debug\net5.0\ref\8. Beer Kegs.dll
