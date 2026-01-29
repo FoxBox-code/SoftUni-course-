@@ -1,0 +1,15 @@
+C:\Users\why19\Desktop\stuff\C# Advanced\8.Generics\Generics\FindGenerics\bin\Debug\net6.0\FindGenerics.exe
+C:\Users\why19\Desktop\stuff\C# Advanced\8.Generics\Generics\FindGenerics\bin\Debug\net6.0\FindGenerics.deps.json
+C:\Users\why19\Desktop\stuff\C# Advanced\8.Generics\Generics\FindGenerics\bin\Debug\net6.0\FindGenerics.runtimeconfig.json
+C:\Users\why19\Desktop\stuff\C# Advanced\8.Generics\Generics\FindGenerics\bin\Debug\net6.0\FindGenerics.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\8.Generics\Generics\FindGenerics\bin\Debug\net6.0\FindGenerics.pdb
+C:\Users\why19\Desktop\stuff\C# Advanced\8.Generics\Generics\FindGenerics\obj\Debug\net6.0\FindGenerics.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\8.Generics\Generics\FindGenerics\obj\Debug\net6.0\FindGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\stuff\C# Advanced\8.Generics\Generics\FindGenerics\obj\Debug\net6.0\FindGenerics.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\8.Generics\Generics\FindGenerics\obj\Debug\net6.0\FindGenerics.AssemblyInfo.cs
+C:\Users\why19\Desktop\stuff\C# Advanced\8.Generics\Generics\FindGenerics\obj\Debug\net6.0\FindGenerics.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\8.Generics\Generics\FindGenerics\obj\Debug\net6.0\FindGenerics.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\8.Generics\Generics\FindGenerics\obj\Debug\net6.0\refint\FindGenerics.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\8.Generics\Generics\FindGenerics\obj\Debug\net6.0\FindGenerics.pdb
+C:\Users\why19\Desktop\stuff\C# Advanced\8.Generics\Generics\FindGenerics\obj\Debug\net6.0\FindGenerics.genruntimeconfig.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\8.Generics\Generics\FindGenerics\obj\Debug\net6.0\ref\FindGenerics.dll

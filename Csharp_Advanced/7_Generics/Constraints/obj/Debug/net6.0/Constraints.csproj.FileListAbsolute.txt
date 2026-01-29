@@ -1,0 +1,15 @@
+C:\Users\why19\Desktop\stuff\C# Advanced\8.Generics\Generics\Constraints\bin\Debug\net6.0\Constraints.exe
+C:\Users\why19\Desktop\stuff\C# Advanced\8.Generics\Generics\Constraints\bin\Debug\net6.0\Constraints.deps.json
+C:\Users\why19\Desktop\stuff\C# Advanced\8.Generics\Generics\Constraints\bin\Debug\net6.0\Constraints.runtimeconfig.json
+C:\Users\why19\Desktop\stuff\C# Advanced\8.Generics\Generics\Constraints\bin\Debug\net6.0\Constraints.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\8.Generics\Generics\Constraints\bin\Debug\net6.0\Constraints.pdb
+C:\Users\why19\Desktop\stuff\C# Advanced\8.Generics\Generics\Constraints\obj\Debug\net6.0\Constraints.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\8.Generics\Generics\Constraints\obj\Debug\net6.0\Constraints.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\stuff\C# Advanced\8.Generics\Generics\Constraints\obj\Debug\net6.0\Constraints.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\8.Generics\Generics\Constraints\obj\Debug\net6.0\Constraints.AssemblyInfo.cs
+C:\Users\why19\Desktop\stuff\C# Advanced\8.Generics\Generics\Constraints\obj\Debug\net6.0\Constraints.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\8.Generics\Generics\Constraints\obj\Debug\net6.0\Constraints.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\8.Generics\Generics\Constraints\obj\Debug\net6.0\refint\Constraints.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\8.Generics\Generics\Constraints\obj\Debug\net6.0\Constraints.pdb
+C:\Users\why19\Desktop\stuff\C# Advanced\8.Generics\Generics\Constraints\obj\Debug\net6.0\Constraints.genruntimeconfig.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\8.Generics\Generics\Constraints\obj\Debug\net6.0\ref\Constraints.dll
