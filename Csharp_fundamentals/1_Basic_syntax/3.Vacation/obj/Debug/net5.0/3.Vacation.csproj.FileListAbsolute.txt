@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\stuff\C# Fundamentals\1. Ages\3.Vacation\bin\Debug\net5.0\3.Vacation.exe
+C:\Users\why19\Desktop\stuff\C# Fundamentals\1. Ages\3.Vacation\bin\Debug\net5.0\3.Vacation.deps.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\1. Ages\3.Vacation\bin\Debug\net5.0\3.Vacation.runtimeconfig.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\1. Ages\3.Vacation\bin\Debug\net5.0\3.Vacation.runtimeconfig.dev.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\1. Ages\3.Vacation\bin\Debug\net5.0\3.Vacation.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\1. Ages\3.Vacation\bin\Debug\net5.0\3.Vacation.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\1. Ages\3.Vacation\obj\Debug\net5.0\3.Vacation.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\1. Ages\3.Vacation\obj\Debug\net5.0\3.Vacation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\stuff\C# Fundamentals\1. Ages\3.Vacation\obj\Debug\net5.0\3.Vacation.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\1. Ages\3.Vacation\obj\Debug\net5.0\3.Vacation.AssemblyInfo.cs
+C:\Users\why19\Desktop\stuff\C# Fundamentals\1. Ages\3.Vacation\obj\Debug\net5.0\3.Vacation.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\1. Ages\3.Vacation\obj\Debug\net5.0\3.Vacation.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\1. Ages\3.Vacation\obj\Debug\net5.0\refint\3.Vacation.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\1. Ages\3.Vacation\obj\Debug\net5.0\3.Vacation.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\1. Ages\3.Vacation\obj\Debug\net5.0\3.Vacation.genruntimeconfig.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\1. Ages\3.Vacation\obj\Debug\net5.0\ref\3.Vacation.dll
