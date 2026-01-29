@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\stuff\C# Fundamentals\4. Arrays Lab\ArraysExersise\10.Lady Bugs\bin\Debug\net5.0\10.Lady Bugs.exe
+C:\Users\why19\Desktop\stuff\C# Fundamentals\4. Arrays Lab\ArraysExersise\10.Lady Bugs\bin\Debug\net5.0\10.Lady Bugs.deps.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\4. Arrays Lab\ArraysExersise\10.Lady Bugs\bin\Debug\net5.0\10.Lady Bugs.runtimeconfig.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\4. Arrays Lab\ArraysExersise\10.Lady Bugs\bin\Debug\net5.0\10.Lady Bugs.runtimeconfig.dev.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\4. Arrays Lab\ArraysExersise\10.Lady Bugs\bin\Debug\net5.0\10.Lady Bugs.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\4. Arrays Lab\ArraysExersise\10.Lady Bugs\bin\Debug\net5.0\10.Lady Bugs.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\4. Arrays Lab\ArraysExersise\10.Lady Bugs\obj\Debug\net5.0\10.Lady Bugs.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\4. Arrays Lab\ArraysExersise\10.Lady Bugs\obj\Debug\net5.0\10.Lady Bugs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\stuff\C# Fundamentals\4. Arrays Lab\ArraysExersise\10.Lady Bugs\obj\Debug\net5.0\10.Lady Bugs.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\4. Arrays Lab\ArraysExersise\10.Lady Bugs\obj\Debug\net5.0\10.Lady Bugs.AssemblyInfo.cs
+C:\Users\why19\Desktop\stuff\C# Fundamentals\4. Arrays Lab\ArraysExersise\10.Lady Bugs\obj\Debug\net5.0\10.Lady Bugs.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\4. Arrays Lab\ArraysExersise\10.Lady Bugs\obj\Debug\net5.0\10.Lady Bugs.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\4. Arrays Lab\ArraysExersise\10.Lady Bugs\obj\Debug\net5.0\refint\10.Lady Bugs.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\4. Arrays Lab\ArraysExersise\10.Lady Bugs\obj\Debug\net5.0\10.Lady Bugs.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\4. Arrays Lab\ArraysExersise\10.Lady Bugs\obj\Debug\net5.0\10.Lady Bugs.genruntimeconfig.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\4. Arrays Lab\ArraysExersise\10.Lady Bugs\obj\Debug\net5.0\ref\10.Lady Bugs.dll
