@@ -1,0 +1,15 @@
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\02.Encapsulation\Exercises\3. Shopping Spree\bin\Debug\net6.0\3. Shopping Spree.exe
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\02.Encapsulation\Exercises\3. Shopping Spree\bin\Debug\net6.0\3. Shopping Spree.deps.json
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\02.Encapsulation\Exercises\3. Shopping Spree\bin\Debug\net6.0\3. Shopping Spree.runtimeconfig.json
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\02.Encapsulation\Exercises\3. Shopping Spree\bin\Debug\net6.0\3. Shopping Spree.dll
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\02.Encapsulation\Exercises\3. Shopping Spree\bin\Debug\net6.0\3. Shopping Spree.pdb
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\02.Encapsulation\Exercises\3. Shopping Spree\obj\Debug\net6.0\3. Shopping Spree.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\02.Encapsulation\Exercises\3. Shopping Spree\obj\Debug\net6.0\3. Shopping Spree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\02.Encapsulation\Exercises\3. Shopping Spree\obj\Debug\net6.0\3. Shopping Spree.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\02.Encapsulation\Exercises\3. Shopping Spree\obj\Debug\net6.0\3. Shopping Spree.AssemblyInfo.cs
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\02.Encapsulation\Exercises\3. Shopping Spree\obj\Debug\net6.0\3. Shopping Spree.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\02.Encapsulation\Exercises\3. Shopping Spree\obj\Debug\net6.0\3. Shopping Spree.dll
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\02.Encapsulation\Exercises\3. Shopping Spree\obj\Debug\net6.0\refint\3. Shopping Spree.dll
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\02.Encapsulation\Exercises\3. Shopping Spree\obj\Debug\net6.0\3. Shopping Spree.pdb
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\02.Encapsulation\Exercises\3. Shopping Spree\obj\Debug\net6.0\3. Shopping Spree.genruntimeconfig.cache
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\02.Encapsulation\Exercises\3. Shopping Spree\obj\Debug\net6.0\ref\3. Shopping Spree.dll

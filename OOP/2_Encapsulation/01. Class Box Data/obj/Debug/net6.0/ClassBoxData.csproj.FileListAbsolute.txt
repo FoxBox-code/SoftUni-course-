@@ -1,0 +1,15 @@
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\02.Encapsulation\Exercises\01. Class Box Data\bin\Debug\net6.0\ClassBoxData.exe
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\02.Encapsulation\Exercises\01. Class Box Data\bin\Debug\net6.0\ClassBoxData.deps.json
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\02.Encapsulation\Exercises\01. Class Box Data\bin\Debug\net6.0\ClassBoxData.runtimeconfig.json
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\02.Encapsulation\Exercises\01. Class Box Data\bin\Debug\net6.0\ClassBoxData.dll
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\02.Encapsulation\Exercises\01. Class Box Data\bin\Debug\net6.0\ClassBoxData.pdb
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\02.Encapsulation\Exercises\01. Class Box Data\obj\Debug\net6.0\ClassBoxData.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\02.Encapsulation\Exercises\01. Class Box Data\obj\Debug\net6.0\ClassBoxData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\02.Encapsulation\Exercises\01. Class Box Data\obj\Debug\net6.0\ClassBoxData.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\02.Encapsulation\Exercises\01. Class Box Data\obj\Debug\net6.0\ClassBoxData.AssemblyInfo.cs
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\02.Encapsulation\Exercises\01. Class Box Data\obj\Debug\net6.0\ClassBoxData.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\02.Encapsulation\Exercises\01. Class Box Data\obj\Debug\net6.0\ClassBoxData.dll
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\02.Encapsulation\Exercises\01. Class Box Data\obj\Debug\net6.0\refint\ClassBoxData.dll
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\02.Encapsulation\Exercises\01. Class Box Data\obj\Debug\net6.0\ClassBoxData.pdb
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\02.Encapsulation\Exercises\01. Class Box Data\obj\Debug\net6.0\ClassBoxData.genruntimeconfig.cache
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\02.Encapsulation\Exercises\01. Class Box Data\obj\Debug\net6.0\ref\ClassBoxData.dll
