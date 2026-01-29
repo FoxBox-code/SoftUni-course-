@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\stuff\C# Fundamentals\7.Methods Exersice\Methods Exersices\1. Smallest of Three Numbers\bin\Debug\net5.0\1. Smallest of Three Numbers.exe
+C:\Users\why19\Desktop\stuff\C# Fundamentals\7.Methods Exersice\Methods Exersices\1. Smallest of Three Numbers\bin\Debug\net5.0\1. Smallest of Three Numbers.deps.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\7.Methods Exersice\Methods Exersices\1. Smallest of Three Numbers\bin\Debug\net5.0\1. Smallest of Three Numbers.runtimeconfig.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\7.Methods Exersice\Methods Exersices\1. Smallest of Three Numbers\bin\Debug\net5.0\1. Smallest of Three Numbers.runtimeconfig.dev.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\7.Methods Exersice\Methods Exersices\1. Smallest of Three Numbers\bin\Debug\net5.0\1. Smallest of Three Numbers.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\7.Methods Exersice\Methods Exersices\1. Smallest of Three Numbers\bin\Debug\net5.0\1. Smallest of Three Numbers.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\7.Methods Exersice\Methods Exersices\1. Smallest of Three Numbers\obj\Debug\net5.0\1. Smallest of Three Numbers.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\7.Methods Exersice\Methods Exersices\1. Smallest of Three Numbers\obj\Debug\net5.0\1. Smallest of Three Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\stuff\C# Fundamentals\7.Methods Exersice\Methods Exersices\1. Smallest of Three Numbers\obj\Debug\net5.0\1. Smallest of Three Numbers.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\7.Methods Exersice\Methods Exersices\1. Smallest of Three Numbers\obj\Debug\net5.0\1. Smallest of Three Numbers.AssemblyInfo.cs
+C:\Users\why19\Desktop\stuff\C# Fundamentals\7.Methods Exersice\Methods Exersices\1. Smallest of Three Numbers\obj\Debug\net5.0\1. Smallest of Three Numbers.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\7.Methods Exersice\Methods Exersices\1. Smallest of Three Numbers\obj\Debug\net5.0\1. Smallest of Three Numbers.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\7.Methods Exersice\Methods Exersices\1. Smallest of Three Numbers\obj\Debug\net5.0\refint\1. Smallest of Three Numbers.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\7.Methods Exersice\Methods Exersices\1. Smallest of Three Numbers\obj\Debug\net5.0\1. Smallest of Three Numbers.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\7.Methods Exersice\Methods Exersices\1. Smallest of Three Numbers\obj\Debug\net5.0\1. Smallest of Three Numbers.genruntimeconfig.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\7.Methods Exersice\Methods Exersices\1. Smallest of Three Numbers\obj\Debug\net5.0\ref\1. Smallest of Three Numbers.dll
