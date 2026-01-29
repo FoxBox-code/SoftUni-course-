@@ -1,0 +1,15 @@
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Exercises\Exercises\05.Solution\bin\Debug\net6.0\05.Solution.exe
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Exercises\Exercises\05.Solution\bin\Debug\net6.0\05.Solution.deps.json
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Exercises\Exercises\05.Solution\bin\Debug\net6.0\05.Solution.runtimeconfig.json
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Exercises\Exercises\05.Solution\bin\Debug\net6.0\05.Solution.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Exercises\Exercises\05.Solution\bin\Debug\net6.0\05.Solution.pdb
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Exercises\Exercises\05.Solution\obj\Debug\net6.0\05.Solution.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Exercises\Exercises\05.Solution\obj\Debug\net6.0\05.Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Exercises\Exercises\05.Solution\obj\Debug\net6.0\05.Solution.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Exercises\Exercises\05.Solution\obj\Debug\net6.0\05.Solution.AssemblyInfo.cs
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Exercises\Exercises\05.Solution\obj\Debug\net6.0\05.Solution.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Exercises\Exercises\05.Solution\obj\Debug\net6.0\05.Solution.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Exercises\Exercises\05.Solution\obj\Debug\net6.0\refint\05.Solution.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Exercises\Exercises\05.Solution\obj\Debug\net6.0\05.Solution.pdb
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Exercises\Exercises\05.Solution\obj\Debug\net6.0\05.Solution.genruntimeconfig.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Exercises\Exercises\05.Solution\obj\Debug\net6.0\ref\05.Solution.dll
