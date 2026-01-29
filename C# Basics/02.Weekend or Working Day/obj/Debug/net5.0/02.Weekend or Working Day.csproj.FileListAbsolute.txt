@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\02.Weekend or Working Day\obj\Debug\net5.0\02.Weekend or Working Day.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\02.Weekend or Working Day\obj\Debug\net5.0\02.Weekend or Working Day.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\02.Weekend or Working Day\obj\Debug\net5.0\02.Weekend or Working Day.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\02.Weekend or Working Day\obj\Debug\net5.0\02.Weekend or Working Day.AssemblyInfo.cs
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\02.Weekend or Working Day\obj\Debug\net5.0\02.Weekend or Working Day.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\02.Weekend or Working Day\bin\Debug\net5.0\02.Weekend or Working Day.exe
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\02.Weekend or Working Day\bin\Debug\net5.0\02.Weekend or Working Day.deps.json
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\02.Weekend or Working Day\bin\Debug\net5.0\02.Weekend or Working Day.runtimeconfig.json
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\02.Weekend or Working Day\bin\Debug\net5.0\02.Weekend or Working Day.runtimeconfig.dev.json
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\02.Weekend or Working Day\bin\Debug\net5.0\02.Weekend or Working Day.dll
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\02.Weekend or Working Day\bin\Debug\net5.0\02.Weekend or Working Day.pdb
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\02.Weekend or Working Day\obj\Debug\net5.0\02.Weekend or Working Day.dll
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\02.Weekend or Working Day\obj\Debug\net5.0\refint\02.Weekend or Working Day.dll
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\02.Weekend or Working Day\obj\Debug\net5.0\02.Weekend or Working Day.pdb
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\02.Weekend or Working Day\obj\Debug\net5.0\02.Weekend or Working Day.genruntimeconfig.cache
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\02.Weekend or Working Day\obj\Debug\net5.0\ref\02.Weekend or Working Day.dll
