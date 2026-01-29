@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\stuff\C# Fundamentals\4. Arrays Lab\ArraysExersise\8. Magic Sum\bin\Debug\net5.0\8. Magic Sum.exe
+C:\Users\why19\Desktop\stuff\C# Fundamentals\4. Arrays Lab\ArraysExersise\8. Magic Sum\bin\Debug\net5.0\8. Magic Sum.deps.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\4. Arrays Lab\ArraysExersise\8. Magic Sum\bin\Debug\net5.0\8. Magic Sum.runtimeconfig.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\4. Arrays Lab\ArraysExersise\8. Magic Sum\bin\Debug\net5.0\8. Magic Sum.runtimeconfig.dev.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\4. Arrays Lab\ArraysExersise\8. Magic Sum\bin\Debug\net5.0\8. Magic Sum.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\4. Arrays Lab\ArraysExersise\8. Magic Sum\bin\Debug\net5.0\8. Magic Sum.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\4. Arrays Lab\ArraysExersise\8. Magic Sum\obj\Debug\net5.0\8. Magic Sum.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\4. Arrays Lab\ArraysExersise\8. Magic Sum\obj\Debug\net5.0\8. Magic Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\stuff\C# Fundamentals\4. Arrays Lab\ArraysExersise\8. Magic Sum\obj\Debug\net5.0\8. Magic Sum.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\4. Arrays Lab\ArraysExersise\8. Magic Sum\obj\Debug\net5.0\8. Magic Sum.AssemblyInfo.cs
+C:\Users\why19\Desktop\stuff\C# Fundamentals\4. Arrays Lab\ArraysExersise\8. Magic Sum\obj\Debug\net5.0\8. Magic Sum.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\4. Arrays Lab\ArraysExersise\8. Magic Sum\obj\Debug\net5.0\8. Magic Sum.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\4. Arrays Lab\ArraysExersise\8. Magic Sum\obj\Debug\net5.0\refint\8. Magic Sum.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\4. Arrays Lab\ArraysExersise\8. Magic Sum\obj\Debug\net5.0\8. Magic Sum.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\4. Arrays Lab\ArraysExersise\8. Magic Sum\obj\Debug\net5.0\8. Magic Sum.genruntimeconfig.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\4. Arrays Lab\ArraysExersise\8. Magic Sum\obj\Debug\net5.0\ref\8. Magic Sum.dll
