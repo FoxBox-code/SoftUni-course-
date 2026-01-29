@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\stuff\C# Fundamentals\1. Ages\4. Print sum\bin\Debug\net5.0\4. Print sum.exe
+C:\Users\why19\Desktop\stuff\C# Fundamentals\1. Ages\4. Print sum\bin\Debug\net5.0\4. Print sum.deps.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\1. Ages\4. Print sum\bin\Debug\net5.0\4. Print sum.runtimeconfig.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\1. Ages\4. Print sum\bin\Debug\net5.0\4. Print sum.runtimeconfig.dev.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\1. Ages\4. Print sum\bin\Debug\net5.0\4. Print sum.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\1. Ages\4. Print sum\bin\Debug\net5.0\4. Print sum.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\1. Ages\4. Print sum\obj\Debug\net5.0\4. Print sum.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\1. Ages\4. Print sum\obj\Debug\net5.0\4. Print sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\stuff\C# Fundamentals\1. Ages\4. Print sum\obj\Debug\net5.0\4. Print sum.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\1. Ages\4. Print sum\obj\Debug\net5.0\4. Print sum.AssemblyInfo.cs
+C:\Users\why19\Desktop\stuff\C# Fundamentals\1. Ages\4. Print sum\obj\Debug\net5.0\4. Print sum.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\1. Ages\4. Print sum\obj\Debug\net5.0\4. Print sum.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\1. Ages\4. Print sum\obj\Debug\net5.0\refint\4. Print sum.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\1. Ages\4. Print sum\obj\Debug\net5.0\4. Print sum.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\1. Ages\4. Print sum\obj\Debug\net5.0\4. Print sum.genruntimeconfig.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\1. Ages\4. Print sum\obj\Debug\net5.0\ref\4. Print sum.dll
