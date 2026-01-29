@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\stuff\C# Fundamentals\2.Data Types and Variables\Data Types and Variables\2. Pounds to Dollars\bin\Debug\net5.0\2. Pounds to Dollars.exe
+C:\Users\why19\Desktop\stuff\C# Fundamentals\2.Data Types and Variables\Data Types and Variables\2. Pounds to Dollars\bin\Debug\net5.0\2. Pounds to Dollars.deps.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\2.Data Types and Variables\Data Types and Variables\2. Pounds to Dollars\bin\Debug\net5.0\2. Pounds to Dollars.runtimeconfig.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\2.Data Types and Variables\Data Types and Variables\2. Pounds to Dollars\bin\Debug\net5.0\2. Pounds to Dollars.runtimeconfig.dev.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\2.Data Types and Variables\Data Types and Variables\2. Pounds to Dollars\bin\Debug\net5.0\2. Pounds to Dollars.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\2.Data Types and Variables\Data Types and Variables\2. Pounds to Dollars\bin\Debug\net5.0\2. Pounds to Dollars.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\2.Data Types and Variables\Data Types and Variables\2. Pounds to Dollars\obj\Debug\net5.0\2. Pounds to Dollars.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\2.Data Types and Variables\Data Types and Variables\2. Pounds to Dollars\obj\Debug\net5.0\2. Pounds to Dollars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\stuff\C# Fundamentals\2.Data Types and Variables\Data Types and Variables\2. Pounds to Dollars\obj\Debug\net5.0\2. Pounds to Dollars.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\2.Data Types and Variables\Data Types and Variables\2. Pounds to Dollars\obj\Debug\net5.0\2. Pounds to Dollars.AssemblyInfo.cs
+C:\Users\why19\Desktop\stuff\C# Fundamentals\2.Data Types and Variables\Data Types and Variables\2. Pounds to Dollars\obj\Debug\net5.0\2. Pounds to Dollars.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\2.Data Types and Variables\Data Types and Variables\2. Pounds to Dollars\obj\Debug\net5.0\2. Pounds to Dollars.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\2.Data Types and Variables\Data Types and Variables\2. Pounds to Dollars\obj\Debug\net5.0\refint\2. Pounds to Dollars.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\2.Data Types and Variables\Data Types and Variables\2. Pounds to Dollars\obj\Debug\net5.0\2. Pounds to Dollars.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\2.Data Types and Variables\Data Types and Variables\2. Pounds to Dollars\obj\Debug\net5.0\2. Pounds to Dollars.genruntimeconfig.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\2.Data Types and Variables\Data Types and Variables\2. Pounds to Dollars\obj\Debug\net5.0\ref\2. Pounds to Dollars.dll
