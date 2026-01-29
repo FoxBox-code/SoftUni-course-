@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\stuff\C# Fundamentals\17.Regular Expressions - exersice\Regular expressions exersice\05.NeatherRealms\bin\Debug\net5.0\05.NeatherRealms.exe
+C:\Users\why19\Desktop\stuff\C# Fundamentals\17.Regular Expressions - exersice\Regular expressions exersice\05.NeatherRealms\bin\Debug\net5.0\05.NeatherRealms.deps.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\17.Regular Expressions - exersice\Regular expressions exersice\05.NeatherRealms\bin\Debug\net5.0\05.NeatherRealms.runtimeconfig.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\17.Regular Expressions - exersice\Regular expressions exersice\05.NeatherRealms\bin\Debug\net5.0\05.NeatherRealms.runtimeconfig.dev.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\17.Regular Expressions - exersice\Regular expressions exersice\05.NeatherRealms\bin\Debug\net5.0\05.NeatherRealms.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\17.Regular Expressions - exersice\Regular expressions exersice\05.NeatherRealms\bin\Debug\net5.0\05.NeatherRealms.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\17.Regular Expressions - exersice\Regular expressions exersice\05.NeatherRealms\obj\Debug\net5.0\05.NeatherRealms.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\17.Regular Expressions - exersice\Regular expressions exersice\05.NeatherRealms\obj\Debug\net5.0\05.NeatherRealms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\stuff\C# Fundamentals\17.Regular Expressions - exersice\Regular expressions exersice\05.NeatherRealms\obj\Debug\net5.0\05.NeatherRealms.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\17.Regular Expressions - exersice\Regular expressions exersice\05.NeatherRealms\obj\Debug\net5.0\05.NeatherRealms.AssemblyInfo.cs
+C:\Users\why19\Desktop\stuff\C# Fundamentals\17.Regular Expressions - exersice\Regular expressions exersice\05.NeatherRealms\obj\Debug\net5.0\05.NeatherRealms.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\17.Regular Expressions - exersice\Regular expressions exersice\05.NeatherRealms\obj\Debug\net5.0\05.NeatherRealms.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\17.Regular Expressions - exersice\Regular expressions exersice\05.NeatherRealms\obj\Debug\net5.0\refint\05.NeatherRealms.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\17.Regular Expressions - exersice\Regular expressions exersice\05.NeatherRealms\obj\Debug\net5.0\05.NeatherRealms.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\17.Regular Expressions - exersice\Regular expressions exersice\05.NeatherRealms\obj\Debug\net5.0\05.NeatherRealms.genruntimeconfig.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\17.Regular Expressions - exersice\Regular expressions exersice\05.NeatherRealms\obj\Debug\net5.0\ref\05.NeatherRealms.dll
