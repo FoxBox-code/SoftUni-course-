@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\05.Small Shop\bin\Debug\net5.0\05.Small Shop.exe
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\05.Small Shop\bin\Debug\net5.0\05.Small Shop.deps.json
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\05.Small Shop\bin\Debug\net5.0\05.Small Shop.runtimeconfig.json
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\05.Small Shop\bin\Debug\net5.0\05.Small Shop.runtimeconfig.dev.json
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\05.Small Shop\bin\Debug\net5.0\05.Small Shop.dll
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\05.Small Shop\bin\Debug\net5.0\05.Small Shop.pdb
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\05.Small Shop\obj\Debug\net5.0\05.Small Shop.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\05.Small Shop\obj\Debug\net5.0\05.Small Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\05.Small Shop\obj\Debug\net5.0\05.Small Shop.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\05.Small Shop\obj\Debug\net5.0\05.Small Shop.AssemblyInfo.cs
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\05.Small Shop\obj\Debug\net5.0\05.Small Shop.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\05.Small Shop\obj\Debug\net5.0\05.Small Shop.dll
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\05.Small Shop\obj\Debug\net5.0\refint\05.Small Shop.dll
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\05.Small Shop\obj\Debug\net5.0\05.Small Shop.pdb
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\05.Small Shop\obj\Debug\net5.0\05.Small Shop.genruntimeconfig.cache
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\05.Small Shop\obj\Debug\net5.0\ref\05.Small Shop.dll
