@@ -1,0 +1,15 @@
+C:\Users\why19\Desktop\stuff\C# Advanced\3.Sets and Dictionaries Advanced\Exercises\SetsAndDictionaryExercises\01. Unique Usernames\bin\Debug\net6.0\01. Unique Usernames.exe
+C:\Users\why19\Desktop\stuff\C# Advanced\3.Sets and Dictionaries Advanced\Exercises\SetsAndDictionaryExercises\01. Unique Usernames\bin\Debug\net6.0\01. Unique Usernames.deps.json
+C:\Users\why19\Desktop\stuff\C# Advanced\3.Sets and Dictionaries Advanced\Exercises\SetsAndDictionaryExercises\01. Unique Usernames\bin\Debug\net6.0\01. Unique Usernames.runtimeconfig.json
+C:\Users\why19\Desktop\stuff\C# Advanced\3.Sets and Dictionaries Advanced\Exercises\SetsAndDictionaryExercises\01. Unique Usernames\bin\Debug\net6.0\01. Unique Usernames.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\3.Sets and Dictionaries Advanced\Exercises\SetsAndDictionaryExercises\01. Unique Usernames\bin\Debug\net6.0\01. Unique Usernames.pdb
+C:\Users\why19\Desktop\stuff\C# Advanced\3.Sets and Dictionaries Advanced\Exercises\SetsAndDictionaryExercises\01. Unique Usernames\obj\Debug\net6.0\01. Unique Usernames.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\3.Sets and Dictionaries Advanced\Exercises\SetsAndDictionaryExercises\01. Unique Usernames\obj\Debug\net6.0\01. Unique Usernames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\stuff\C# Advanced\3.Sets and Dictionaries Advanced\Exercises\SetsAndDictionaryExercises\01. Unique Usernames\obj\Debug\net6.0\01. Unique Usernames.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\3.Sets and Dictionaries Advanced\Exercises\SetsAndDictionaryExercises\01. Unique Usernames\obj\Debug\net6.0\01. Unique Usernames.AssemblyInfo.cs
+C:\Users\why19\Desktop\stuff\C# Advanced\3.Sets and Dictionaries Advanced\Exercises\SetsAndDictionaryExercises\01. Unique Usernames\obj\Debug\net6.0\01. Unique Usernames.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\3.Sets and Dictionaries Advanced\Exercises\SetsAndDictionaryExercises\01. Unique Usernames\obj\Debug\net6.0\01. Unique Usernames.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\3.Sets and Dictionaries Advanced\Exercises\SetsAndDictionaryExercises\01. Unique Usernames\obj\Debug\net6.0\refint\01. Unique Usernames.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\3.Sets and Dictionaries Advanced\Exercises\SetsAndDictionaryExercises\01. Unique Usernames\obj\Debug\net6.0\01. Unique Usernames.pdb
+C:\Users\why19\Desktop\stuff\C# Advanced\3.Sets and Dictionaries Advanced\Exercises\SetsAndDictionaryExercises\01. Unique Usernames\obj\Debug\net6.0\01. Unique Usernames.genruntimeconfig.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\3.Sets and Dictionaries Advanced\Exercises\SetsAndDictionaryExercises\01. Unique Usernames\obj\Debug\net6.0\ref\01. Unique Usernames.dll
