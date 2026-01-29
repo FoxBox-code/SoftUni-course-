@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\1. Integer Operations\bin\Debug\net5.0\1. Integer Operations.exe
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\1. Integer Operations\bin\Debug\net5.0\1. Integer Operations.deps.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\1. Integer Operations\bin\Debug\net5.0\1. Integer Operations.runtimeconfig.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\1. Integer Operations\bin\Debug\net5.0\1. Integer Operations.runtimeconfig.dev.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\1. Integer Operations\bin\Debug\net5.0\1. Integer Operations.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\1. Integer Operations\bin\Debug\net5.0\1. Integer Operations.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\1. Integer Operations\obj\Debug\net5.0\1. Integer Operations.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\1. Integer Operations\obj\Debug\net5.0\1. Integer Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\1. Integer Operations\obj\Debug\net5.0\1. Integer Operations.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\1. Integer Operations\obj\Debug\net5.0\1. Integer Operations.AssemblyInfo.cs
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\1. Integer Operations\obj\Debug\net5.0\1. Integer Operations.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\1. Integer Operations\obj\Debug\net5.0\1. Integer Operations.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\1. Integer Operations\obj\Debug\net5.0\refint\1. Integer Operations.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\1. Integer Operations\obj\Debug\net5.0\1. Integer Operations.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\1. Integer Operations\obj\Debug\net5.0\1. Integer Operations.genruntimeconfig.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\1. Integer Operations\obj\Debug\net5.0\ref\1. Integer Operations.dll
