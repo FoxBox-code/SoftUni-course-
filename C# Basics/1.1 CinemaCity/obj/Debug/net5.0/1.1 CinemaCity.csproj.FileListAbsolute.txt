@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\1.1 CinemaCity\bin\Debug\net5.0\1.1 CinemaCity.exe
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\1.1 CinemaCity\bin\Debug\net5.0\1.1 CinemaCity.deps.json
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\1.1 CinemaCity\bin\Debug\net5.0\1.1 CinemaCity.runtimeconfig.json
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\1.1 CinemaCity\bin\Debug\net5.0\1.1 CinemaCity.runtimeconfig.dev.json
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\1.1 CinemaCity\bin\Debug\net5.0\1.1 CinemaCity.dll
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\1.1 CinemaCity\bin\Debug\net5.0\1.1 CinemaCity.pdb
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\1.1 CinemaCity\obj\Debug\net5.0\1.1 CinemaCity.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\1.1 CinemaCity\obj\Debug\net5.0\1.1 CinemaCity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\1.1 CinemaCity\obj\Debug\net5.0\1.1 CinemaCity.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\1.1 CinemaCity\obj\Debug\net5.0\1.1 CinemaCity.AssemblyInfo.cs
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\1.1 CinemaCity\obj\Debug\net5.0\1.1 CinemaCity.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\1.1 CinemaCity\obj\Debug\net5.0\1.1 CinemaCity.dll
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\1.1 CinemaCity\obj\Debug\net5.0\refint\1.1 CinemaCity.dll
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\1.1 CinemaCity\obj\Debug\net5.0\1.1 CinemaCity.pdb
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\1.1 CinemaCity\obj\Debug\net5.0\1.1 CinemaCity.genruntimeconfig.cache
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\1.1 CinemaCity\obj\Debug\net5.0\ref\1.1 CinemaCity.dll
