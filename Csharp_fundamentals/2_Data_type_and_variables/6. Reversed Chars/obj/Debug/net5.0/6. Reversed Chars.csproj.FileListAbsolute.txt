@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\stuff\C# Fundamentals\2.Data Types and Variables\Data Types and Variables\6. Reversed Chars\bin\Debug\net5.0\6. Reversed Chars.exe
+C:\Users\why19\Desktop\stuff\C# Fundamentals\2.Data Types and Variables\Data Types and Variables\6. Reversed Chars\bin\Debug\net5.0\6. Reversed Chars.deps.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\2.Data Types and Variables\Data Types and Variables\6. Reversed Chars\bin\Debug\net5.0\6. Reversed Chars.runtimeconfig.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\2.Data Types and Variables\Data Types and Variables\6. Reversed Chars\bin\Debug\net5.0\6. Reversed Chars.runtimeconfig.dev.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\2.Data Types and Variables\Data Types and Variables\6. Reversed Chars\bin\Debug\net5.0\6. Reversed Chars.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\2.Data Types and Variables\Data Types and Variables\6. Reversed Chars\bin\Debug\net5.0\6. Reversed Chars.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\2.Data Types and Variables\Data Types and Variables\6. Reversed Chars\obj\Debug\net5.0\6. Reversed Chars.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\2.Data Types and Variables\Data Types and Variables\6. Reversed Chars\obj\Debug\net5.0\6. Reversed Chars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\stuff\C# Fundamentals\2.Data Types and Variables\Data Types and Variables\6. Reversed Chars\obj\Debug\net5.0\6. Reversed Chars.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\2.Data Types and Variables\Data Types and Variables\6. Reversed Chars\obj\Debug\net5.0\6. Reversed Chars.AssemblyInfo.cs
+C:\Users\why19\Desktop\stuff\C# Fundamentals\2.Data Types and Variables\Data Types and Variables\6. Reversed Chars\obj\Debug\net5.0\6. Reversed Chars.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\2.Data Types and Variables\Data Types and Variables\6. Reversed Chars\obj\Debug\net5.0\6. Reversed Chars.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\2.Data Types and Variables\Data Types and Variables\6. Reversed Chars\obj\Debug\net5.0\refint\6. Reversed Chars.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\2.Data Types and Variables\Data Types and Variables\6. Reversed Chars\obj\Debug\net5.0\6. Reversed Chars.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\2.Data Types and Variables\Data Types and Variables\6. Reversed Chars\obj\Debug\net5.0\6. Reversed Chars.genruntimeconfig.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\2.Data Types and Variables\Data Types and Variables\6. Reversed Chars\obj\Debug\net5.0\ref\6. Reversed Chars.dll
