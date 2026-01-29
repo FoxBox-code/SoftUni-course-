@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "02. Vowels Count with Array/1.0.0": {
+        "runtime": {
+          "02. Vowels Count with Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "02. Vowels Count with Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

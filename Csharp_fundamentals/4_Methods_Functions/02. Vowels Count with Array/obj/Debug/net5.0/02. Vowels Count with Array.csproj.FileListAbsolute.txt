@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\stuff\C# Fundamentals\7.Methods Exersice\Methods Exersices\02. Vowels Count with Array\bin\Debug\net5.0\02. Vowels Count with Array.exe
+C:\Users\why19\Desktop\stuff\C# Fundamentals\7.Methods Exersice\Methods Exersices\02. Vowels Count with Array\bin\Debug\net5.0\02. Vowels Count with Array.deps.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\7.Methods Exersice\Methods Exersices\02. Vowels Count with Array\bin\Debug\net5.0\02. Vowels Count with Array.runtimeconfig.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\7.Methods Exersice\Methods Exersices\02. Vowels Count with Array\bin\Debug\net5.0\02. Vowels Count with Array.runtimeconfig.dev.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\7.Methods Exersice\Methods Exersices\02. Vowels Count with Array\bin\Debug\net5.0\02. Vowels Count with Array.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\7.Methods Exersice\Methods Exersices\02. Vowels Count with Array\bin\Debug\net5.0\02. Vowels Count with Array.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\7.Methods Exersice\Methods Exersices\02. Vowels Count with Array\obj\Debug\net5.0\02. Vowels Count with Array.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\7.Methods Exersice\Methods Exersices\02. Vowels Count with Array\obj\Debug\net5.0\02. Vowels Count with Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\stuff\C# Fundamentals\7.Methods Exersice\Methods Exersices\02. Vowels Count with Array\obj\Debug\net5.0\02. Vowels Count with Array.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\7.Methods Exersice\Methods Exersices\02. Vowels Count with Array\obj\Debug\net5.0\02. Vowels Count with Array.AssemblyInfo.cs
+C:\Users\why19\Desktop\stuff\C# Fundamentals\7.Methods Exersice\Methods Exersices\02. Vowels Count with Array\obj\Debug\net5.0\02. Vowels Count with Array.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\7.Methods Exersice\Methods Exersices\02. Vowels Count with Array\obj\Debug\net5.0\02. Vowels Count with Array.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\7.Methods Exersice\Methods Exersices\02. Vowels Count with Array\obj\Debug\net5.0\refint\02. Vowels Count with Array.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\7.Methods Exersice\Methods Exersices\02. Vowels Count with Array\obj\Debug\net5.0\02. Vowels Count with Array.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\7.Methods Exersice\Methods Exersices\02. Vowels Count with Array\obj\Debug\net5.0\02. Vowels Count with Array.genruntimeconfig.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\7.Methods Exersice\Methods Exersices\02. Vowels Count with Array\obj\Debug\net5.0\ref\02. Vowels Count with Array.dll
