@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Linked Liest/1.0.0": {
+        "runtime": {
+          "Linked Liest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Linked Liest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

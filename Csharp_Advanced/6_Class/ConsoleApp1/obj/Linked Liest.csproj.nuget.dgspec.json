@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\why19\\Desktop\\stuff\\C# Advanced\\6.Class\\Implementing Linked Lists\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\why19\\Desktop\\stuff\\C# Advanced\\6.Class\\Implementing Linked Lists\\ConsoleApp1\\Linked Liest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\why19\\Desktop\\stuff\\C# Advanced\\6.Class\\Implementing Linked Lists\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\why19\\Desktop\\stuff\\C# Advanced\\6.Class\\Implementing Linked Lists\\ConsoleApp1\\Linked Liest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\why19\\Desktop\\stuff\\C# Advanced\\6.Class\\Implementing Linked Lists\\ConsoleApp1\\ConsoleApp1.csproj",
-        "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\why19\\Desktop\\stuff\\C# Advanced\\6.Class\\Implementing Linked Lists\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\why19\\Desktop\\stuff\\C# Advanced\\6.Class\\Implementing Linked Lists\\ConsoleApp1\\Linked Liest.csproj",
+        "projectName": "Linked Liest",
+        "projectPath": "C:\\Users\\why19\\Desktop\\stuff\\C# Advanced\\6.Class\\Implementing Linked Lists\\ConsoleApp1\\Linked Liest.csproj",
         "packagesPath": "C:\\Users\\why19\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\why19\\Desktop\\stuff\\C# Advanced\\6.Class\\Implementing Linked Lists\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",

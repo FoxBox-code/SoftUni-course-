@@ -1,0 +1,15 @@
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Implementing Linked Lists\ConsoleApp1\bin\Debug\net6.0\Linked Liest.exe
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Implementing Linked Lists\ConsoleApp1\bin\Debug\net6.0\Linked Liest.deps.json
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Implementing Linked Lists\ConsoleApp1\bin\Debug\net6.0\Linked Liest.runtimeconfig.json
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Implementing Linked Lists\ConsoleApp1\bin\Debug\net6.0\Linked Liest.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Implementing Linked Lists\ConsoleApp1\bin\Debug\net6.0\Linked Liest.pdb
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Implementing Linked Lists\ConsoleApp1\obj\Debug\net6.0\Linked Liest.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Implementing Linked Lists\ConsoleApp1\obj\Debug\net6.0\Linked Liest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Implementing Linked Lists\ConsoleApp1\obj\Debug\net6.0\Linked Liest.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Implementing Linked Lists\ConsoleApp1\obj\Debug\net6.0\Linked Liest.AssemblyInfo.cs
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Implementing Linked Lists\ConsoleApp1\obj\Debug\net6.0\Linked Liest.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Implementing Linked Lists\ConsoleApp1\obj\Debug\net6.0\Linked Liest.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Implementing Linked Lists\ConsoleApp1\obj\Debug\net6.0\refint\Linked Liest.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Implementing Linked Lists\ConsoleApp1\obj\Debug\net6.0\Linked Liest.pdb
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Implementing Linked Lists\ConsoleApp1\obj\Debug\net6.0\Linked Liest.genruntimeconfig.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Implementing Linked Lists\ConsoleApp1\obj\Debug\net6.0\ref\Linked Liest.dll
