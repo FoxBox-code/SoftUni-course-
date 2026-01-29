@@ -1,0 +1,15 @@
+C:\Users\why19\Desktop\stuff\C# Advanced\2.Multidimensional Arrays\Exercice\Multidimensinal Arrays\10. Radioactive Mutant Vampire Bunnies\bin\Debug\net6.0\10. Radioactive Mutant Vampire Bunnies.exe
+C:\Users\why19\Desktop\stuff\C# Advanced\2.Multidimensional Arrays\Exercice\Multidimensinal Arrays\10. Radioactive Mutant Vampire Bunnies\bin\Debug\net6.0\10. Radioactive Mutant Vampire Bunnies.deps.json
+C:\Users\why19\Desktop\stuff\C# Advanced\2.Multidimensional Arrays\Exercice\Multidimensinal Arrays\10. Radioactive Mutant Vampire Bunnies\bin\Debug\net6.0\10. Radioactive Mutant Vampire Bunnies.runtimeconfig.json
+C:\Users\why19\Desktop\stuff\C# Advanced\2.Multidimensional Arrays\Exercice\Multidimensinal Arrays\10. Radioactive Mutant Vampire Bunnies\bin\Debug\net6.0\10. Radioactive Mutant Vampire Bunnies.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\2.Multidimensional Arrays\Exercice\Multidimensinal Arrays\10. Radioactive Mutant Vampire Bunnies\bin\Debug\net6.0\10. Radioactive Mutant Vampire Bunnies.pdb
+C:\Users\why19\Desktop\stuff\C# Advanced\2.Multidimensional Arrays\Exercice\Multidimensinal Arrays\10. Radioactive Mutant Vampire Bunnies\obj\Debug\net6.0\10. Radioactive Mutant Vampire Bunnies.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\2.Multidimensional Arrays\Exercice\Multidimensinal Arrays\10. Radioactive Mutant Vampire Bunnies\obj\Debug\net6.0\10. Radioactive Mutant Vampire Bunnies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\stuff\C# Advanced\2.Multidimensional Arrays\Exercice\Multidimensinal Arrays\10. Radioactive Mutant Vampire Bunnies\obj\Debug\net6.0\10. Radioactive Mutant Vampire Bunnies.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\2.Multidimensional Arrays\Exercice\Multidimensinal Arrays\10. Radioactive Mutant Vampire Bunnies\obj\Debug\net6.0\10. Radioactive Mutant Vampire Bunnies.AssemblyInfo.cs
+C:\Users\why19\Desktop\stuff\C# Advanced\2.Multidimensional Arrays\Exercice\Multidimensinal Arrays\10. Radioactive Mutant Vampire Bunnies\obj\Debug\net6.0\10. Radioactive Mutant Vampire Bunnies.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\2.Multidimensional Arrays\Exercice\Multidimensinal Arrays\10. Radioactive Mutant Vampire Bunnies\obj\Debug\net6.0\10. Radioactive Mutant Vampire Bunnies.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\2.Multidimensional Arrays\Exercice\Multidimensinal Arrays\10. Radioactive Mutant Vampire Bunnies\obj\Debug\net6.0\refint\10. Radioactive Mutant Vampire Bunnies.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\2.Multidimensional Arrays\Exercice\Multidimensinal Arrays\10. Radioactive Mutant Vampire Bunnies\obj\Debug\net6.0\10. Radioactive Mutant Vampire Bunnies.pdb
+C:\Users\why19\Desktop\stuff\C# Advanced\2.Multidimensional Arrays\Exercice\Multidimensinal Arrays\10. Radioactive Mutant Vampire Bunnies\obj\Debug\net6.0\10. Radioactive Mutant Vampire Bunnies.genruntimeconfig.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\2.Multidimensional Arrays\Exercice\Multidimensinal Arrays\10. Radioactive Mutant Vampire Bunnies\obj\Debug\net6.0\ref\10. Radioactive Mutant Vampire Bunnies.dll
