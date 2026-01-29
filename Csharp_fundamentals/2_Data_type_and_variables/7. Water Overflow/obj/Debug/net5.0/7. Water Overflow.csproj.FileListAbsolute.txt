@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\7. Water Overflow\bin\Debug\net5.0\7. Water Overflow.exe
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\7. Water Overflow\bin\Debug\net5.0\7. Water Overflow.deps.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\7. Water Overflow\bin\Debug\net5.0\7. Water Overflow.runtimeconfig.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\7. Water Overflow\bin\Debug\net5.0\7. Water Overflow.runtimeconfig.dev.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\7. Water Overflow\bin\Debug\net5.0\7. Water Overflow.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\7. Water Overflow\bin\Debug\net5.0\7. Water Overflow.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\7. Water Overflow\obj\Debug\net5.0\7. Water Overflow.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\7. Water Overflow\obj\Debug\net5.0\7. Water Overflow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\7. Water Overflow\obj\Debug\net5.0\7. Water Overflow.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\7. Water Overflow\obj\Debug\net5.0\7. Water Overflow.AssemblyInfo.cs
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\7. Water Overflow\obj\Debug\net5.0\7. Water Overflow.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\7. Water Overflow\obj\Debug\net5.0\7. Water Overflow.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\7. Water Overflow\obj\Debug\net5.0\refint\7. Water Overflow.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\7. Water Overflow\obj\Debug\net5.0\7. Water Overflow.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\7. Water Overflow\obj\Debug\net5.0\7. Water Overflow.genruntimeconfig.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\7. Water Overflow\obj\Debug\net5.0\ref\7. Water Overflow.dll
