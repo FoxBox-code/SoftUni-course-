@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\CS-Basics\Basketball 1.8\bin\Debug\net5.0\Basketball 1.8.exe
+C:\Users\why19\Desktop\CS-Basics\Basketball 1.8\bin\Debug\net5.0\Basketball 1.8.deps.json
+C:\Users\why19\Desktop\CS-Basics\Basketball 1.8\bin\Debug\net5.0\Basketball 1.8.runtimeconfig.json
+C:\Users\why19\Desktop\CS-Basics\Basketball 1.8\bin\Debug\net5.0\Basketball 1.8.runtimeconfig.dev.json
+C:\Users\why19\Desktop\CS-Basics\Basketball 1.8\bin\Debug\net5.0\Basketball 1.8.dll
+C:\Users\why19\Desktop\CS-Basics\Basketball 1.8\bin\Debug\net5.0\Basketball 1.8.pdb
+C:\Users\why19\Desktop\CS-Basics\Basketball 1.8\obj\Debug\net5.0\Basketball 1.8.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\CS-Basics\Basketball 1.8\obj\Debug\net5.0\Basketball 1.8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\CS-Basics\Basketball 1.8\obj\Debug\net5.0\Basketball 1.8.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\CS-Basics\Basketball 1.8\obj\Debug\net5.0\Basketball 1.8.AssemblyInfo.cs
+C:\Users\why19\Desktop\CS-Basics\Basketball 1.8\obj\Debug\net5.0\Basketball 1.8.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\CS-Basics\Basketball 1.8\obj\Debug\net5.0\Basketball 1.8.dll
+C:\Users\why19\Desktop\CS-Basics\Basketball 1.8\obj\Debug\net5.0\refint\Basketball 1.8.dll
+C:\Users\why19\Desktop\CS-Basics\Basketball 1.8\obj\Debug\net5.0\Basketball 1.8.pdb
+C:\Users\why19\Desktop\CS-Basics\Basketball 1.8\obj\Debug\net5.0\Basketball 1.8.genruntimeconfig.cache
+C:\Users\why19\Desktop\CS-Basics\Basketball 1.8\obj\Debug\net5.0\ref\Basketball 1.8.dll
