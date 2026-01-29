@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\CS-Basics\Aquarium\bin\Debug\net5.0\Aquarium1.9.exe
+C:\Users\why19\Desktop\CS-Basics\Aquarium\bin\Debug\net5.0\Aquarium1.9.deps.json
+C:\Users\why19\Desktop\CS-Basics\Aquarium\bin\Debug\net5.0\Aquarium1.9.runtimeconfig.json
+C:\Users\why19\Desktop\CS-Basics\Aquarium\bin\Debug\net5.0\Aquarium1.9.runtimeconfig.dev.json
+C:\Users\why19\Desktop\CS-Basics\Aquarium\bin\Debug\net5.0\Aquarium1.9.dll
+C:\Users\why19\Desktop\CS-Basics\Aquarium\bin\Debug\net5.0\Aquarium1.9.pdb
+C:\Users\why19\Desktop\CS-Basics\Aquarium\obj\Debug\net5.0\Aquarium1.9.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\CS-Basics\Aquarium\obj\Debug\net5.0\Aquarium1.9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\CS-Basics\Aquarium\obj\Debug\net5.0\Aquarium1.9.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\CS-Basics\Aquarium\obj\Debug\net5.0\Aquarium1.9.AssemblyInfo.cs
+C:\Users\why19\Desktop\CS-Basics\Aquarium\obj\Debug\net5.0\Aquarium1.9.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\CS-Basics\Aquarium\obj\Debug\net5.0\Aquarium1.9.dll
+C:\Users\why19\Desktop\CS-Basics\Aquarium\obj\Debug\net5.0\refint\Aquarium1.9.dll
+C:\Users\why19\Desktop\CS-Basics\Aquarium\obj\Debug\net5.0\Aquarium1.9.pdb
+C:\Users\why19\Desktop\CS-Basics\Aquarium\obj\Debug\net5.0\Aquarium1.9.genruntimeconfig.cache
+C:\Users\why19\Desktop\CS-Basics\Aquarium\obj\Debug\net5.0\ref\Aquarium1.9.dll
