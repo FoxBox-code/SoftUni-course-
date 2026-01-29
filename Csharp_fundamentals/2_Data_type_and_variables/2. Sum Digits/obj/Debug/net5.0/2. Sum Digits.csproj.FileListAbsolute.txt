@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\2. Sum Digits\bin\Debug\net5.0\2. Sum Digits.exe
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\2. Sum Digits\bin\Debug\net5.0\2. Sum Digits.deps.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\2. Sum Digits\bin\Debug\net5.0\2. Sum Digits.runtimeconfig.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\2. Sum Digits\bin\Debug\net5.0\2. Sum Digits.runtimeconfig.dev.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\2. Sum Digits\bin\Debug\net5.0\2. Sum Digits.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\2. Sum Digits\bin\Debug\net5.0\2. Sum Digits.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\2. Sum Digits\obj\Debug\net5.0\2. Sum Digits.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\2. Sum Digits\obj\Debug\net5.0\2. Sum Digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\2. Sum Digits\obj\Debug\net5.0\2. Sum Digits.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\2. Sum Digits\obj\Debug\net5.0\2. Sum Digits.AssemblyInfo.cs
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\2. Sum Digits\obj\Debug\net5.0\2. Sum Digits.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\2. Sum Digits\obj\Debug\net5.0\2. Sum Digits.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\2. Sum Digits\obj\Debug\net5.0\refint\2. Sum Digits.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\2. Sum Digits\obj\Debug\net5.0\2. Sum Digits.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\2. Sum Digits\obj\Debug\net5.0\2. Sum Digits.genruntimeconfig.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\2. Sum Digits\obj\Debug\net5.0\ref\2. Sum Digits.dll
