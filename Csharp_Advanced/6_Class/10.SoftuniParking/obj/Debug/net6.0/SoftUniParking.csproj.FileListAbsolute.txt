@@ -1,0 +1,15 @@
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Exercises\Exercises\10.SoftuniParking\bin\Debug\net6.0\SoftUniParking.exe
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Exercises\Exercises\10.SoftuniParking\bin\Debug\net6.0\SoftUniParking.deps.json
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Exercises\Exercises\10.SoftuniParking\bin\Debug\net6.0\SoftUniParking.runtimeconfig.json
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Exercises\Exercises\10.SoftuniParking\bin\Debug\net6.0\SoftUniParking.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Exercises\Exercises\10.SoftuniParking\bin\Debug\net6.0\SoftUniParking.pdb
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Exercises\Exercises\10.SoftuniParking\obj\Debug\net6.0\SoftUniParking.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Exercises\Exercises\10.SoftuniParking\obj\Debug\net6.0\SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Exercises\Exercises\10.SoftuniParking\obj\Debug\net6.0\SoftUniParking.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Exercises\Exercises\10.SoftuniParking\obj\Debug\net6.0\SoftUniParking.AssemblyInfo.cs
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Exercises\Exercises\10.SoftuniParking\obj\Debug\net6.0\SoftUniParking.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Exercises\Exercises\10.SoftuniParking\obj\Debug\net6.0\SoftUniParking.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Exercises\Exercises\10.SoftuniParking\obj\Debug\net6.0\refint\SoftUniParking.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Exercises\Exercises\10.SoftuniParking\obj\Debug\net6.0\SoftUniParking.pdb
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Exercises\Exercises\10.SoftuniParking\obj\Debug\net6.0\SoftUniParking.genruntimeconfig.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Exercises\Exercises\10.SoftuniParking\obj\Debug\net6.0\ref\SoftUniParking.dll
