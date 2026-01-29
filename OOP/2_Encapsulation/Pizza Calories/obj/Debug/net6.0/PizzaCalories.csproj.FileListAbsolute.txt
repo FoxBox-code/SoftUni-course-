@@ -1,0 +1,15 @@
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\02.Encapsulation\Exercises\Pizza Calories\bin\Debug\net6.0\PizzaCalories.exe
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\02.Encapsulation\Exercises\Pizza Calories\bin\Debug\net6.0\PizzaCalories.deps.json
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\02.Encapsulation\Exercises\Pizza Calories\bin\Debug\net6.0\PizzaCalories.runtimeconfig.json
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\02.Encapsulation\Exercises\Pizza Calories\bin\Debug\net6.0\PizzaCalories.dll
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\02.Encapsulation\Exercises\Pizza Calories\bin\Debug\net6.0\PizzaCalories.pdb
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\02.Encapsulation\Exercises\Pizza Calories\obj\Debug\net6.0\PizzaCalories.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\02.Encapsulation\Exercises\Pizza Calories\obj\Debug\net6.0\PizzaCalories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\02.Encapsulation\Exercises\Pizza Calories\obj\Debug\net6.0\PizzaCalories.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\02.Encapsulation\Exercises\Pizza Calories\obj\Debug\net6.0\PizzaCalories.AssemblyInfo.cs
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\02.Encapsulation\Exercises\Pizza Calories\obj\Debug\net6.0\PizzaCalories.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\02.Encapsulation\Exercises\Pizza Calories\obj\Debug\net6.0\PizzaCalories.dll
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\02.Encapsulation\Exercises\Pizza Calories\obj\Debug\net6.0\refint\PizzaCalories.dll
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\02.Encapsulation\Exercises\Pizza Calories\obj\Debug\net6.0\PizzaCalories.pdb
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\02.Encapsulation\Exercises\Pizza Calories\obj\Debug\net6.0\PizzaCalories.genruntimeconfig.cache
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\02.Encapsulation\Exercises\Pizza Calories\obj\Debug\net6.0\ref\PizzaCalories.dll
