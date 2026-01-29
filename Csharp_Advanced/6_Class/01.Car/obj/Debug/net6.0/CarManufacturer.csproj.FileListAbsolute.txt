@@ -1,0 +1,5 @@
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Defining Classes\01.Car\obj\Debug\net6.0\CarManufacturer.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Defining Classes\01.Car\obj\Debug\net6.0\CarManufacturer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Defining Classes\01.Car\obj\Debug\net6.0\CarManufacturer.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Defining Classes\01.Car\obj\Debug\net6.0\CarManufacturer.AssemblyInfo.cs
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Defining Classes\01.Car\obj\Debug\net6.0\CarManufacturer.csproj.CoreCompileInputs.cache
