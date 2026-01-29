@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\stuff\C# Fundamentals\9.List Exersice\List Exersice\03.House Party\bin\Debug\net5.0\03.House Party.exe
+C:\Users\why19\Desktop\stuff\C# Fundamentals\9.List Exersice\List Exersice\03.House Party\bin\Debug\net5.0\03.House Party.deps.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\9.List Exersice\List Exersice\03.House Party\bin\Debug\net5.0\03.House Party.runtimeconfig.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\9.List Exersice\List Exersice\03.House Party\bin\Debug\net5.0\03.House Party.runtimeconfig.dev.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\9.List Exersice\List Exersice\03.House Party\bin\Debug\net5.0\03.House Party.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\9.List Exersice\List Exersice\03.House Party\bin\Debug\net5.0\03.House Party.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\9.List Exersice\List Exersice\03.House Party\obj\Debug\net5.0\03.House Party.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\9.List Exersice\List Exersice\03.House Party\obj\Debug\net5.0\03.House Party.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\stuff\C# Fundamentals\9.List Exersice\List Exersice\03.House Party\obj\Debug\net5.0\03.House Party.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\9.List Exersice\List Exersice\03.House Party\obj\Debug\net5.0\03.House Party.AssemblyInfo.cs
+C:\Users\why19\Desktop\stuff\C# Fundamentals\9.List Exersice\List Exersice\03.House Party\obj\Debug\net5.0\03.House Party.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\9.List Exersice\List Exersice\03.House Party\obj\Debug\net5.0\03.House Party.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\9.List Exersice\List Exersice\03.House Party\obj\Debug\net5.0\refint\03.House Party.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\9.List Exersice\List Exersice\03.House Party\obj\Debug\net5.0\03.House Party.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\9.List Exersice\List Exersice\03.House Party\obj\Debug\net5.0\03.House Party.genruntimeconfig.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\9.List Exersice\List Exersice\03.House Party\obj\Debug\net5.0\ref\03.House Party.dll
