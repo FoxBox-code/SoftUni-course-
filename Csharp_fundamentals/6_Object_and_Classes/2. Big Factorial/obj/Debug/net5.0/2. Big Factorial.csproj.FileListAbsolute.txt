@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\stuff\C# Fundamentals\10.Objects and Classes\ConsoleApp1\2. Big Factorial\bin\Debug\net5.0\2. Big Factorial.exe
+C:\Users\why19\Desktop\stuff\C# Fundamentals\10.Objects and Classes\ConsoleApp1\2. Big Factorial\bin\Debug\net5.0\2. Big Factorial.deps.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\10.Objects and Classes\ConsoleApp1\2. Big Factorial\bin\Debug\net5.0\2. Big Factorial.runtimeconfig.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\10.Objects and Classes\ConsoleApp1\2. Big Factorial\bin\Debug\net5.0\2. Big Factorial.runtimeconfig.dev.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\10.Objects and Classes\ConsoleApp1\2. Big Factorial\bin\Debug\net5.0\2. Big Factorial.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\10.Objects and Classes\ConsoleApp1\2. Big Factorial\bin\Debug\net5.0\2. Big Factorial.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\10.Objects and Classes\ConsoleApp1\2. Big Factorial\obj\Debug\net5.0\2. Big Factorial.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\10.Objects and Classes\ConsoleApp1\2. Big Factorial\obj\Debug\net5.0\2. Big Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\stuff\C# Fundamentals\10.Objects and Classes\ConsoleApp1\2. Big Factorial\obj\Debug\net5.0\2. Big Factorial.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\10.Objects and Classes\ConsoleApp1\2. Big Factorial\obj\Debug\net5.0\2. Big Factorial.AssemblyInfo.cs
+C:\Users\why19\Desktop\stuff\C# Fundamentals\10.Objects and Classes\ConsoleApp1\2. Big Factorial\obj\Debug\net5.0\2. Big Factorial.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\10.Objects and Classes\ConsoleApp1\2. Big Factorial\obj\Debug\net5.0\2. Big Factorial.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\10.Objects and Classes\ConsoleApp1\2. Big Factorial\obj\Debug\net5.0\refint\2. Big Factorial.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\10.Objects and Classes\ConsoleApp1\2. Big Factorial\obj\Debug\net5.0\2. Big Factorial.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\10.Objects and Classes\ConsoleApp1\2. Big Factorial\obj\Debug\net5.0\2. Big Factorial.genruntimeconfig.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\10.Objects and Classes\ConsoleApp1\2. Big Factorial\obj\Debug\net5.0\ref\2. Big Factorial.dll

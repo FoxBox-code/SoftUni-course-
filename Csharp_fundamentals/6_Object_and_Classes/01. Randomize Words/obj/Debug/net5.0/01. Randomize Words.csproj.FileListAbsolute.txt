@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\stuff\C# Fundamentals\10.Objects and Classes\ConsoleApp1\01. Randomize Words\bin\Debug\net5.0\01. Randomize Words.exe
+C:\Users\why19\Desktop\stuff\C# Fundamentals\10.Objects and Classes\ConsoleApp1\01. Randomize Words\bin\Debug\net5.0\01. Randomize Words.deps.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\10.Objects and Classes\ConsoleApp1\01. Randomize Words\bin\Debug\net5.0\01. Randomize Words.runtimeconfig.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\10.Objects and Classes\ConsoleApp1\01. Randomize Words\bin\Debug\net5.0\01. Randomize Words.runtimeconfig.dev.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\10.Objects and Classes\ConsoleApp1\01. Randomize Words\bin\Debug\net5.0\01. Randomize Words.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\10.Objects and Classes\ConsoleApp1\01. Randomize Words\bin\Debug\net5.0\01. Randomize Words.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\10.Objects and Classes\ConsoleApp1\01. Randomize Words\obj\Debug\net5.0\01. Randomize Words.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\10.Objects and Classes\ConsoleApp1\01. Randomize Words\obj\Debug\net5.0\01. Randomize Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\stuff\C# Fundamentals\10.Objects and Classes\ConsoleApp1\01. Randomize Words\obj\Debug\net5.0\01. Randomize Words.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\10.Objects and Classes\ConsoleApp1\01. Randomize Words\obj\Debug\net5.0\01. Randomize Words.AssemblyInfo.cs
+C:\Users\why19\Desktop\stuff\C# Fundamentals\10.Objects and Classes\ConsoleApp1\01. Randomize Words\obj\Debug\net5.0\01. Randomize Words.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\10.Objects and Classes\ConsoleApp1\01. Randomize Words\obj\Debug\net5.0\01. Randomize Words.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\10.Objects and Classes\ConsoleApp1\01. Randomize Words\obj\Debug\net5.0\refint\01. Randomize Words.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\10.Objects and Classes\ConsoleApp1\01. Randomize Words\obj\Debug\net5.0\01. Randomize Words.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\10.Objects and Classes\ConsoleApp1\01. Randomize Words\obj\Debug\net5.0\01. Randomize Words.genruntimeconfig.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\10.Objects and Classes\ConsoleApp1\01. Randomize Words\obj\Debug\net5.0\ref\01. Randomize Words.dll
