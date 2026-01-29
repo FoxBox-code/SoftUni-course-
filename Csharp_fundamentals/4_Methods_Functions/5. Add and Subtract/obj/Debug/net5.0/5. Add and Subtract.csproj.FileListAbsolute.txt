@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\stuff\C# Fundamentals\7.Methods Exersice\Methods Exersices\5. Add and Subtract\bin\Debug\net5.0\5. Add and Subtract.exe
+C:\Users\why19\Desktop\stuff\C# Fundamentals\7.Methods Exersice\Methods Exersices\5. Add and Subtract\bin\Debug\net5.0\5. Add and Subtract.deps.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\7.Methods Exersice\Methods Exersices\5. Add and Subtract\bin\Debug\net5.0\5. Add and Subtract.runtimeconfig.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\7.Methods Exersice\Methods Exersices\5. Add and Subtract\bin\Debug\net5.0\5. Add and Subtract.runtimeconfig.dev.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\7.Methods Exersice\Methods Exersices\5. Add and Subtract\bin\Debug\net5.0\5. Add and Subtract.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\7.Methods Exersice\Methods Exersices\5. Add and Subtract\bin\Debug\net5.0\5. Add and Subtract.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\7.Methods Exersice\Methods Exersices\5. Add and Subtract\obj\Debug\net5.0\5. Add and Subtract.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\7.Methods Exersice\Methods Exersices\5. Add and Subtract\obj\Debug\net5.0\5. Add and Subtract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\stuff\C# Fundamentals\7.Methods Exersice\Methods Exersices\5. Add and Subtract\obj\Debug\net5.0\5. Add and Subtract.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\7.Methods Exersice\Methods Exersices\5. Add and Subtract\obj\Debug\net5.0\5. Add and Subtract.AssemblyInfo.cs
+C:\Users\why19\Desktop\stuff\C# Fundamentals\7.Methods Exersice\Methods Exersices\5. Add and Subtract\obj\Debug\net5.0\5. Add and Subtract.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\7.Methods Exersice\Methods Exersices\5. Add and Subtract\obj\Debug\net5.0\5. Add and Subtract.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\7.Methods Exersice\Methods Exersices\5. Add and Subtract\obj\Debug\net5.0\refint\5. Add and Subtract.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\7.Methods Exersice\Methods Exersices\5. Add and Subtract\obj\Debug\net5.0\5. Add and Subtract.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\7.Methods Exersice\Methods Exersices\5. Add and Subtract\obj\Debug\net5.0\5. Add and Subtract.genruntimeconfig.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\7.Methods Exersice\Methods Exersices\5. Add and Subtract\obj\Debug\net5.0\ref\5. Add and Subtract.dll
