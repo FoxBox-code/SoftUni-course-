@@ -1,34 +1,11 @@
-﻿
-using ConsoleApp1;
+﻿Dictionary<string , int> keyValuePairs = new Dictionary<string , int>();
 
-Student mainCharachter = new Student()
+
+keyValuePairs.Add("king", 7);
+
+
+Console.WriteLine(keyValuePairs["king"]);
+foreach (var item in keyValuePairs)
 {
-    FistName = "Dante",
-    LastName = "Sparda",
-    age = 24,
-    grade = 6
-
-
-
-};
-Student brother = new Student();
-
-brother.FistName = "Vergil";
-brother.LastName = "Spadra";
-brother.age = mainCharachter.age;
-brother.grade = 6.6;                                        //Another way of writting 
-
-
-
-Charachter(mainCharachter);
-
-
-static void Charachter(Student charachter)
-{
-    Console.WriteLine($"Fist name {charachter.FistName} Father's name {charachter.LastName} age {charachter.age} style {charachter.grade}");
+    Console.WriteLine(item.Key);
 }
-//This is how we define and display classes
-
-
-
-Charachter(brother);
