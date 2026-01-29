@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\stuff\C# Fundamentals\1. Ages\9. Padawan Equipment\bin\Debug\net5.0\9. Padawan Equipment.exe
+C:\Users\why19\Desktop\stuff\C# Fundamentals\1. Ages\9. Padawan Equipment\bin\Debug\net5.0\9. Padawan Equipment.deps.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\1. Ages\9. Padawan Equipment\bin\Debug\net5.0\9. Padawan Equipment.runtimeconfig.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\1. Ages\9. Padawan Equipment\bin\Debug\net5.0\9. Padawan Equipment.runtimeconfig.dev.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\1. Ages\9. Padawan Equipment\bin\Debug\net5.0\9. Padawan Equipment.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\1. Ages\9. Padawan Equipment\bin\Debug\net5.0\9. Padawan Equipment.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\1. Ages\9. Padawan Equipment\obj\Debug\net5.0\9. Padawan Equipment.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\1. Ages\9. Padawan Equipment\obj\Debug\net5.0\9. Padawan Equipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\stuff\C# Fundamentals\1. Ages\9. Padawan Equipment\obj\Debug\net5.0\9. Padawan Equipment.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\1. Ages\9. Padawan Equipment\obj\Debug\net5.0\9. Padawan Equipment.AssemblyInfo.cs
+C:\Users\why19\Desktop\stuff\C# Fundamentals\1. Ages\9. Padawan Equipment\obj\Debug\net5.0\9. Padawan Equipment.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\1. Ages\9. Padawan Equipment\obj\Debug\net5.0\9. Padawan Equipment.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\1. Ages\9. Padawan Equipment\obj\Debug\net5.0\refint\9. Padawan Equipment.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\1. Ages\9. Padawan Equipment\obj\Debug\net5.0\9. Padawan Equipment.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\1. Ages\9. Padawan Equipment\obj\Debug\net5.0\9. Padawan Equipment.genruntimeconfig.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\1. Ages\9. Padawan Equipment\obj\Debug\net5.0\ref\9. Padawan Equipment.dll
