@@ -1,0 +1,15 @@
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Defining Classes\Constructors\bin\Debug\net6.0\Constructors.exe
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Defining Classes\Constructors\bin\Debug\net6.0\Constructors.deps.json
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Defining Classes\Constructors\bin\Debug\net6.0\Constructors.runtimeconfig.json
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Defining Classes\Constructors\bin\Debug\net6.0\Constructors.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Defining Classes\Constructors\bin\Debug\net6.0\Constructors.pdb
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Defining Classes\Constructors\obj\Debug\net6.0\Constructors.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Defining Classes\Constructors\obj\Debug\net6.0\Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Defining Classes\Constructors\obj\Debug\net6.0\Constructors.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Defining Classes\Constructors\obj\Debug\net6.0\Constructors.AssemblyInfo.cs
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Defining Classes\Constructors\obj\Debug\net6.0\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Defining Classes\Constructors\obj\Debug\net6.0\Constructors.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Defining Classes\Constructors\obj\Debug\net6.0\refint\Constructors.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Defining Classes\Constructors\obj\Debug\net6.0\Constructors.pdb
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Defining Classes\Constructors\obj\Debug\net6.0\Constructors.genruntimeconfig.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\6.Class\Defining Classes\Constructors\obj\Debug\net6.0\ref\Constructors.dll
