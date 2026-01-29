@@ -9,4 +9,4 @@
 - Generics
 - Functional programming concepts
 - Sets
--LINQ basics
+- LINQ basics
