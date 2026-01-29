@@ -1,0 +1,15 @@
+C:\Users\why19\Desktop\stuff\C# Advanced\3.Sets and Dictionaries Advanced\Exercises\SetsAndDictionaryExercises\10. Solution\bin\Debug\net6.0\10. Solution.exe
+C:\Users\why19\Desktop\stuff\C# Advanced\3.Sets and Dictionaries Advanced\Exercises\SetsAndDictionaryExercises\10. Solution\bin\Debug\net6.0\10. Solution.deps.json
+C:\Users\why19\Desktop\stuff\C# Advanced\3.Sets and Dictionaries Advanced\Exercises\SetsAndDictionaryExercises\10. Solution\bin\Debug\net6.0\10. Solution.runtimeconfig.json
+C:\Users\why19\Desktop\stuff\C# Advanced\3.Sets and Dictionaries Advanced\Exercises\SetsAndDictionaryExercises\10. Solution\bin\Debug\net6.0\10. Solution.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\3.Sets and Dictionaries Advanced\Exercises\SetsAndDictionaryExercises\10. Solution\bin\Debug\net6.0\10. Solution.pdb
+C:\Users\why19\Desktop\stuff\C# Advanced\3.Sets and Dictionaries Advanced\Exercises\SetsAndDictionaryExercises\10. Solution\obj\Debug\net6.0\10. Solution.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\3.Sets and Dictionaries Advanced\Exercises\SetsAndDictionaryExercises\10. Solution\obj\Debug\net6.0\10. Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\stuff\C# Advanced\3.Sets and Dictionaries Advanced\Exercises\SetsAndDictionaryExercises\10. Solution\obj\Debug\net6.0\10. Solution.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\3.Sets and Dictionaries Advanced\Exercises\SetsAndDictionaryExercises\10. Solution\obj\Debug\net6.0\10. Solution.AssemblyInfo.cs
+C:\Users\why19\Desktop\stuff\C# Advanced\3.Sets and Dictionaries Advanced\Exercises\SetsAndDictionaryExercises\10. Solution\obj\Debug\net6.0\10. Solution.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\3.Sets and Dictionaries Advanced\Exercises\SetsAndDictionaryExercises\10. Solution\obj\Debug\net6.0\10. Solution.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\3.Sets and Dictionaries Advanced\Exercises\SetsAndDictionaryExercises\10. Solution\obj\Debug\net6.0\refint\10. Solution.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\3.Sets and Dictionaries Advanced\Exercises\SetsAndDictionaryExercises\10. Solution\obj\Debug\net6.0\10. Solution.pdb
+C:\Users\why19\Desktop\stuff\C# Advanced\3.Sets and Dictionaries Advanced\Exercises\SetsAndDictionaryExercises\10. Solution\obj\Debug\net6.0\10. Solution.genruntimeconfig.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\3.Sets and Dictionaries Advanced\Exercises\SetsAndDictionaryExercises\10. Solution\obj\Debug\net6.0\ref\10. Solution.dll
