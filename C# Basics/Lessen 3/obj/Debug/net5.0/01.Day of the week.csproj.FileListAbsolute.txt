@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\Lessen 3\bin\Debug\net5.0\01.Day of the week.exe
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\Lessen 3\bin\Debug\net5.0\01.Day of the week.deps.json
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\Lessen 3\bin\Debug\net5.0\01.Day of the week.runtimeconfig.json
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\Lessen 3\bin\Debug\net5.0\01.Day of the week.runtimeconfig.dev.json
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\Lessen 3\bin\Debug\net5.0\01.Day of the week.dll
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\Lessen 3\bin\Debug\net5.0\01.Day of the week.pdb
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\Lessen 3\obj\Debug\net5.0\01.Day of the week.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\Lessen 3\obj\Debug\net5.0\01.Day of the week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\Lessen 3\obj\Debug\net5.0\01.Day of the week.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\Lessen 3\obj\Debug\net5.0\01.Day of the week.AssemblyInfo.cs
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\Lessen 3\obj\Debug\net5.0\01.Day of the week.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\Lessen 3\obj\Debug\net5.0\01.Day of the week.dll
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\Lessen 3\obj\Debug\net5.0\refint\01.Day of the week.dll
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\Lessen 3\obj\Debug\net5.0\01.Day of the week.pdb
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\Lessen 3\obj\Debug\net5.0\01.Day of the week.genruntimeconfig.cache
+C:\Users\why19\Desktop\CS-Basics\Complex IF else\Lessen 3\obj\Debug\net5.0\ref\01.Day of the week.dll
