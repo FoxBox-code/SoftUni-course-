@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\5. Print Part of the ASCII Tabl\bin\Debug\net5.0\5. Print Part of the ASCII Tabl.exe
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\5. Print Part of the ASCII Tabl\bin\Debug\net5.0\5. Print Part of the ASCII Tabl.deps.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\5. Print Part of the ASCII Tabl\bin\Debug\net5.0\5. Print Part of the ASCII Tabl.runtimeconfig.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\5. Print Part of the ASCII Tabl\bin\Debug\net5.0\5. Print Part of the ASCII Tabl.runtimeconfig.dev.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\5. Print Part of the ASCII Tabl\bin\Debug\net5.0\5. Print Part of the ASCII Tabl.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\5. Print Part of the ASCII Tabl\bin\Debug\net5.0\5. Print Part of the ASCII Tabl.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\5. Print Part of the ASCII Tabl\obj\Debug\net5.0\5. Print Part of the ASCII Tabl.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\5. Print Part of the ASCII Tabl\obj\Debug\net5.0\5. Print Part of the ASCII Tabl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\5. Print Part of the ASCII Tabl\obj\Debug\net5.0\5. Print Part of the ASCII Tabl.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\5. Print Part of the ASCII Tabl\obj\Debug\net5.0\5. Print Part of the ASCII Tabl.AssemblyInfo.cs
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\5. Print Part of the ASCII Tabl\obj\Debug\net5.0\5. Print Part of the ASCII Tabl.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\5. Print Part of the ASCII Tabl\obj\Debug\net5.0\5. Print Part of the ASCII Tabl.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\5. Print Part of the ASCII Tabl\obj\Debug\net5.0\refint\5. Print Part of the ASCII Tabl.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\5. Print Part of the ASCII Tabl\obj\Debug\net5.0\5. Print Part of the ASCII Tabl.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\5. Print Part of the ASCII Tabl\obj\Debug\net5.0\5. Print Part of the ASCII Tabl.genruntimeconfig.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\3.Exercise Data Types and Variables\Exerciseata Types and Variables\5. Print Part of the ASCII Tabl\obj\Debug\net5.0\ref\5. Print Part of the ASCII Tabl.dll
