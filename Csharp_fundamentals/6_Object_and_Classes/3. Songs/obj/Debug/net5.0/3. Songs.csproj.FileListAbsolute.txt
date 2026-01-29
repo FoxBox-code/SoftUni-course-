@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\stuff\C# Fundamentals\10.Objects and Classes\ConsoleApp1\3. Songs\bin\Debug\net5.0\3. Songs.exe
+C:\Users\why19\Desktop\stuff\C# Fundamentals\10.Objects and Classes\ConsoleApp1\3. Songs\bin\Debug\net5.0\3. Songs.deps.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\10.Objects and Classes\ConsoleApp1\3. Songs\bin\Debug\net5.0\3. Songs.runtimeconfig.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\10.Objects and Classes\ConsoleApp1\3. Songs\bin\Debug\net5.0\3. Songs.runtimeconfig.dev.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\10.Objects and Classes\ConsoleApp1\3. Songs\bin\Debug\net5.0\3. Songs.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\10.Objects and Classes\ConsoleApp1\3. Songs\bin\Debug\net5.0\3. Songs.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\10.Objects and Classes\ConsoleApp1\3. Songs\obj\Debug\net5.0\3. Songs.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\10.Objects and Classes\ConsoleApp1\3. Songs\obj\Debug\net5.0\3. Songs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\stuff\C# Fundamentals\10.Objects and Classes\ConsoleApp1\3. Songs\obj\Debug\net5.0\3. Songs.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\10.Objects and Classes\ConsoleApp1\3. Songs\obj\Debug\net5.0\3. Songs.AssemblyInfo.cs
+C:\Users\why19\Desktop\stuff\C# Fundamentals\10.Objects and Classes\ConsoleApp1\3. Songs\obj\Debug\net5.0\3. Songs.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\10.Objects and Classes\ConsoleApp1\3. Songs\obj\Debug\net5.0\3. Songs.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\10.Objects and Classes\ConsoleApp1\3. Songs\obj\Debug\net5.0\refint\3. Songs.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\10.Objects and Classes\ConsoleApp1\3. Songs\obj\Debug\net5.0\3. Songs.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\10.Objects and Classes\ConsoleApp1\3. Songs\obj\Debug\net5.0\3. Songs.genruntimeconfig.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\10.Objects and Classes\ConsoleApp1\3. Songs\obj\Debug\net5.0\ref\3. Songs.dll
