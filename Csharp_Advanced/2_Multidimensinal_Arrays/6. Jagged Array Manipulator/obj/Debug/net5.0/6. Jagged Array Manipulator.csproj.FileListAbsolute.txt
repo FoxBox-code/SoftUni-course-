@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\stuff\C# Advanced\Multidimensional Arrays\Exercice\Multidimensinal Arrays\6. Jagged Array Manipulator\bin\Debug\net5.0\6. Jagged Array Manipulator.exe
+C:\Users\why19\Desktop\stuff\C# Advanced\Multidimensional Arrays\Exercice\Multidimensinal Arrays\6. Jagged Array Manipulator\bin\Debug\net5.0\6. Jagged Array Manipulator.deps.json
+C:\Users\why19\Desktop\stuff\C# Advanced\Multidimensional Arrays\Exercice\Multidimensinal Arrays\6. Jagged Array Manipulator\bin\Debug\net5.0\6. Jagged Array Manipulator.runtimeconfig.json
+C:\Users\why19\Desktop\stuff\C# Advanced\Multidimensional Arrays\Exercice\Multidimensinal Arrays\6. Jagged Array Manipulator\bin\Debug\net5.0\6. Jagged Array Manipulator.runtimeconfig.dev.json
+C:\Users\why19\Desktop\stuff\C# Advanced\Multidimensional Arrays\Exercice\Multidimensinal Arrays\6. Jagged Array Manipulator\bin\Debug\net5.0\6. Jagged Array Manipulator.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\Multidimensional Arrays\Exercice\Multidimensinal Arrays\6. Jagged Array Manipulator\bin\Debug\net5.0\6. Jagged Array Manipulator.pdb
+C:\Users\why19\Desktop\stuff\C# Advanced\Multidimensional Arrays\Exercice\Multidimensinal Arrays\6. Jagged Array Manipulator\obj\Debug\net5.0\6. Jagged Array Manipulator.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\Multidimensional Arrays\Exercice\Multidimensinal Arrays\6. Jagged Array Manipulator\obj\Debug\net5.0\6. Jagged Array Manipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\stuff\C# Advanced\Multidimensional Arrays\Exercice\Multidimensinal Arrays\6. Jagged Array Manipulator\obj\Debug\net5.0\6. Jagged Array Manipulator.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\Multidimensional Arrays\Exercice\Multidimensinal Arrays\6. Jagged Array Manipulator\obj\Debug\net5.0\6. Jagged Array Manipulator.AssemblyInfo.cs
+C:\Users\why19\Desktop\stuff\C# Advanced\Multidimensional Arrays\Exercice\Multidimensinal Arrays\6. Jagged Array Manipulator\obj\Debug\net5.0\6. Jagged Array Manipulator.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\Multidimensional Arrays\Exercice\Multidimensinal Arrays\6. Jagged Array Manipulator\obj\Debug\net5.0\6. Jagged Array Manipulator.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\Multidimensional Arrays\Exercice\Multidimensinal Arrays\6. Jagged Array Manipulator\obj\Debug\net5.0\refint\6. Jagged Array Manipulator.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\Multidimensional Arrays\Exercice\Multidimensinal Arrays\6. Jagged Array Manipulator\obj\Debug\net5.0\6. Jagged Array Manipulator.pdb
+C:\Users\why19\Desktop\stuff\C# Advanced\Multidimensional Arrays\Exercice\Multidimensinal Arrays\6. Jagged Array Manipulator\obj\Debug\net5.0\6. Jagged Array Manipulator.genruntimeconfig.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\Multidimensional Arrays\Exercice\Multidimensinal Arrays\6. Jagged Array Manipulator\obj\Debug\net5.0\ref\6. Jagged Array Manipulator.dll
