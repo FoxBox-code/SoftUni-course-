@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\CS-Basics\FoodDelivery 1.7\bin\Debug\net5.0\FoodDelivery 1.7.exe
+C:\Users\why19\Desktop\CS-Basics\FoodDelivery 1.7\bin\Debug\net5.0\FoodDelivery 1.7.deps.json
+C:\Users\why19\Desktop\CS-Basics\FoodDelivery 1.7\bin\Debug\net5.0\FoodDelivery 1.7.runtimeconfig.json
+C:\Users\why19\Desktop\CS-Basics\FoodDelivery 1.7\bin\Debug\net5.0\FoodDelivery 1.7.runtimeconfig.dev.json
+C:\Users\why19\Desktop\CS-Basics\FoodDelivery 1.7\bin\Debug\net5.0\FoodDelivery 1.7.dll
+C:\Users\why19\Desktop\CS-Basics\FoodDelivery 1.7\bin\Debug\net5.0\FoodDelivery 1.7.pdb
+C:\Users\why19\Desktop\CS-Basics\FoodDelivery 1.7\obj\Debug\net5.0\FoodDelivery 1.7.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\CS-Basics\FoodDelivery 1.7\obj\Debug\net5.0\FoodDelivery 1.7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\CS-Basics\FoodDelivery 1.7\obj\Debug\net5.0\FoodDelivery 1.7.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\CS-Basics\FoodDelivery 1.7\obj\Debug\net5.0\FoodDelivery 1.7.AssemblyInfo.cs
+C:\Users\why19\Desktop\CS-Basics\FoodDelivery 1.7\obj\Debug\net5.0\FoodDelivery 1.7.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\CS-Basics\FoodDelivery 1.7\obj\Debug\net5.0\FoodDelivery 1.7.dll
+C:\Users\why19\Desktop\CS-Basics\FoodDelivery 1.7\obj\Debug\net5.0\refint\FoodDelivery 1.7.dll
+C:\Users\why19\Desktop\CS-Basics\FoodDelivery 1.7\obj\Debug\net5.0\FoodDelivery 1.7.pdb
+C:\Users\why19\Desktop\CS-Basics\FoodDelivery 1.7\obj\Debug\net5.0\FoodDelivery 1.7.genruntimeconfig.cache
+C:\Users\why19\Desktop\CS-Basics\FoodDelivery 1.7\obj\Debug\net5.0\ref\FoodDelivery 1.7.dll
