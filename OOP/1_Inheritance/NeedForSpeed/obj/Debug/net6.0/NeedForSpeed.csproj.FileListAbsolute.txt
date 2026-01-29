@@ -1,0 +1,15 @@
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\01.Inheritance\Exercises\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.exe
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\01.Inheritance\Exercises\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.deps.json
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\01.Inheritance\Exercises\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.runtimeconfig.json
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\01.Inheritance\Exercises\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.dll
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\01.Inheritance\Exercises\NeedForSpeed\bin\Debug\net6.0\NeedForSpeed.pdb
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\01.Inheritance\Exercises\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\01.Inheritance\Exercises\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\01.Inheritance\Exercises\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\01.Inheritance\Exercises\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.AssemblyInfo.cs
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\01.Inheritance\Exercises\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\01.Inheritance\Exercises\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.dll
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\01.Inheritance\Exercises\NeedForSpeed\obj\Debug\net6.0\refint\NeedForSpeed.dll
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\01.Inheritance\Exercises\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.pdb
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\01.Inheritance\Exercises\NeedForSpeed\obj\Debug\net6.0\NeedForSpeed.genruntimeconfig.cache
+C:\Users\why19\Desktop\stuff\C# Advanced part 2 OOP\01.Inheritance\Exercises\NeedForSpeed\obj\Debug\net6.0\ref\NeedForSpeed.dll
