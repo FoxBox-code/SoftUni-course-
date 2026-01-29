@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\stuff\C# Fundamentals\14.Text Processing\Text Processing Exersice\04. Caesar Cipher\bin\Debug\net5.0\04. Caesar Cipher.exe
+C:\Users\why19\Desktop\stuff\C# Fundamentals\14.Text Processing\Text Processing Exersice\04. Caesar Cipher\bin\Debug\net5.0\04. Caesar Cipher.deps.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\14.Text Processing\Text Processing Exersice\04. Caesar Cipher\bin\Debug\net5.0\04. Caesar Cipher.runtimeconfig.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\14.Text Processing\Text Processing Exersice\04. Caesar Cipher\bin\Debug\net5.0\04. Caesar Cipher.runtimeconfig.dev.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\14.Text Processing\Text Processing Exersice\04. Caesar Cipher\bin\Debug\net5.0\04. Caesar Cipher.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\14.Text Processing\Text Processing Exersice\04. Caesar Cipher\bin\Debug\net5.0\04. Caesar Cipher.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\14.Text Processing\Text Processing Exersice\04. Caesar Cipher\obj\Debug\net5.0\04. Caesar Cipher.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\14.Text Processing\Text Processing Exersice\04. Caesar Cipher\obj\Debug\net5.0\04. Caesar Cipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\stuff\C# Fundamentals\14.Text Processing\Text Processing Exersice\04. Caesar Cipher\obj\Debug\net5.0\04. Caesar Cipher.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\14.Text Processing\Text Processing Exersice\04. Caesar Cipher\obj\Debug\net5.0\04. Caesar Cipher.AssemblyInfo.cs
+C:\Users\why19\Desktop\stuff\C# Fundamentals\14.Text Processing\Text Processing Exersice\04. Caesar Cipher\obj\Debug\net5.0\04. Caesar Cipher.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\14.Text Processing\Text Processing Exersice\04. Caesar Cipher\obj\Debug\net5.0\04. Caesar Cipher.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\14.Text Processing\Text Processing Exersice\04. Caesar Cipher\obj\Debug\net5.0\refint\04. Caesar Cipher.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\14.Text Processing\Text Processing Exersice\04. Caesar Cipher\obj\Debug\net5.0\04. Caesar Cipher.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\14.Text Processing\Text Processing Exersice\04. Caesar Cipher\obj\Debug\net5.0\04. Caesar Cipher.genruntimeconfig.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\14.Text Processing\Text Processing Exersice\04. Caesar Cipher\obj\Debug\net5.0\ref\04. Caesar Cipher.dll
