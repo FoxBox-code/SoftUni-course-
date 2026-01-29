@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\stuff\C# Fundamentals\2.Data Types and Variables\Data Types and Variables\3. Exact Sum of Real Numbers\bin\Debug\net5.0\3. Exact Sum of Real Numbers.exe
+C:\Users\why19\Desktop\stuff\C# Fundamentals\2.Data Types and Variables\Data Types and Variables\3. Exact Sum of Real Numbers\bin\Debug\net5.0\3. Exact Sum of Real Numbers.deps.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\2.Data Types and Variables\Data Types and Variables\3. Exact Sum of Real Numbers\bin\Debug\net5.0\3. Exact Sum of Real Numbers.runtimeconfig.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\2.Data Types and Variables\Data Types and Variables\3. Exact Sum of Real Numbers\bin\Debug\net5.0\3. Exact Sum of Real Numbers.runtimeconfig.dev.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\2.Data Types and Variables\Data Types and Variables\3. Exact Sum of Real Numbers\bin\Debug\net5.0\3. Exact Sum of Real Numbers.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\2.Data Types and Variables\Data Types and Variables\3. Exact Sum of Real Numbers\bin\Debug\net5.0\3. Exact Sum of Real Numbers.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\2.Data Types and Variables\Data Types and Variables\3. Exact Sum of Real Numbers\obj\Debug\net5.0\3. Exact Sum of Real Numbers.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\2.Data Types and Variables\Data Types and Variables\3. Exact Sum of Real Numbers\obj\Debug\net5.0\3. Exact Sum of Real Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\stuff\C# Fundamentals\2.Data Types and Variables\Data Types and Variables\3. Exact Sum of Real Numbers\obj\Debug\net5.0\3. Exact Sum of Real Numbers.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\2.Data Types and Variables\Data Types and Variables\3. Exact Sum of Real Numbers\obj\Debug\net5.0\3. Exact Sum of Real Numbers.AssemblyInfo.cs
+C:\Users\why19\Desktop\stuff\C# Fundamentals\2.Data Types and Variables\Data Types and Variables\3. Exact Sum of Real Numbers\obj\Debug\net5.0\3. Exact Sum of Real Numbers.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\2.Data Types and Variables\Data Types and Variables\3. Exact Sum of Real Numbers\obj\Debug\net5.0\3. Exact Sum of Real Numbers.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\2.Data Types and Variables\Data Types and Variables\3. Exact Sum of Real Numbers\obj\Debug\net5.0\refint\3. Exact Sum of Real Numbers.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\2.Data Types and Variables\Data Types and Variables\3. Exact Sum of Real Numbers\obj\Debug\net5.0\3. Exact Sum of Real Numbers.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\2.Data Types and Variables\Data Types and Variables\3. Exact Sum of Real Numbers\obj\Debug\net5.0\3. Exact Sum of Real Numbers.genruntimeconfig.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\2.Data Types and Variables\Data Types and Variables\3. Exact Sum of Real Numbers\obj\Debug\net5.0\ref\3. Exact Sum of Real Numbers.dll
