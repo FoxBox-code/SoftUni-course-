@@ -1,0 +1,16 @@
+C:\Users\why19\Desktop\stuff\C# Fundamentals\17.Regular Expressions - exersice\Regular expressions exersice\02.RaceRedux\bin\Debug\net5.0\02.RaceRedux.exe
+C:\Users\why19\Desktop\stuff\C# Fundamentals\17.Regular Expressions - exersice\Regular expressions exersice\02.RaceRedux\bin\Debug\net5.0\02.RaceRedux.deps.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\17.Regular Expressions - exersice\Regular expressions exersice\02.RaceRedux\bin\Debug\net5.0\02.RaceRedux.runtimeconfig.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\17.Regular Expressions - exersice\Regular expressions exersice\02.RaceRedux\bin\Debug\net5.0\02.RaceRedux.runtimeconfig.dev.json
+C:\Users\why19\Desktop\stuff\C# Fundamentals\17.Regular Expressions - exersice\Regular expressions exersice\02.RaceRedux\bin\Debug\net5.0\02.RaceRedux.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\17.Regular Expressions - exersice\Regular expressions exersice\02.RaceRedux\bin\Debug\net5.0\02.RaceRedux.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\17.Regular Expressions - exersice\Regular expressions exersice\02.RaceRedux\obj\Debug\net5.0\02.RaceRedux.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\17.Regular Expressions - exersice\Regular expressions exersice\02.RaceRedux\obj\Debug\net5.0\02.RaceRedux.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\stuff\C# Fundamentals\17.Regular Expressions - exersice\Regular expressions exersice\02.RaceRedux\obj\Debug\net5.0\02.RaceRedux.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\17.Regular Expressions - exersice\Regular expressions exersice\02.RaceRedux\obj\Debug\net5.0\02.RaceRedux.AssemblyInfo.cs
+C:\Users\why19\Desktop\stuff\C# Fundamentals\17.Regular Expressions - exersice\Regular expressions exersice\02.RaceRedux\obj\Debug\net5.0\02.RaceRedux.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\17.Regular Expressions - exersice\Regular expressions exersice\02.RaceRedux\obj\Debug\net5.0\02.RaceRedux.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\17.Regular Expressions - exersice\Regular expressions exersice\02.RaceRedux\obj\Debug\net5.0\refint\02.RaceRedux.dll
+C:\Users\why19\Desktop\stuff\C# Fundamentals\17.Regular Expressions - exersice\Regular expressions exersice\02.RaceRedux\obj\Debug\net5.0\02.RaceRedux.pdb
+C:\Users\why19\Desktop\stuff\C# Fundamentals\17.Regular Expressions - exersice\Regular expressions exersice\02.RaceRedux\obj\Debug\net5.0\02.RaceRedux.genruntimeconfig.cache
+C:\Users\why19\Desktop\stuff\C# Fundamentals\17.Regular Expressions - exersice\Regular expressions exersice\02.RaceRedux\obj\Debug\net5.0\ref\02.RaceRedux.dll
