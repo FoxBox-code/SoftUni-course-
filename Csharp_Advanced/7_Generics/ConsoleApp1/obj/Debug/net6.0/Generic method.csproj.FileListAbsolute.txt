@@ -1,0 +1,15 @@
+C:\Users\why19\Desktop\stuff\C# Advanced\8.Generics\Generics\ConsoleApp1\bin\Debug\net6.0\Generic method.exe
+C:\Users\why19\Desktop\stuff\C# Advanced\8.Generics\Generics\ConsoleApp1\bin\Debug\net6.0\Generic method.deps.json
+C:\Users\why19\Desktop\stuff\C# Advanced\8.Generics\Generics\ConsoleApp1\bin\Debug\net6.0\Generic method.runtimeconfig.json
+C:\Users\why19\Desktop\stuff\C# Advanced\8.Generics\Generics\ConsoleApp1\bin\Debug\net6.0\Generic method.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\8.Generics\Generics\ConsoleApp1\bin\Debug\net6.0\Generic method.pdb
+C:\Users\why19\Desktop\stuff\C# Advanced\8.Generics\Generics\ConsoleApp1\obj\Debug\net6.0\Generic method.csproj.AssemblyReference.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\8.Generics\Generics\ConsoleApp1\obj\Debug\net6.0\Generic method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\why19\Desktop\stuff\C# Advanced\8.Generics\Generics\ConsoleApp1\obj\Debug\net6.0\Generic method.AssemblyInfoInputs.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\8.Generics\Generics\ConsoleApp1\obj\Debug\net6.0\Generic method.AssemblyInfo.cs
+C:\Users\why19\Desktop\stuff\C# Advanced\8.Generics\Generics\ConsoleApp1\obj\Debug\net6.0\Generic method.csproj.CoreCompileInputs.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\8.Generics\Generics\ConsoleApp1\obj\Debug\net6.0\Generic method.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\8.Generics\Generics\ConsoleApp1\obj\Debug\net6.0\refint\Generic method.dll
+C:\Users\why19\Desktop\stuff\C# Advanced\8.Generics\Generics\ConsoleApp1\obj\Debug\net6.0\Generic method.pdb
+C:\Users\why19\Desktop\stuff\C# Advanced\8.Generics\Generics\ConsoleApp1\obj\Debug\net6.0\Generic method.genruntimeconfig.cache
+C:\Users\why19\Desktop\stuff\C# Advanced\8.Generics\Generics\ConsoleApp1\obj\Debug\net6.0\ref\Generic method.dll
